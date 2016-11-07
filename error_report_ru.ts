@@ -5,25 +5,27 @@
     <name>ErrorReport</name>
     <message>
         <source>TeamSpeak 3 Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка TeamSpeak 3</translation>
     </message>
     <message>
         <source>Do you want to send the error report?</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправить отчет об ошибке?</translation>
     </message>
     <message>
         <source>The TeamSpeak 3 client has crashed. There is a debug file which will help
 the developers to fix the problem. Please type a description in the text
 field to reproduce the issue.</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент TeamSpeak 3 завершен аварийно. Создан отладочный файл, который
+может помочь разработчикам устранить проблему. Пожалуйста, опишите свои действия, которые
+помогут воспроизвести данную неполадку.</translation>
     </message>
     <message>
         <source>Thank you for your report!</source>
-        <translation type="unfinished"></translation>
+        <translation>Спасибо за содействие!</translation>
     </message>
     <message>
         <source>An error occured while transmitting the data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка произошла во время передачи данных.</translation>
     </message>
 </context>
 </TS>
