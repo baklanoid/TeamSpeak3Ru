@@ -2546,349 +2546,350 @@ p, li { white-space: pre-wrap; }
     <name>ExternalLinkWarningDialog</name>
     <message>
         <source>External link</source>
-        <translation type="unfinished"></translation>
+        <translation>Внешняя ссылка</translation>
     </message>
     <message>
         <source>I know the risk, do not show again</source>
-        <translation type="unfinished"></translation>
+        <translation>Я принимаю риски, не напоминать</translation>
     </message>
     <message>
         <source>Open link</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть ссылку</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <source>&lt;p style=&quot;font-weight:bold;color:red;&quot;&gt;ATTENTION&lt;/p&gt;&lt;p&gt;You are about to open an external link to:&lt;br&gt;&lt;strong&gt;%1&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;TeamSpeak cannot verify nor be held liable for the content. Be cautious when visiting websites and/or downloading files from unknown sources as they may be harmful to your computer and your security.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p style=&quot;font-weight:bold;color:red;&quot;&gt;ВНИМАНИЕ&lt;/p&gt;&lt;p&gt;Вы собираетесь перейти по внешней ссылке:&lt;br&gt;&lt;strong&gt;%1&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;TeamSpeak не может гарантировать вам безопасность. Будьте осторожны при переходе по ссылкам и запуске загруженных файлов.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Copy link to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Скопировать ссылку в буфер обмена</translation>
     </message>
 </context>
 <context>
     <name>FileBrowser</name>
     <message>
         <source>File Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Файлы</translation>
     </message>
     <message>
         <source>Go up a directory (Alt+Up)</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейти вверх (Alt+Up)</translation>
     </message>
     <message>
         <source>Go up to root directory (Home)</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейти в корневой каталог (Home)</translation>
     </message>
     <message>
         <source>Filter files (Ctrl+F)</source>
-        <translation type="unfinished"></translation>
+        <translation>Фильтр файлов (Ctrl+F)</translation>
     </message>
     <message>
         <source>Display files as icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Отображать иконки файлов</translation>
     </message>
     <message>
         <source>Detailed view</source>
-        <translation type="unfinished"></translation>
+        <translation>Подробный вид</translation>
     </message>
     <message>
         <source>Clear and hide filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистить и убрать фильтр</translation>
     </message>
     <message>
         <source>&amp;Search:</source>
-        <translation type="unfinished"></translation>
+        <translation>Поиск:</translation>
     </message>
     <message>
         <source>Download Folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>Каталог загрузки:</translation>
     </message>
     <message>
         <source>Open download folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть каталог загрузок</translation>
     </message>
     <message>
         <source>Change download folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить каталог загрузок</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Скачать</translation>
     </message>
     <message>
         <source>Download selected files</source>
-        <translation type="unfinished"></translation>
+        <translation>Скачать выбранные файлы</translation>
     </message>
     <message>
         <source>Download All</source>
-        <translation type="unfinished"></translation>
+        <translation>Скачать Все</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <source>Delete selected files (Del)</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить выбранные файлы (Del)</translation>
     </message>
     <message>
         <source>Create Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать каталог</translation>
     </message>
     <message>
         <source>Upload Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка файлов на сервер</translation>
     </message>
     <message>
         <source>Upload files</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка на сервер</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Переименовать</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновить</translation>
     </message>
     <message>
         <source>Refresh current directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновить текущий каталог</translation>
     </message>
     <message>
         <source>Copy URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Скопировать URL</translation>
     </message>
     <message>
         <source>Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Каталог</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл</translation>
     </message>
     <message numerus="yes">
         <source>%n directory(s)</source>
-        <translation type="unfinished">
+        <translation>%n каталогов
             <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n file(s)</source>
-        <translation type="unfinished">
+        <translation>%n файлов
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source> and </source>
-        <translation type="unfinished"></translation>
+        <translation> и </translation>
     </message>
     <message numerus="yes">
         <source>Do you really want to delete this file(s)?</source>
-        <translation type="unfinished">
+        <translation>Удалить эти файлы?
             <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Do you really want to delete the folder(s)?
 All files inside the deleted folder(s) will be lost.</source>
-        <translation type="unfinished">
+        <translation>Удалить заданный каталог?
+Все файлы внутри него также будут удалены.
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Question</source>
-        <translation type="unfinished"></translation>
+        <translation>Вопрос</translation>
     </message>
     <message>
         <source>File Browser - %1 - %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Файлы - %1 - %2</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип</translation>
     </message>
     <message>
         <source>Last Changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменен</translation>
     </message>
     <message>
         <source>Select download folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать каталог загрузки</translation>
     </message>
     <message>
         <source>Folder name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя каталога:</translation>
     </message>
     <message>
         <source>Upload file contains bad character, skipping upload &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Загруженный файл содержит недопустимые символы, пропускаю его &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
     <name>FileTransferTreeView</name>
     <message>
         <source>Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Прогресс</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Описание</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть каталог</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <source>Halt</source>
-        <translation type="unfinished"></translation>
+        <translation>Приостановить</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезагрузить</translation>
     </message>
     <message>
         <source>Resume</source>
-        <translation type="unfinished"></translation>
+        <translation>Продолжить</translation>
     </message>
     <message>
         <source>waiting</source>
-        <translation type="unfinished"></translation>
+        <translation>ожидание</translation>
     </message>
     <message>
         <source>&quot;%1&quot; - waiting</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; - ожидание</translation>
     </message>
     <message>
         <source>Queue &quot;%1&quot; %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Очередь &quot;%1&quot; %2</translation>
     </message>
     <message>
         <source>- waiting</source>
-        <translation type="unfinished"></translation>
+        <translation>- ожидание</translation>
     </message>
     <message>
         <source>canceled</source>
-        <translation type="unfinished"></translation>
+        <translation>отменено</translation>
     </message>
     <message>
         <source>Queue %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Очередь %1</translation>
     </message>
     <message>
         <source>Upload finished: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка выполнена: %1</translation>
     </message>
     <message>
         <source>Download finished: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка выполнена: %1</translation>
     </message>
     <message>
         <source>skipped</source>
-        <translation type="unfinished"></translation>
+        <translation>пропущен</translation>
     </message>
     <message>
         <source>finished in %1 (average %2/s)</source>
-        <translation type="unfinished"></translation>
+        <translation>выполнено за %1 (в среднем %2/s)</translation>
     </message>
     <message>
         <source>finished</source>
-        <translation type="unfinished"></translation>
+        <translation>завершено</translation>
     </message>
     <message>
         <source>error</source>
-        <translation type="unfinished"></translation>
+        <translation>ошибка</translation>
     </message>
     <message>
         <source>failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>не выполнено: %1</translation>
     </message>
     <message>
         <source>paused</source>
-        <translation type="unfinished"></translation>
+        <translation>приостановлено</translation>
     </message>
     <message>
         <source>uploading</source>
-        <translation type="unfinished"></translation>
+        <translation>загружаю</translation>
     </message>
     <message>
         <source>downloading</source>
-        <translation type="unfinished"></translation>
+        <translation>загружаю</translation>
     </message>
     <message>
         <source>/%1 %2 remaining</source>
-        <translation type="unfinished"></translation>
+        <translation>/%1 %2 осталось</translation>
     </message>
     <message>
         <source>blocked</source>
-        <translation type="unfinished"></translation>
+        <translation>заблокировано</translation>
     </message>
     <message>
         <source>Active filetransfer</source>
-        <translation type="unfinished"></translation>
+        <translation>Активная передача</translation>
     </message>
     <message numerus="yes">
         <source>Found %n filetransfer(s) in progess which will be aborted if you press Ok.</source>
-        <translation type="unfinished">
+        <translation>Сейчас выполняется %n загрузок, которые будут отменены если нажать OK.
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Do you want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Продолжить?</translation>
     </message>
     <message>
         <source>Confirmation</source>
-        <translation type="unfinished"></translation>
+        <translation>Подтверждение</translation>
     </message>
     <message>
         <source>Do you really want to delete
 the file &apos;%1&apos; from your computer?</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить файл &apos;%1&apos; с вашего компьютера?</translation>
     </message>
     <message>
         <source>Do you really want to delete the
 selected files from your computer?</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить выбранные файлы с компьютера?</translation>
     </message>
 </context>
 <context>
     <name>FileTransferView</name>
     <message>
         <source>Upload Limit - Slots:</source>
-        <translation type="unfinished"></translation>
+        <translation>Слоты загрузки (upload):</translation>
     </message>
     <message>
         <source>KiB/s</source>
@@ -2896,45 +2897,45 @@ selected files from your computer?</source>
     </message>
     <message>
         <source>Speed: </source>
-        <translation type="unfinished"></translation>
+        <translation>Скорость</translation>
     </message>
     <message>
         <source>Download Limit - Slots:</source>
-        <translation type="unfinished"></translation>
+        <translation>Слоты загрузки (download):</translation>
     </message>
     <message>
         <source>Clean Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистить</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <source>File Transfers</source>
-        <translation type="unfinished"></translation>
+        <translation>Передачи файлов</translation>
     </message>
     <message>
         <source>Remove all transfers which are not running</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить все неактивные передачи</translation>
     </message>
     <message numerus="yes">
         <source>Upload limited to %n slot(s)</source>
-        <translation type="unfinished">
+        <translation>Загрузка на сервер ограничена для %n слотов
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>and unlimited speed.</source>
-        <translation type="unfinished"></translation>
+        <translation>неограниченная скорость.</translation>
     </message>
     <message>
         <source>and max speed of %1 KiB/s.</source>
-        <translation type="unfinished"></translation>
+        <translation>максимальная скорость %1 KiB/s.</translation>
     </message>
     <message numerus="yes">
         <source>Download limited to %n slot(s)</source>
-        <translation type="unfinished">
+        <translation>Загрузка с сервера ограничена для %n слотов
             <numerusform></numerusform>
         </translation>
     </message>
@@ -2948,7 +2949,7 @@ selected files from your computer?</source>
     </message>
     <message>
         <source>%1% download</source>
-        <translation type="unfinished"></translation>
+        <translation>%1% загружено</translation>
     </message>
     <message>
         <source>Up: %1</source>
@@ -2956,7 +2957,7 @@ selected files from your computer?</source>
     </message>
     <message>
         <source>%1% upload</source>
-        <translation type="unfinished"></translation>
+        <translation>%1% загружено</translation>
     </message>
 </context>
 <context>
