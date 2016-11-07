@@ -649,8 +649,8 @@ Inserting a modified copy instead.</source>
     </message>
     <message numerus="yes">
         <source>Do you really want to delete the selected ban(s)?</source>
-        <translation>Вы действительно желаете удалить выбранные баны?
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Вы действительно желаете удалить выбранные баны?</numerusform>
         </translation>
     </message>
     <message>
@@ -825,8 +825,8 @@ servers will not be cleared.</source>
     </message>
     <message numerus="yes">
         <source>%n file(s)</source>
-        <translation>%n файлов
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n файлов</numerusform>
         </translation>
     </message>
     <message>
@@ -835,8 +835,8 @@ servers will not be cleared.</source>
     </message>
     <message numerus="yes">
         <source>Deleted %n file(s) with a total size of %1.</source>
-        <translation>Удалено %n файлов, общий размер %1.
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Удалено %n файлов, общий размер %1.</numerusform>
         </translation>
     </message>
     <message>
@@ -1341,8 +1341,8 @@ servers will not be cleared.</source>
     </message>
     <message numerus="yes">
         <source>Delete client(s)</source>
-        <translation>Удаление клиентов
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Удаление клиентов</numerusform>
         </translation>
     </message>
     <message>
@@ -1503,8 +1503,8 @@ Press Enter to apply filter.</source>
     </message>
     <message numerus="yes">
         <source>has %n complaint(s)</source>
-        <translation>имеет %n жалоб
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>имеет %n жалоб</numerusform>
         </translation>
     </message>
     <message>
@@ -1521,8 +1521,8 @@ Press Enter to apply filter.</source>
     </message>
     <message numerus="yes">
         <source>Do you really want to remove the selected complain(s)?</source>
-        <translation>Удалить выбранные жалобы?
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Удалить выбранные жалобы?</numerusform>
         </translation>
     </message>
 </context>
@@ -1990,8 +1990,8 @@ There can be only one default channel for the whole server.</source>
     </message>
     <message numerus="yes">
         <source>&lt;p&gt;A parent channel has a delete delay lower than this channel (%n second(s)).&lt;/p&gt;</source>
-        <translation>&lt;p&gt;В родительском канале задержка удаления ниже чем в этом (%n секунд(s)).&lt;/p&gt;
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>&lt;p&gt;В родительском канале задержка удаления ниже чем в этом (%n секунд(s)).&lt;/p&gt;</numerusform>
         </translation>
     </message>
     <message>
@@ -2677,14 +2677,14 @@ p, li { white-space: pre-wrap; }
     </message>
     <message numerus="yes">
         <source>%n directory(s)</source>
-        <translation>%n каталогов
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n каталогов</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n file(s)</source>
-        <translation>%n файлов
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n файлов</numerusform>
         </translation>
     </message>
     <message>
@@ -2693,16 +2693,16 @@ p, li { white-space: pre-wrap; }
     </message>
     <message numerus="yes">
         <source>Do you really want to delete this file(s)?</source>
-        <translation>Удалить эти файлы?
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Удалить эти файлы?</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Do you really want to delete the folder(s)?
 All files inside the deleted folder(s) will be lost.</source>
-        <translation>Удалить заданный каталог?
-Все файлы внутри него также будут удалены.
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Удалить заданный каталог?
+Все файлы внутри него также будут удалены.</numerusform>
         </translation>
     </message>
     <message>
@@ -2862,8 +2862,8 @@ All files inside the deleted folder(s) will be lost.</source>
     </message>
     <message numerus="yes">
         <source>Found %n filetransfer(s) in progess which will be aborted if you press Ok.</source>
-        <translation>Сейчас выполняется %n загрузок, которые будут отменены если нажать OK.
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Сейчас выполняется %n загрузок, которые будут отменены если нажать OK.</numerusform>
         </translation>
     </message>
     <message>
@@ -2921,8 +2921,8 @@ selected files from your computer?</source>
     </message>
     <message numerus="yes">
         <source>Upload limited to %n slot(s)</source>
-        <translation>Загрузка на сервер ограничена для %n слотов
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Загрузка на сервер ограничена для %n слотов</numerusform>
         </translation>
     </message>
     <message>
@@ -2935,8 +2935,8 @@ selected files from your computer?</source>
     </message>
     <message numerus="yes">
         <source>Download limited to %n slot(s)</source>
-        <translation>Загрузка с сервера ограничена для %n слотов
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Загрузка с сервера ограничена для %n слотов</numerusform>
         </translation>
     </message>
     <message>

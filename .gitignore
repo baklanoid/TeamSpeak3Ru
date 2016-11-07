@@ -1,6 +1,7 @@
 # my
 *.qm
 *.swp
+tests/
 
 # Windows image file caches
 Thumbs.db
