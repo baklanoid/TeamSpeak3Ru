@@ -1681,11 +1681,11 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Контроль</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Неизвестно</translation>
     </message>
     <message>
         <source>Connection Info - %1</source>
@@ -1878,11 +1878,11 @@ There can be only one default channel for the whole server.</source>
     </message>
     <message>
         <source>&amp;Upload:</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка(up):</translation>
     </message>
     <message>
         <source>&amp;Download:</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка(down)</translation>
     </message>
     <message>
         <source>&amp;Rename:</source>
@@ -2086,82 +2086,82 @@ There can be only one default channel for the whole server.</source>
     <name>CustomGraphicsItem</name>
     <message>
         <source>Hide Item</source>
-        <translation type="unfinished"></translation>
+        <translation>Скрыть элемент</translation>
     </message>
     <message>
         <source>Remove Item</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить элемент</translation>
     </message>
 </context>
 <context>
     <name>CustomizeToolbar</name>
     <message>
         <source>Customize Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройка тулбара</translation>
     </message>
     <message>
         <source>Reset to Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Сброс настроек</translation>
     </message>
     <message>
         <source>Available actions:</source>
-        <translation type="unfinished"></translation>
+        <translation>Доступные действия:</translation>
     </message>
     <message>
         <source>Selected actions:</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбранные действия:</translation>
     </message>
     <message>
         <source>Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Разделитель</translation>
     </message>
     <message>
         <source>Connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Соединение</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Статус</translation>
     </message>
     <message>
         <source>Dialogs</source>
-        <translation type="unfinished"></translation>
+        <translation>Диалоги</translation>
     </message>
     <message>
         <source>Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Запись</translation>
     </message>
     <message>
         <source>Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Права доступа</translation>
     </message>
     <message>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Канал</translation>
     </message>
     <message>
         <source>Client</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент</translation>
     </message>
     <message>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Сервер</translation>
     </message>
     <message>
         <source>Misc</source>
-        <translation type="unfinished"></translation>
+        <translation>Разное</translation>
     </message>
     <message>
         <source>Please Confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>Пожалуйста подтвердите</translation>
     </message>
     <message>
         <source>Do you really want to reset the toolbar?</source>
-        <translation type="unfinished"></translation>
+        <translation>Сбросить настройки тулбара?</translation>
     </message>
     <message>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation>Поиск...</translation>
     </message>
 </context>
 <context>
@@ -2170,324 +2170,330 @@ There can be only one default channel for the whole server.</source>
         <source>Zero and all negative values cannot cause
 clipping and distortion, and are preferred
 for optimal audio quality.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нулевое и негативные значения не могут привести
+к пропаданию или искажению сигнала, и предпочтительны
+для оптимального качества</translation>
     </message>
     <message>
         <source>Values greater than zero and less than
 +6 dB might cause moderate clipping and
 distortion, but should still be within
 acceptable bounds.</source>
-        <translation type="unfinished"></translation>
+        <translation>Значения выше нуля и менее +6 dB
+могут привести к существенному пропаданию и искажению аудио,
+однако они не выходят за допустимый предел.</translation>
     </message>
     <message>
         <source>Values greater than +6 dB will cause
 clipping and distortion that will negatively
 affect your audio quality. It is advised
 to chose lower values.</source>
-        <translation type="unfinished"></translation>
+        <translation>Значения свыше +6 dB приведук к
+пропаданию и искажению аудиосигнала, что негативно скажется на качестве.
+Рекомендуется не превышать этот порог.</translation>
     </message>
 </context>
 <context>
     <name>DebugLogViewer</name>
     <message>
         <source>Client Debug Log</source>
-        <translation type="unfinished"></translation>
+        <translation>Отладочный лог клиента</translation>
     </message>
 </context>
 <context>
     <name>DownloadSetupDialog</name>
     <message>
         <source>Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>Закачки</translation>
     </message>
     <message>
         <source>Configure Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>Настроить загрузки</translation>
     </message>
     <message>
         <source>Select download folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать каталог загрузки</translation>
     </message>
 </context>
 <context>
     <name>EasyConfirmDialog</name>
     <message>
         <source>Apply permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Применить полномочия</translation>
     </message>
     <message>
         <source>&lt;p&gt;This group contains additional permissions which have not been set by this dialog.&lt;/p&gt;&lt;p&gt;Do you want to keep or remove these permissions?&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Эта группа содержит дополнительные привилегии не затронутые диалогом.&lt;/p&gt;&lt;p&gt;Вы желаете сохранить или удалить эти привилегии?&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Keep</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <source>&amp;More info</source>
-        <translation type="unfinished"></translation>
+        <translation>Подробнее</translation>
     </message>
     <message>
         <source>&amp;Less info</source>
-        <translation type="unfinished"></translation>
+        <translation>Короче</translation>
     </message>
 </context>
 <context>
     <name>EasyPermissionsWidget</name>
     <message>
         <source>This group will be set as:</source>
-        <translation type="unfinished"></translation>
+        <translation>Группа:</translation>
     </message>
     <message>
         <source>Icon:</source>
-        <translation type="unfinished"></translation>
+        <translation>Иконка:</translation>
     </message>
     <message>
         <source>Set group icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Иконка группы.</translation>
     </message>
     <message>
         <source>Group options</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки группы</translation>
     </message>
     <message>
         <source>Show name in tree:</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя в списке:</translation>
     </message>
     <message>
         <source>Do not show</source>
-        <translation type="unfinished"></translation>
+        <translation>Не отображать</translation>
     </message>
     <message>
         <source>Show before name</source>
-        <translation type="unfinished"></translation>
+        <translation>Отображать перед</translation>
     </message>
     <message>
         <source>Show behind name</source>
-        <translation type="unfinished"></translation>
+        <translation>Отображать после</translation>
     </message>
     <message>
         <source>Permissions of this group cannot be restricted by channelgroups or channels</source>
-        <translation type="unfinished"></translation>
+        <translation>Права доступа этой группы не могут быть ограничены правами канала</translation>
     </message>
     <message>
         <source>Administrate the Server (edit Settings, use reserved slots)</source>
-        <translation type="unfinished"></translation>
+        <translation>Администрирование сервера (настройки, слоты резервации)</translation>
     </message>
     <message>
         <source>Client can edit servername, welcomemessage, password etc.</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент может изменить имя сервера, приветствие, пароль и т.д.</translation>
     </message>
     <message>
         <source>Client can edit server host settings (maxclients, filetransfer quotas etc.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент может изменить настройки сервера (число клиентов, квоты и пр.)</translation>
     </message>
     <message>
         <source>Client can use reserved slots</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент может использовать резервные слоты</translation>
     </message>
     <message>
         <source>Client can view server informations</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент может просматривать подробную информацию о сервере</translation>
     </message>
     <message>
         <source>Manage Groups (create, delete, modify)</source>
-        <translation type="unfinished"></translation>
+        <translation>Управление Группами (создание, удаление, изменение)</translation>
     </message>
     <message>
         <source>Client can create and delete Groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент может создавать и удалять Группы</translation>
     </message>
     <message>
         <source>Client can change channel, client and group icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент может задать иконку для канала, клиента или группы</translation>
     </message>
     <message>
         <source>Client can view permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент может просматривать права доступа</translation>
     </message>
     <message>
         <source>Assign and Remove Member (add user, manage token)</source>
-        <translation type="unfinished"></translation>
+        <translation>Назначение и удаление участников</translation>
     </message>
     <message>
         <source>Client can add user to</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент может добавить пользователя</translation>
     </message>
     <message>
         <source>Client can manage Privilege Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент может управлять ключами доступа</translation>
     </message>
     <message>
         <source>Administrate Clients (move, kick, ban)</source>
-        <translation type="unfinished"></translation>
+        <translation>Администрирование (перемещение, кик, бан)</translation>
     </message>
     <message>
         <source>Client can move</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент может перемещать</translation>
     </message>
     <message>
         <source>Client can kick from channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент может отключить участника от канала (кик)</translation>
     </message>
     <message>
         <source>Client can ban</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент может забанить</translation>
     </message>
     <message>
         <source>Client can change client descriptions</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент может менять описание других клиентов</translation>
     </message>
     <message>
         <source>Client can grant talk power</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент может разрешить говорить</translation>
     </message>
     <message>
         <source>Client can kick from server</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент может отключить участника от сервера (кик)</translation>
     </message>
     <message>
         <source>Manage Channels (create, edit, delete)</source>
-        <translation type="unfinished"></translation>
+        <translation>Управление каналами (создание, изменение, удаление)</translation>
     </message>
     <message>
         <source>Client can create channeltype</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент может создать канал</translation>
     </message>
     <message>
         <source>Client can delete channeltype</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент может удалить канал</translation>
     </message>
     <message>
         <source>Client can edit channels</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент может изменить канал</translation>
     </message>
     <message>
         <source>Basics (send messages, set avatar, subscribe channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>Основные (чат, аватар, подписка на канал)</translation>
     </message>
     <message>
         <source>Client can send messages to</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент может отправлять сообщения</translation>
     </message>
     <message>
         <source>Client can set avatar</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент может задать аватар</translation>
     </message>
     <message>
         <source>Client can use channel commander</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент может использовать функции Channel Commander</translation>
     </message>
     <message>
         <source>Client can subscribe channels</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент может подписаться на канал</translation>
     </message>
     <message>
         <source>Client can assign priority speaker</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент может выбрать приоритетного спикера (того кого будет слышать поверх других)</translation>
     </message>
     <message>
         <source>Filetransfer (manage, upload, download)</source>
-        <translation type="unfinished"></translation>
+        <translation>Передача файлов (управление, загрузка)</translation>
     </message>
     <message>
         <source>Client can manage files</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент может управлять файлами</translation>
     </message>
     <message>
         <source>Client can upload files</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент может загружать файлы на сервер</translation>
     </message>
     <message>
         <source>Client can download files</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент может загружать файлы с сервера</translation>
     </message>
     <message>
         <source>Switch to advanced permissions display</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать расширенные права доступа</translation>
     </message>
     <message>
         <source>Discard</source>
-        <translation type="unfinished"></translation>
+        <translation>Отменить</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Применить</translation>
     </message>
     <message>
         <source>No permissions to view this group.</source>
-        <translation type="unfinished"></translation>
+        <translation>Отказано в доступе (просмотр привилегий этой группы)</translation>
     </message>
     <message>
         <source>Edit Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить иконку</translation>
     </message>
     <message>
         <source>Remove Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить иконку</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Неизвестно</translation>
     </message>
     <message>
         <source>Permissions reverted</source>
-        <translation type="unfinished"></translation>
+        <translation>Полномочия отозваны</translation>
     </message>
     <message>
         <source>Permissions applied</source>
-        <translation type="unfinished"></translation>
+        <translation>Полномочия установлены</translation>
     </message>
     <message>
         <source>Forbidden</source>
-        <translation type="unfinished"></translation>
+        <translation>Запрещено</translation>
     </message>
     <message>
         <source>&lt;p&gt;You are about to remove grant permissions from a Server Admin group&lt;br&gt;and are a member of this group.&lt;/p&gt;&lt;p&gt;As this might prevent you from being able to add this permission again,&lt;br&gt;this operation is prohibited.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Вы собираетесь отобрать разрешения у группы администраторов&lt;br&gt;являясь при этом члено этой группы.&lt;/p&gt;&lt;p&gt;Это может привести к тому, что вы не сможете откатить привилегии обратно,&lt;br&gt;поэтому, это действие заблокировано.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Отменено</translation>
     </message>
     <message>
         <source>Applying permissions...</source>
-        <translation type="unfinished"></translation>
+        <translation>Предоставляю полномочия...</translation>
     </message>
     <message>
         <source>Not all permissions could be applied</source>
-        <translation type="unfinished"></translation>
+        <translation>Не все полномочия могут быть предоставлены</translation>
     </message>
     <message>
         <source>Icon applied</source>
-        <translation type="unfinished"></translation>
+        <translation>Иконка установлена</translation>
     </message>
     <message>
         <source>Icon removed</source>
-        <translation type="unfinished"></translation>
+        <translation>Иконка удалена</translation>
     </message>
     <message>
         <source>Icon could not be applied</source>
-        <translation type="unfinished"></translation>
+        <translation>Иконка не может быть установлена</translation>
     </message>
     <message>
         <source>Icon could not be removed</source>
-        <translation type="unfinished"></translation>
+        <translation>Иконка не может быть удалена</translation>
     </message>
 </context>
 <context>
     <name>EnumerationDialog</name>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Инфо</translation>
     </message>
     <message>
         <source>The TeamSpeak Hotkey System is probably not working properly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Горячие клавиши, возможно, не работают как предполагается. </translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -2499,41 +2505,41 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Don&apos;t show again</source>
-        <translation type="unfinished"></translation>
+        <translation>Не показывать снова</translation>
     </message>
     <message>
         <source>Enumerating Input Devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Перечисляю устройства ввода</translation>
     </message>
     <message>
         <source>Working</source>
-        <translation type="unfinished"></translation>
+        <translation>Обработка</translation>
     </message>
 </context>
 <context>
     <name>EnumerationDialog_Windows</name>
     <message>
         <source>&lt;p&gt;&lt;strong&gt;Enumerating Input devices is taking longer than it should.&lt;/strong&gt;&lt;/p&gt;This might be a hardware problem with one of the input devices or buggy drivers.&lt;BR&gt;Find which device is causing the issue by selectively unplugging Input Devices&lt;BR&gt;(Keyboard,Mouse, Joystick...) and starting TeamSpeak until this dialog does no&lt;BR&gt;longer appear. Then try and find updated drivers for the device causing the issues.&lt;BR&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;strong&gt;Перечисление устройств ввода работает дольше чем продполагалось.&lt;/strong&gt;&lt;/p&gt;Возможно причина в оборудовании или ошибке драйвера.&lt;BR&gt;Определите проблемное устройство последовательно отключая&lt;BR&gt;(Клавиатуру, Мышь, Джойстик...) и проверяя результат в TeamSpeak&lt;BR&gt;пока не исчезнет данное предупреждение. Попробуйте обновить драйвер для проблемного устройства.&lt;BR&gt;</translation>
     </message>
     <message>
         <source>&amp;Continue in Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Продолжить в фоне</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Complete</source>
-        <translation type="unfinished"></translation>
+        <translation>Завершено</translation>
     </message>
 </context>
 <context>
     <name>EscLineEdit</name>
     <message>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation>Поиск...</translation>
     </message>
 </context>
 <context>
