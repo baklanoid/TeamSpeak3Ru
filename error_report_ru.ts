@@ -25,7 +25,7 @@ field to reproduce the issue.</source>
     </message>
     <message>
         <source>An error occured while transmitting the data.</source>
-        <translation>Ошибка произошла во время передачи данных.</translation>
+        <translation>Произошла ошибка во время передачи данных.</translation>
     </message>
 </context>
 </TS>
