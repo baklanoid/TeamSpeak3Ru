@@ -2972,7 +2972,7 @@ selected files from your computer?</source>
     </message>
     <message>
         <source>Ignore and Hide Defaults</source>
-        <translation>Игнорировать настройки по-умолчанию</translation>
+        <translation>Игнорирование</translation>
     </message>
     <message>
         <source>Friends</source>
@@ -3040,7 +3040,7 @@ selected files from your computer?</source>
     </message>
     <message>
         <source>Nickname Display Defaults</source>
-        <translation>Отображение Никнэйма</translation>
+        <translation>Никнэйм</translation>
     </message>
     <message>
         <source>Custom name and nickname</source>
@@ -3110,196 +3110,197 @@ selected files from your computer?</source>
     <name>FriendFoeListSeenItem</name>
     <message>
         <source>%1 on %2 (%3)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 на %2 (%3)</translation>
     </message>
 </context>
 <context>
     <name>FriendFoeManager</name>
     <message>
         <source>Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Контакты</translation>
     </message>
     <message>
         <source>Drag &amp; Drop users here</source>
-        <translation type="unfinished"></translation>
+        <translation>Перетащите пользователей сюда</translation>
     </message>
     <message>
         <source>Custom &amp;Nickname:</source>
-        <translation type="unfinished"></translation>
+        <translation>Никнэйм:</translation>
     </message>
     <message>
         <source>Enter custom nickname</source>
-        <translation type="unfinished"></translation>
+        <translation>Задайте никнэйм</translation>
     </message>
     <message>
         <source>Apply nickname change</source>
-        <translation type="unfinished"></translation>
+        <translation>Задать никнэйм</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Общие</translation>
     </message>
     <message>
         <source>Mark as neutral</source>
-        <translation type="unfinished"></translation>
+        <translation>Отметить нейтрального</translation>
     </message>
     <message>
         <source>Neutral</source>
-        <translation type="unfinished"></translation>
+        <translation>Нейтральный</translation>
     </message>
     <message>
         <source>Mark as blocked</source>
-        <translation type="unfinished"></translation>
+        <translation>Отметить забокированного</translation>
     </message>
     <message>
         <source>Blocked</source>
-        <translation type="unfinished"></translation>
+        <translation>Заблокированный</translation>
     </message>
     <message>
         <source>Mark as friend</source>
-        <translation type="unfinished"></translation>
+        <translation>Отметить друга</translation>
     </message>
     <message>
         <source>Friend</source>
-        <translation type="unfinished"></translation>
+        <translation>Друг</translation>
     </message>
     <message>
         <source>&amp;Phonetic Nickname:</source>
-        <translation type="unfinished"></translation>
+        <translation>Фонетический никнэйм:</translation>
     </message>
     <message>
         <source>Client nickname written as phonemes (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>Никнэйм клиента написанный фонемами (не обязательно)</translation>
     </message>
     <message>
         <source>Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Отображение</translation>
     </message>
     <message>
         <source>Show custom name and nickname</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать имя и никнэйм</translation>
     </message>
     <message>
         <source>Custom name and nickname</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя и никнэйм</translation>
     </message>
     <message>
         <source>Show only custom name</source>
-        <translation type="unfinished"></translation>
+        <translation>Отображать только имя</translation>
     </message>
     <message>
         <source>Only custom name</source>
-        <translation type="unfinished"></translation>
+        <translation>Только имя</translation>
     </message>
     <message>
         <source>Show nickname only</source>
-        <translation type="unfinished"></translation>
+        <translation>Отображать только никнэйм</translation>
     </message>
     <message>
         <source>Only nickname</source>
-        <translation type="unfinished"></translation>
+        <translation>Только никнэйм</translation>
     </message>
     <message>
         <source>Ignore</source>
-        <translation type="unfinished"></translation>
+        <translation>Игнор</translation>
     </message>
     <message>
         <source>Automaticly mute this person</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматически отключать звук у этого клиента</translation>
     </message>
     <message>
         <source>Mute</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключить звук</translation>
     </message>
     <message>
         <source>Ignore messages this person sends to the server or in channels</source>
-        <translation type="unfinished"></translation>
+        <translation>Игнорировать сообщения этого клиента в чате канала</translation>
     </message>
     <message>
         <source>Ignore server/channel chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Игнорировать чат</translation>
     </message>
     <message>
         <source>Ignore private chat by this person</source>
-        <translation type="unfinished"></translation>
+        <translation>Игнорировать приватный чат от этого клиента</translation>
     </message>
     <message>
         <source>Ignore private chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Игнорировать приватный чат</translation>
     </message>
     <message>
         <source>Ignore pokes this person sends you</source>
-        <translation type="unfinished"></translation>
+        <translation>Игнорировать специальные сообщения от этого клиента</translation>
     </message>
     <message>
         <source>Ignore Pokes</source>
-        <translation type="unfinished"></translation>
+        <translation>Игнорировать "тычки"</translation>
     </message>
     <message>
         <source>Do not download this persons avatar</source>
-        <translation type="unfinished"></translation>
+        <translation>Не загружать аватар этого клиента</translation>
     </message>
     <message>
         <source>Hide avatar</source>
-        <translation type="unfinished"></translation>
+        <translation>Скрыть аватар</translation>
     </message>
     <message>
         <source>Ignore this persons away messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Игнорировать статусные сообщения этого клиента</translation>
     </message>
     <message>
         <source>Hide away message</source>
-        <translation type="unfinished"></translation>
+        <translation>Скрывать статусные сообщения</translation>
     </message>
     <message>
         <source>Whisper</source>
-        <translation type="unfinished"></translation>
+        <translation>Шепот</translation>
     </message>
     <message>
         <source>This contact is allowed to whisper to you
 unless whispering is globally denied for
 everyone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Этот клиент может шептать вам, кроме
+случая, когода шептание на сервере отключено.</translation>
     </message>
     <message>
         <source>Allow whisper</source>
-        <translation type="unfinished"></translation>
+        <translation>Разрешить шепот</translation>
     </message>
     <message>
         <source>This contact is always denied to whisper to you.</source>
-        <translation type="unfinished"></translation>
+        <translation>Этот клиент не может шептать вам.</translation>
     </message>
     <message>
         <source>Deny whisper</source>
-        <translation type="unfinished"></translation>
+        <translation>Запретить шепот</translation>
     </message>
     <message>
         <source>Set default display, ignore and hide options</source>
-        <translation type="unfinished"></translation>
+        <translation>Отображение по-умолчанию, скрыть опции</translation>
     </message>
     <message>
         <source>Set Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Значения по-умолчанию</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя</translation>
     </message>
     <message>
         <source>Last Seen</source>
-        <translation type="unfinished"></translation>
+        <translation>Последний визит</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <source>Apply Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Применить значения по-умолчанию</translation>
     </message>
     <message>
         <source>Copy Unique ID to Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Скопировать уникальный ID в буфер обмена</translation>
     </message>
 </context>
 <context>
