@@ -3307,136 +3307,137 @@ everyone.</source>
     <name>FriendFoeTreeItem</name>
     <message>
         <source>&lt;none&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;пусто&gt;</translation>
     </message>
     <message>
         <source>Online:</source>
-        <translation type="unfinished"></translation>
+        <translation>Онлайн:</translation>
     </message>
 </context>
 <context>
     <name>FriendFoeTreeView</name>
     <message>
         <source>Confirmation</source>
-        <translation type="unfinished"></translation>
+        <translation>Подтверждение</translation>
     </message>
     <message>
         <source>Do you really want to delete contact %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить контакт клиента %1?</translation>
     </message>
     <message>
         <source>Press &quot;[SHIFT + DEL]&quot; to delete without confirmation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите &quot;[SHIFT + DEL]&quot; чтобы удалить без подтверждения.</translation>
     </message>
 </context>
 <context>
     <name>GUISetupDialog</name>
     <message>
         <source>Design</source>
-        <translation type="unfinished"></translation>
+        <translation>Дизайн</translation>
     </message>
     <message>
         <source>Configure the Design of TeamSpeak</source>
-        <translation type="unfinished"></translation>
+        <translation>Настроить стиль интерфейса TeamSpeak</translation>
     </message>
     <message>
         <source>Get more stylesheets &amp; icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Получить больше &amp; иконок </translation>
     </message>
     <message>
         <source>System default</source>
-        <translation type="unfinished"></translation>
+        <translation>По-умолчанию</translation>
     </message>
     <message>
         <source>default</source>
-        <translation type="unfinished"></translation>
+        <translation>по-умолчанию</translation>
     </message>
     <message>
         <source>Show icon in menu bar</source>
         <comment>Mac only</comment>
-        <translation type="unfinished"></translation>
+        <translation>Для MacOs</translation>
     </message>
     <message>
         <source>TeamSpeak will reset to the default style on the next restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>TeamSpeak сбросит стиль интерфейса при следующем запуске.</translation>
     </message>
     <message>
         <source>TeamSpeak will use the selected icon pack on the next restart.
 Do you want to restart now?</source>
-        <translation type="unfinished"></translation>
+        <translation>TeamSpeak применит выбранный набор иконок при следующем запуске.
+Перезапустить?</translation>
     </message>
 </context>
 <context>
     <name>GatherInfoThread</name>
     <message>
         <source>Upload contains bad character, skipping upload &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка пропущена, такак присутствуют некорректные символы, &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
     <name>GatherUploadInformation</name>
     <message>
         <source>Directories to go: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Каталогов осталось: %1</translation>
     </message>
     <message>
         <source>Directories: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Каталоги: %1</translation>
     </message>
     <message>
         <source>Files: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Файлы: %1</translation>
     </message>
     <message>
         <source>Data: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Данные: %1</translation>
     </message>
     <message>
         <source>Gathering files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Собираю файлы...</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation type="unfinished"></translation>
+        <translation>Готово</translation>
     </message>
     <message>
         <source>Cancelled...</source>
-        <translation type="unfinished"></translation>
+        <translation>Отменено...</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Запуск</translation>
     </message>
     <message>
         <source>Start (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Запуск (%1)</translation>
     </message>
 </context>
 <context>
     <name>GatherUploadInformationClass</name>
     <message>
         <source>Gather Upload Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Общая информация о загрузке</translation>
     </message>
     <message>
         <source>Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Пожалуйста ждите...</translation>
     </message>
     <message>
         <source>Directories to go: 0</source>
-        <translation type="unfinished"></translation>
+        <translation>Осталось каталогов: 0</translation>
     </message>
     <message>
         <source>Directories: 0</source>
-        <translation type="unfinished"></translation>
+        <translation>Каталоги: 0</translation>
     </message>
     <message>
         <source>Files: 0</source>
-        <translation type="unfinished"></translation>
+        <translation>Файлы: 0</translation>
     </message>
     <message>
         <source>Data: 0</source>
-        <translation type="unfinished"></translation>
+        <translation>Данные: 0</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -3449,100 +3450,100 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Autostart when ready</source>
-        <translation type="unfinished"></translation>
+        <translation>Запустить по завершению</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Отменить</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Запуск</translation>
     </message>
 </context>
 <context>
     <name>GroupAddDialog</name>
     <message>
         <source>Add Server Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать Группу</translation>
     </message>
     <message>
         <source>Add Channel Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать Группу каналов</translation>
     </message>
     <message>
         <source>Enter Server Group name</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите имя группы</translation>
     </message>
     <message>
         <source>Enter Channel Group name</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите имя группы каналов</translation>
     </message>
     <message>
         <source>Create group using this type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать группу этого типа:</translation>
     </message>
     <message>
         <source>Create group using this template:</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать группу по шаблону:</translation>
     </message>
     <message>
         <source>Regular group</source>
-        <translation type="unfinished"></translation>
+        <translation>Обычная группа</translation>
     </message>
     <message>
         <source>Template group</source>
-        <translation type="unfinished"></translation>
+        <translation>Шаблон групп</translation>
     </message>
     <message>
         <source>ServerQuery group</source>
-        <translation type="unfinished"></translation>
+        <translation>Группа ServerQuery</translation>
     </message>
 </context>
 <context>
     <name>HotKeyProfileManager</name>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>По-умолчанию</translation>
     </message>
 </context>
 <context>
     <name>HotkeyDialog</name>
     <message>
         <source>Hotkey Setup Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройка Горячих клавиш</translation>
     </message>
     <message>
         <source>Hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation>Клавиша</translation>
     </message>
     <message>
         <source>Action triggers when the key is released</source>
-        <translation type="unfinished"></translation>
+        <translation>Действие выполняется при отпускании клавиши</translation>
     </message>
     <message>
         <source>On key release</source>
-        <translation type="unfinished"></translation>
+        <translation>При отпускании</translation>
     </message>
     <message>
         <source>Press this button to start recording the hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите на эту кнопку для определения горячей клавиши</translation>
     </message>
     <message>
         <source>Set hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить горячую клавишу</translation>
     </message>
     <message>
         <source>Action triggers when the key is pressed down</source>
-        <translation type="unfinished"></translation>
+        <translation>Действие выполняется при нажатии на клавишу</translation>
     </message>
     <message>
         <source>On key down</source>
-        <translation type="unfinished"></translation>
+        <translation>При нажатии</translation>
     </message>
     <message>
         <source>When enabled the key will not be submitted to other applications.</source>
-        <translation type="unfinished"></translation>
+        <translation>Если включено, то нажатие горячей клавиши не будет передано другим приложениям.</translation>
     </message>
     <message>
         <source>Discard</source>
