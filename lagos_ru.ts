@@ -3547,183 +3547,183 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Discard</source>
-        <translation type="unfinished"></translation>
+        <translation>Отменить</translation>
     </message>
     <message>
         <source>Keep dialog open</source>
-        <translation type="unfinished"></translation>
+        <translation>Оставить диалог открытым</translation>
     </message>
     <message>
         <source>Action</source>
-        <translation type="unfinished"></translation>
+        <translation>Действие</translation>
     </message>
     <message>
         <source>Connect to Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Подключиться к серверу</translation>
     </message>
     <message>
         <source>Disconnect from Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключиться от сервера</translation>
     </message>
     <message>
         <source>Select Server Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбор сервера</translation>
     </message>
     <message>
         <source>Sounds</source>
-        <translation type="unfinished"></translation>
+        <translation>Звуки</translation>
     </message>
     <message>
         <source>Master Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Основная громкость</translation>
     </message>
     <message>
         <source>Switch to Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейти на канал</translation>
     </message>
     <message>
         <source>Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Плагины</translation>
     </message>
     <message>
         <source>Capture Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Профиль записи</translation>
     </message>
     <message>
         <source>Playback Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Профиль воспроизведения</translation>
     </message>
     <message>
         <source>Hotkey Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Профиль горячих клавиш</translation>
     </message>
     <message>
         <source>Microphone</source>
-        <translation type="unfinished"></translation>
+        <translation>Микрофон</translation>
     </message>
     <message>
         <source>Speaker</source>
-        <translation type="unfinished"></translation>
+        <translation>Динамик</translation>
     </message>
     <message>
         <source>Away Status</source>
-        <translation type="unfinished"></translation>
+        <translation>AFK статус</translation>
     </message>
     <message>
         <source>Channel Commander</source>
-        <translation type="unfinished"></translation>
+        <translation>Ефрейтор канала</translation>
     </message>
     <message>
         <source>Push-to-Talk</source>
-        <translation type="unfinished"></translation>
+        <translation>Рация PTT</translation>
     </message>
     <message>
         <source>Whisper</source>
-        <translation type="unfinished"></translation>
+        <translation>Шёпот</translation>
     </message>
     <message>
         <source>Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Запись</translation>
     </message>
     <message>
         <source>3D Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Объемный звук</translation>
     </message>
     <message>
         <source>Talk Power</source>
-        <translation type="unfinished"></translation>
+        <translation>Привилегия голоса (Talk Power)</translation>
     </message>
     <message>
         <source>----- Server -----</source>
-        <translation type="unfinished"></translation>
+        <translation>----- Сервер -----</translation>
     </message>
     <message>
         <source>Connect to Server on Current Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Присоедениться с серверу в текущей вкладке</translation>
     </message>
     <message>
         <source>Connect to Server in a New Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Присоедениться к серверу на новой вкладке</translation>
     </message>
     <message>
         <source>Disconnect from Current Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключиться от текущего сервера</translation>
     </message>
     <message>
         <source>Disconnect from All Servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключиться от всех серверов</translation>
     </message>
     <message>
         <source>Activate Microphone (current tab)</source>
-        <translation type="unfinished"></translation>
+        <translation>Активировать микрофон (текущая вкладка)</translation>
     </message>
     <message>
         <source>Mute Microphone</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключить микрофон</translation>
     </message>
     <message>
         <source>Unmute Microphone</source>
-        <translation type="unfinished"></translation>
+        <translation>Включить микрофон</translation>
     </message>
     <message>
         <source>Toggle Microphone Mute</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить состояние микрофона</translation>
     </message>
     <message>
         <source>Disable Local Mic Mute</source>
-        <translation type="unfinished"></translation>
+        <translation>Не отключать микрофон на одельных вкладках</translation>
     </message>
     <message>
         <source>Enable Local Mic Mute</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключать микрофон на отдельных вкладках</translation>
     </message>
     <message>
         <source>Toggle Local Mic Mute</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключать состояние микрофона на отдельных вкладках</translation>
     </message>
     <message>
         <source>Mute Speaker</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключить динамик</translation>
     </message>
     <message>
         <source>Unmute Speaker</source>
-        <translation type="unfinished"></translation>
+        <translation>Включить динамик</translation>
     </message>
     <message>
         <source>Toggle Speaker Mute</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить состояние динамика</translation>
     </message>
     <message>
         <source>Set Away</source>
-        <translation type="unfinished"></translation>
+        <translation>Статус AFK</translation>
     </message>
     <message>
         <source>Set Online</source>
-        <translation type="unfinished"></translation>
+        <translation>Статус Онлайн</translation>
     </message>
     <message>
         <source>Toggle Away Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить статус AFK</translation>
     </message>
     <message>
         <source>Toggle Away Status with Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить статус AFK с сообщением</translation>
     </message>
     <message>
         <source>Activate Channel Commander</source>
-        <translation type="unfinished"></translation>
+        <translation>Активировать Ефрейтора</translation>
     </message>
     <message>
         <source>Deactivate Channel Commander</source>
-        <translation type="unfinished"></translation>
+        <translation>Деактивировать Ефрейтора</translation>
     </message>
     <message>
         <source>Toggle Channel Commander</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить статус Ефрейтора</translation>
     </message>
     <message>
         <source>----- Self -----</source>
-        <translation type="unfinished"></translation>
+        <translation>----- Я -----</translation>
     </message>
     <message>
         <source>Activate Capture Profile</source>
