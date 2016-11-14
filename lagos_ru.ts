@@ -3727,235 +3727,235 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Activate Capture Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Включить профиль записи</translation>
     </message>
     <message>
         <source>Deactivate Capture Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключить профиль записи</translation>
     </message>
     <message>
         <source>Toggle Capture Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить профиль записи</translation>
     </message>
     <message>
         <source>Activate Playback Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Включить профиль возпроизведения</translation>
     </message>
     <message>
         <source>Deactivate Playback Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключить профиль воспроизведения</translation>
     </message>
     <message>
         <source>Toggle Playback Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить профиль воспроизведения</translation>
     </message>
     <message>
         <source>Activate Hotkey Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Включить профиль гор. клавиш</translation>
     </message>
     <message>
         <source>Deactivate Hotkey Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключить профиль гор. клавиш</translation>
     </message>
     <message>
         <source>Activate Push-to-Talk</source>
-        <translation type="unfinished"></translation>
+        <translation>Включить режим рации</translation>
     </message>
     <message>
         <source>Deactivate Push-to-Talk</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключить режим рации</translation>
     </message>
     <message>
         <source>Toggle Push-to-Talk</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить режим рации</translation>
     </message>
     <message>
         <source>Switch to Next Channel (Global)</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейти на следующий канал (глобально)</translation>
     </message>
     <message>
         <source>Switch to Previous Channel (Global)</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейти на предыдущий канал (глобально)</translation>
     </message>
     <message>
         <source>Switch to Last Visited Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейти на канал включенный в прошлый раз</translation>
     </message>
     <message>
         <source>Switch to Next Channel (Channel Family)</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейти на следующий канал (группа каналов)</translation>
     </message>
     <message>
         <source>Switch to Previous Channel (Channel Family)</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейти на предыдущий канал (группа каналов)</translation>
     </message>
     <message>
         <source>Switch to Next Channel (Same Level)</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейти на следующий канал</translation>
     </message>
     <message>
         <source>Switch to Previous Channel (Same Level)</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейти на предыдущий канал</translation>
     </message>
     <message>
         <source>Select Next Server Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить вкладку на следующий сервер</translation>
     </message>
     <message>
         <source>Select Previous Server Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить вкладку на предыдущий сервер</translation>
     </message>
     <message>
         <source>Activate Soundpack</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать набор звуков</translation>
     </message>
     <message>
         <source>Mute Sounds</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключить звуки</translation>
     </message>
     <message>
         <source>Unmute Sounds</source>
-        <translation type="unfinished"></translation>
+        <translation>Включить звуки</translation>
     </message>
     <message>
         <source>Toggle Sound Mute</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить состояние звуков</translation>
     </message>
     <message>
         <source>Activate Push-To-Whisper</source>
-        <translation type="unfinished"></translation>
+        <translation>Включить шептание</translation>
     </message>
     <message>
         <source>Deactivate Push-To-Whisper</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключить шептание</translation>
     </message>
     <message>
         <source>Activate Push-To-Reply to a Whisper</source>
-        <translation type="unfinished"></translation>
+        <translation>Включить режим рации для шептания</translation>
     </message>
     <message>
         <source>Deactivate Push-To-Reply to a Whisper</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключить режим рации для шептания</translation>
     </message>
     <message>
         <source>Activate Whisperlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Включить список шептунов</translation>
     </message>
     <message>
         <source>Deactivate Whisperlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключить список шептунов</translation>
     </message>
     <message>
         <source>Activate Reply to a Whisper</source>
-        <translation type="unfinished"></translation>
+        <translation>Включить ответ на шепот</translation>
     </message>
     <message>
         <source>Deactivate Reply to a Whisper</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключить ответ на шепот</translation>
     </message>
     <message>
         <source>Activate Block Incoming Whispers</source>
-        <translation type="unfinished"></translation>
+        <translation>Блокировать шептание</translation>
     </message>
     <message>
         <source>Deactivate Block Incoming Whispers</source>
-        <translation type="unfinished"></translation>
+        <translation>Не блокировать шептание</translation>
     </message>
     <message>
         <source>Toggle Block Incoming Whispers</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить блокировку шепота</translation>
     </message>
     <message>
         <source>Start Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Начать Запись</translation>
     </message>
     <message>
         <source>Stop Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Остановить Запись</translation>
     </message>
     <message>
         <source>Increase Master Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Увеличить Общий звук</translation>
     </message>
     <message>
         <source>Decrease Master Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Уменьшить Общий звук</translation>
     </message>
     <message>
         <source>Activate Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Включить Плагин</translation>
     </message>
     <message>
         <source>Deactivate Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключить Плагин</translation>
     </message>
     <message>
         <source>Toggle Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить Плагин</translation>
     </message>
     <message>
         <source>Run Plugin Command</source>
-        <translation type="unfinished"></translation>
+        <translation>Выполнить комманду Плагина</translation>
     </message>
     <message>
         <source>Plugin Hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation>Горячая клавиша Плагина</translation>
     </message>
     <message>
         <source>Stylesheet Helper</source>
-        <translation type="unfinished"></translation>
+        <translation>Вспомогательные стили</translation>
     </message>
     <message>
         <source>Activate 3D Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Включить объемный звук</translation>
     </message>
     <message>
         <source>Deactivate 3D Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключить объемный звук</translation>
     </message>
     <message>
         <source>Toggle 3D Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить объемный звук</translation>
     </message>
     <message>
         <source>Change Nickname</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить Никнэйм</translation>
     </message>
     <message>
         <source>----- Misc -----</source>
-        <translation type="unfinished"></translation>
+        <translation>----- Разное -----</translation>
     </message>
     <message>
         <source>Grant Next User Talk Power</source>
-        <translation type="unfinished"></translation>
+        <translation>Предоставить Право голоса пользователю</translation>
     </message>
     <message>
         <source>Request Talk Power</source>
-        <translation type="unfinished"></translation>
+        <translation>Запросить Право голоса</translation>
     </message>
     <message>
         <source>Revoke All And Grant Next User Talk Power</source>
-        <translation type="unfinished"></translation>
+        <translation>Сбросить все и предоставить Право голоса пользователю</translation>
     </message>
     <message>
         <source>Open Filebrowser on Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть браузер файлов на канале</translation>
     </message>
     <message>
         <source>Disable Autoconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>Отлючить автоподключение</translation>
     </message>
     <message>
         <source>Reload Skin</source>
-        <translation type="unfinished"></translation>
+        <translation>Сменить тему оформления</translation>
     </message>
     <message>
         <source>Bring Client to Front</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать приложение на экране</translation>
     </message>
     <message>
         <source>Send Client to Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправить приложение на задний фон</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -3963,7 +3963,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Отмена</translation>
     </message>
     <message>
         <source>Ctrl+F</source>
@@ -3971,72 +3971,73 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>for all Capture Profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Для всех профилей записи</translation>
     </message>
     <message>
         <source>on Current Server</source>
-        <translation type="unfinished"></translation>
+        <translation>на данном сервере</translation>
     </message>
     <message>
         <source>Current Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Текущий Сервер</translation>
     </message>
     <message>
         <source>on </source>
-        <translation type="unfinished"></translation>
+        <translation>на </translation>
     </message>
     <message>
         <source>Hide Advanced Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Скрыть продвинутые опции</translation>
     </message>
     <message>
         <source>Show Advanced Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать продвинутые опции</translation>
     </message>
     <message>
         <source>If you want to add more hotkeys, you might want this dialog to keep open.</source>
-        <translation type="unfinished"></translation>
+        <translation>Если хотите добавить больше гор. клавиш, оставьте этот диалог открытым.</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Добавить</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Закрыть</translation>
     </message>
     <message>
         <source>Would you like to add %1 for &quot;%2&quot; as well?</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить также %1 для &quot;%2&quot;?</translation>
     </message>
     <message>
         <source>an &quot;&lt;strong&gt;Up-Key&lt;/strong&gt;&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;&lt;strong&gt;Кл. Вверх&lt;/strong&gt;&quot;</translation>
     </message>
     <message>
         <source>a &quot;&lt;strong&gt;Down-Key&lt;/strong&gt;&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;&lt;strong&gt;Кл. Вниз&lt;/strong&gt;&quot;</translation>
     </message>
     <message>
         <source>&lt;strong&gt;deactivation&lt;/strong&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;деактивация&lt;/strong&gt;</translation>
     </message>
     <message>
         <source>&lt;strong&gt;activation&lt;/strong&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;активация&lt;/strong&gt;</translation>
     </message>
     <message>
         <source>Add another &quot;%1&quot; key automatically?</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить еще одну &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>A hotkey with this configuration already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Горячая клавиша с такими настройками уже есть.</translation>
     </message>
     <message>
         <source>Press hotkey combination.
 (ESC to cancel)</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите комбинацию горячей клавиши.
+(ESC для отмены)</translation>
     </message>
     <message>
         <source>&lt;p style=&apos;white-space:nowrap&apos;&gt;&lt;font color=&apos;red&apos;&gt;Warning: Discarding &quot;On key release&quot; can lead to unpredicted system behaviour!&lt;/font&gt;&lt;/p&gt;</source>
