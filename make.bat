@@ -14,10 +14,8 @@ set F1=lagos_ru
 set F2=error_report_ru
 cd %MK%
 
-lrelease "%RL%%F1%.ts" -qm "%RL%%F1%.qm"
-copy /Y "%RL%%F1%.qm" "%TS%"
-lrelease "%RL%%F2%.ts" -qm "%RL%%F2%.qm"
-copy /Y "%RL%%F2%.qm" "%TS%"
+lrelease "%RL%%F1%.ts" -qm "%TS%%F1%.qm"
+lrelease "%RL%%F2%.ts" -qm "%TS%%F2%.qm"
 
 exit
 
