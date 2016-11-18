@@ -4041,82 +4041,82 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&lt;p style=&apos;white-space:nowrap&apos;&gt;&lt;font color=&apos;red&apos;&gt;Warning: Discarding &quot;On key release&quot; can lead to unpredicted system behaviour!&lt;/font&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;&lt;font color=&apos;red&apos;&gt;Внимание: Отключая условие &quot;При отпускании клавиши&quot; может привести к непредвиденным ошибкам!&lt;/font&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;strong&gt;Hint:&lt;/strong&gt; If you deactivate a Hotkey Profile, all hotkeys probably become unavailable!</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;Совет:&lt;/strong&gt; Если деактивировать Профиль горячих клавиш, то возможно, горячих клавиш не останется!</translation>
     </message>
     <message>
         <source>Expand All</source>
-        <translation type="unfinished"></translation>
+        <translation>Раскрыть все</translation>
     </message>
     <message>
         <source>Collapse All</source>
-        <translation type="unfinished"></translation>
+        <translation>Свернуть все</translation>
     </message>
     <message>
         <source>Expand Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Раскрыть Группу</translation>
     </message>
     <message>
         <source>Collapse Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Свернуть Группу</translation>
     </message>
     <message>
         <source>Expand to depth</source>
-        <translation type="unfinished"></translation>
+        <translation>Раскрыть на глубину</translation>
     </message>
 </context>
 <context>
     <name>HotkeyMsgDialog</name>
     <message>
         <source>Inserting Hotkey...</source>
-        <translation type="unfinished"></translation>
+        <translation>Внедряю горячую клавишу...</translation>
     </message>
     <message>
         <source>Deleting Hotkey...</source>
-        <translation type="unfinished"></translation>
+        <translation>Убираю горячую клавишу...</translation>
     </message>
     <message>
         <source>inserted</source>
-        <translation type="unfinished"></translation>
+        <translation>выполнено</translation>
     </message>
     <message>
         <source>deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>удалено</translation>
     </message>
     <message>
         <source>Please choose where the Hotkey should be %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите расположение горячей клавиши %1.</translation>
     </message>
     <message>
         <source>Note that existing Hotkeys will be overwritten.</source>
-        <translation type="unfinished"></translation>
+        <translation>Учтите, что уже существующие горячие клавиши будут перезаписаны.</translation>
     </message>
     <message>
         <source>Warning, the Hotkey [ %1 ] already used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Внимание, горячая клавиша [ %1 ] используется.</translation>
     </message>
     <message>
         <source>Please choose another Hotkey.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пожалуйста укажите другую горячую клавишу.</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Все</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <source>%1 Hotkey in Hotkey Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Горячая клавиша %1 в Профиле</translation>
     </message>
 </context>
 <context>
@@ -4124,37 +4124,38 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Press hotkey combination.
 (ESC to cancel or to clear the hotkey)</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите комбинацию клавиш.
+(ESC для отмены)</translation>
     </message>
     <message>
         <source>No Hotkey Assigned</source>
-        <translation type="unfinished"></translation>
+        <translation>Горячая клавиша не назначена</translation>
     </message>
 </context>
 <context>
     <name>HotkeySetup</name>
     <message>
         <source>Push-To-Whisper</source>
-        <translation type="unfinished"></translation>
+        <translation>Нашептать</translation>
     </message>
     <message>
         <source>Push-To-Whisper-Reply</source>
-        <translation type="unfinished"></translation>
+        <translation>Шепнуть в ответ</translation>
     </message>
     <message>
         <source>Push-to-Talk</source>
-        <translation type="unfinished"></translation>
+        <translation>Рация</translation>
     </message>
 </context>
 <context>
     <name>HotkeyTableWidget</name>
     <message>
         <source>Edit Hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить гор. клавишу</translation>
     </message>
     <message>
         <source>Delete Hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить гор. клавишу</translation>
     </message>
 </context>
 <context>
@@ -4162,138 +4163,146 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Profile Details</source>
         <comment>Dummy text, no need to translate</comment>
-        <translation type="unfinished"></translation>
+        <translation>Опции Профиля</translation>
     </message>
     <message>
         <source>Hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation>Горячая Клавиша</translation>
     </message>
     <message>
         <source>Action</source>
-        <translation type="unfinished"></translation>
+        <translation>Действие</translation>
     </message>
     <message>
         <source>Add hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить горячую клавишу</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Добавить</translation>
     </message>
     <message>
         <source>Remove selected hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить выбранную горячую клавишу</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Удалить</translation>
     </message>
     <message>
         <source>Edit selected hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить выбранную горячую клавишу</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Изменить</translation>
     </message>
     <message>
         <source>Hotkey System</source>
-        <translation type="unfinished"></translation>
+        <translation>Горячие клавиши (система)</translation>
     </message>
     <message>
         <source>Hotkeys</source>
-        <translation type="unfinished"></translation>
+        <translation>Горячие клавиши</translation>
     </message>
     <message>
         <source>Configure Hotkeys</source>
-        <translation type="unfinished"></translation>
+        <translation>Настроить горячие клавиши</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>По-умолчанию</translation>
     </message>
     <message>
         <source>Keyboard &amp; Mouse Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Только Клавиатура &amp; Мышь</translation>
     </message>
     <message>
         <source>(Keyboard &amp; Mouse only)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Только Клавиатура &amp; Мышь)</translation>
     </message>
     <message>
         <source>(Default only)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Только По-умолчанию)</translation>
     </message>
     <message>
         <source>Switch to Next Channel (Global)</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейти на следующий Канал (глобально)</translation>
     </message>
     <message>
         <source>Invalid or broken event</source>
-        <translation type="unfinished"></translation>
+        <translation>Неверное событие</translation>
     </message>
     <message>
         <source>Push-To-Talk (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Рация (%1)</translation>
     </message>
     <message>
         <source>Invalid or broken action</source>
-        <translation type="unfinished"></translation>
+        <translation>Неверное действие</translation>
     </message>
     <message>
         <source> on %1</source>
-        <translation type="unfinished"></translation>
+        <translation> на %1</translation>
     </message>
     <message>
         <source>(Down)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Вниз)</translation>
     </message>
     <message>
         <source>(Up)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Вверх)</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Информация</translation>
     </message>
     <message>
         <source>To be able to use hotkeys on Mac, you need to open the System preferences
 &quot;Security &amp; Privacy&quot; page, select tab &quot;Privacy&quot;, select &quot;Accessibility&quot;
 and check &quot;TeamSpeak 3 Client&quot;. If it does not exist in the list, drag&amp;drop
 it from your Applications folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Чтобы использовать горячие клавиши на MacOs вам необходимо открыть
+настройки системы, вкладку Безопасность и Защита, далее во вкладке Приватность выбрать и
+разрешить клиенту TeamSpeak3 доступ. Если его нет в списке, попробуйте перекинуть туда
+исполняемый файл мышкой.</translation>
     </message>
     <message>
         <source>To be able to use hotkeys on Mac, you need to open the System preferences
 &quot;Universal Access&quot; page and make sure &quot;Enable access for assistive devices&quot;
 is turned on.</source>
-        <translation type="unfinished"></translation>
+        <translation>Чтобы использовать горячие клавиши на MacOs вам необходимо открыть
+настройки системы, вкладку Универсального доступа и убедиться что есть доступ к
+вспомогательным устройствам.</translation>
     </message>
     <message>
         <source>Delete Hotkeys...</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить Горячие клавиши...</translation>
     </message>
     <message>
         <source>Hotkey Profile &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt; has been deleted.&lt;p&gt;Do you want to delete every Hotkey assigned to this profile as well?&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Профиль горячей клавиши &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt; удален.&lt;p&gt;Хотите стереть все горячие клавиши из этого Профиля?&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Confirmation</source>
-        <translation type="unfinished"></translation>
+        <translation>Подтверждение</translation>
     </message>
     <message>
         <source>Your selection contains at least one autogenerated pair.
 Proceeding will also delete the combined key as well!
 
 Do you want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Результат выделения содержит автосгенерированные комбинации.
+Если продолжить, то они также будут удалены!
+
+Продолжить?</translation>
     </message>
 </context>
 <context>
     <name>IconViewer</name>
     <message>
         <source>Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Иконки</translation>
     </message>
     <message>
         <source>Remote</source>
