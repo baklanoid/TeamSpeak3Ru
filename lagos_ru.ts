@@ -4306,204 +4306,208 @@ Do you want to proceed?</source>
     </message>
     <message>
         <source>Remote</source>
-        <translation type="unfinished"></translation>
+        <translation>На сервере</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка на серв</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <source>Local</source>
-        <translation type="unfinished"></translation>
+        <translation>На компьютере</translation>
     </message>
     <message>
         <source>Icon Pack:</source>
-        <translation type="unfinished"></translation>
+        <translation>Набор Иконок</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезагрузить</translation>
     </message>
     <message>
         <source>default</source>
-        <translation type="unfinished"></translation>
+        <translation>по-умолчанию</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка</translation>
     </message>
     <message>
         <source>Invalid image selected.
 Failed to upload icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрано некорректное изображение.
+Иконка не загружена</translation>
     </message>
     <message>
         <source>Selected icon is too large.
 The maximum size is %1x%2 pixels.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбранная иконка слишком большая.
+Максимальный размер %1x%2 пикселов.</translation>
     </message>
     <message>
         <source>Selected icon file is too large.
 The maximum allowed file size is %1 kB.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбранная иконка слишком большая.
+Максимальный размер %1 килобайт.</translation>
     </message>
     <message>
         <source>Select one or more images to upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите изображения для загрузки</translation>
     </message>
 </context>
 <context>
     <name>IdentityDialog</name>
     <message>
         <source>Identities[*]</source>
-        <translation type="unfinished"></translation>
+        <translation>Идентификаторы[*]</translation>
     </message>
     <message>
         <source>MyTeamSpeak Identities</source>
-        <translation type="unfinished"></translation>
+        <translation>Мои идентификаторы в TeamSpeak</translation>
     </message>
     <message>
         <source>Synchronized Identities</source>
-        <translation type="unfinished"></translation>
+        <translation>Синхронизированные</translation>
     </message>
     <message>
         <source>Local Identities</source>
-        <translation type="unfinished"></translation>
+        <translation>Локальные</translation>
     </message>
     <message>
         <source>&amp;Identity Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя:</translation>
     </message>
     <message>
         <source>&amp;Nickname:</source>
-        <translation type="unfinished"></translation>
+        <translation>Никнэйм:</translation>
     </message>
     <message>
         <source>&amp;Phonetic Nickname:</source>
-        <translation type="unfinished"></translation>
+        <translation>Фонетический никнэйм:</translation>
     </message>
     <message>
         <source>Your nickname written as phonemes (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ваш ник написанный фонемами (не обязательно)</translation>
     </message>
     <message>
         <source>&amp;Unique ID:</source>
-        <translation type="unfinished"></translation>
+        <translation>Уникальный ID:</translation>
     </message>
     <message>
         <source>Security Level:</source>
-        <translation type="unfinished"></translation>
+        <translation>Уровень доступа:</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>Improve</source>
-        <translation type="unfinished"></translation>
+        <translation>Поднять</translation>
     </message>
     <message>
         <source>Add Identity</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить идентификатор</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать</translation>
     </message>
     <message>
         <source>Remove Identity</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить идентификатор</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <source>Set Default Identity</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать идентификатор по-умолчанию</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>По-умолчанию</translation>
     </message>
 </context>
 <context>
     <name>IdentityQualityWidget</name>
     <message>
         <source>Identity Security Level</source>
-        <translation type="unfinished"></translation>
+        <translation>Уровень доступа идентификатора</translation>
     </message>
     <message>
         <source>&lt;span style=&quot;color:red;&quot;&gt;Insufficient identity security level for this server.&lt;br&gt;
 You need to improve your identity security level.&lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot;color:red;&quot;&gt;Недостаточный уровень доступа на этом сервере.&lt;br&gt;
+Вам необходимо повысить свой уровень доступа.&lt;/span&gt;</translation>
     </message>
     <message>
         <source>Identity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Идентификатор:</translation>
     </message>
     <message>
         <source>Current Security Level:</source>
-        <translation type="unfinished"></translation>
+        <translation>Текущий уровень доступа:</translation>
     </message>
     <message>
         <source>&amp;Requested Security Level:</source>
-        <translation type="unfinished"></translation>
+        <translation>Запрошенный уровень доступа:</translation>
     </message>
     <message>
         <source>Elapsed Time:</source>
-        <translation type="unfinished"></translation>
+        <translation>Прошло времени:</translation>
     </message>
     <message>
         <source>00:00</source>
-        <translation type="unfinished"></translation>
+        <translation>00:00</translation>
     </message>
     <message>
         <source>Total Time Ballpark Figure:</source>
-        <translation type="unfinished"></translation>
+        <translation>Общее время:</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Неизвестно</translation>
     </message>
     <message>
         <source>&lt;p&gt;Press &lt;strong&gt;Start&lt;/strong&gt; to improve to the selected security level.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Нажмите &lt;strong&gt;Запрос&lt;/strong&gt; чтобы запросить уровень доступа.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Запросить</translation>
     </message>
     <message>
         <source>Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Провал</translation>
     </message>
     <message>
         <source>&lt;p&gt;Improving security level. This can take a long time.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Поднимаю уровень доступа. Это может занять продолжительное время.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;Finished improving security level.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Повышение уровня доступа закончено.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Infinite</source>
-        <translation type="unfinished"></translation>
+        <translation>Бесконечно</translation>
     </message>
 </context>
 <context>
     <name>ImprovedTabBar</name>
     <message>
         <source>Server Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>Вкладки сервера</translation>
     </message>
 </context>
 <context>
@@ -4514,39 +4518,39 @@ You need to improve your identity security level.&lt;/span&gt;</source>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя:</translation>
     </message>
     <message>
         <source>Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Адрес:</translation>
     </message>
     <message>
         <source>Version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Версия:</translation>
     </message>
     <message>
         <source>%1 on %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 на %2</translation>
     </message>
     <message>
         <source>License:</source>
-        <translation type="unfinished"></translation>
+        <translation>Лицензия:</translation>
     </message>
     <message>
         <source>Uptime:</source>
-        <translation type="unfinished"></translation>
+        <translation>Время онлайн:</translation>
     </message>
     <message>
         <source>Current Channels:</source>
-        <translation type="unfinished"></translation>
+        <translation>Текущие каналы</translation>
     </message>
     <message>
         <source>Total Client Connections: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Всего соединений: %1</translation>
     </message>
     <message>
         <source>Current Clients:</source>
-        <translation type="unfinished"></translation>
+        <translation>Текущие клиенты:</translation>
     </message>
     <message>
         <source>%1 / %2</source>
@@ -4554,19 +4558,19 @@ You need to improve your identity security level.&lt;/span&gt;</source>
     </message>
     <message>
         <source>-%1 reserved</source>
-        <translation type="unfinished"></translation>
+        <translation>-%1 резерв</translation>
     </message>
     <message>
         <source>Total ServerQuery Connections: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Всего соединений ServerQuery: %1</translation>
     </message>
     <message>
         <source>Current Queries:</source>
-        <translation type="unfinished"></translation>
+        <translation>Всего запросов:</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновить</translation>
     </message>
     <message>
         <source>channelinfo.tpl</source>
@@ -4574,87 +4578,87 @@ You need to improve your identity security level.&lt;/span&gt;</source>
     </message>
     <message>
         <source>Unlimited</source>
-        <translation type="unfinished"></translation>
+        <translation>Неограничено</translation>
     </message>
     <message>
         <source>Inherited</source>
-        <translation type="unfinished"></translation>
+        <translation>Наследуется</translation>
     </message>
     <message>
         <source>Subscribed</source>
-        <translation type="unfinished"></translation>
+        <translation>Подписан</translation>
     </message>
     <message>
         <source>Not subscribed</source>
-        <translation type="unfinished"></translation>
+        <translation>Не подписан</translation>
     </message>
     <message>
         <source>Unencrypted</source>
-        <translation type="unfinished"></translation>
+        <translation>Не зашифровано</translation>
     </message>
     <message>
         <source>Encrypted</source>
-        <translation type="unfinished"></translation>
+        <translation>Зашифровано</translation>
     </message>
     <message>
         <source>Channel:</source>
-        <translation type="unfinished"></translation>
+        <translation>Канал:</translation>
     </message>
     <message>
         <source>Topic:</source>
-        <translation type="unfinished"></translation>
+        <translation>Тема:</translation>
     </message>
     <message>
         <source>Codec:</source>
-        <translation type="unfinished"></translation>
+        <translation>Кодек:</translation>
     </message>
     <message>
         <source>Codec Quality:</source>
-        <translation type="unfinished"></translation>
+        <translation>Качество:</translation>
     </message>
     <message>
         <source>(estimated bitrate: %1)</source>
-        <translation type="unfinished"></translation>
+        <translation>(примерный битрэйт: %1)</translation>
     </message>
     <message>
         <source>Flags:</source>
-        <translation type="unfinished"></translation>
+        <translation>Флаги:</translation>
     </message>
     <message>
         <source>Subscription:</source>
-        <translation type="unfinished"></translation>
+        <translation>Подписка:</translation>
     </message>
     <message>
         <source>Max Clients:</source>
-        <translation type="unfinished"></translation>
+        <translation>Максимум клиентов:</translation>
     </message>
     <message>
         <source>Max Family Clients:</source>
-        <translation type="unfinished"></translation>
+        <translation>Максимум клиентов группы:</translation>
     </message>
     <message>
         <source>Required Talk Power:</source>
-        <translation type="unfinished"></translation>
+        <translation>Необходимое Право голоса</translation>
     </message>
     <message>
         <source>Voice Data Encryption:</source>
-        <translation type="unfinished"></translation>
+        <translation>Шифрование аудиоданных:</translation>
     </message>
     <message>
         <source>Enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Включено</translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключено</translation>
     </message>
     <message>
         <source>Channel will be deleted in %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Канал будет удален через %1.</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Описание</translation>
     </message>
     <message>
         <source>clientinfo.tpl</source>
@@ -4662,61 +4666,61 @@ You need to improve your identity security level.&lt;/span&gt;</source>
     </message>
     <message>
         <source>[Inherited from: %1]</source>
-        <translation type="unfinished"></translation>
+        <translation>[Унаследовано от: %1]</translation>
     </message>
     <message>
         <source>&lt;avatar ignored&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;аватар блокируется&gt;</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation type="unfinished"></translation>
+        <translation>AFK</translation>
     </message>
     <message>
         <source>&lt;away message ignored&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;AFK сообщение блокируется&gt;</translation>
     </message>
     <message>
         <source>Speakers/Headphones Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Динамики отключены</translation>
     </message>
     <message>
         <source>Speakers/Headphones Muted</source>
-        <translation type="unfinished"></translation>
+        <translation>Динамики приглушены</translation>
     </message>
     <message>
         <source>Microphone Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Микрофон отключен</translation>
     </message>
     <message>
         <source>Microphone Muted</source>
-        <translation type="unfinished"></translation>
+        <translation>Микрофон приглушен</translation>
     </message>
     <message>
         <source>Local Muted</source>
-        <translation type="unfinished"></translation>
+        <translation>Приглушен локально</translation>
     </message>
     <message>
         <source>Custom nickname:</source>
-        <translation type="unfinished"></translation>
+        <translation>Особый никнэйм:</translation>
     </message>
     <message>
         <source>Platform:</source>
-        <translation type="unfinished"></translation>
+        <translation>Платформа:</translation>
     </message>
     <message>
         <source>Channel Group:</source>
-        <translation type="unfinished"></translation>
+        <translation>Группа каналов:</translation>
     </message>
     <message numerus="yes">
         <source>Server Group(s):</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Группы сервера:</numerusform>
         </translation>
     </message>
     <message>
         <source>Online since:</source>
-        <translation type="unfinished"></translation>
+        <translation>Онлайн с:</translation>
     </message>
     <message>
         <source>Volume modifier:</source>
@@ -4724,35 +4728,35 @@ You need to improve your identity security level.&lt;/span&gt;</source>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"></translation>
+        <translation>Описание:</translation>
     </message>
     <message>
         <source>Talk Power Request:</source>
-        <translation type="unfinished"></translation>
+        <translation>Право голоса:</translation>
     </message>
     <message>
         <source>Reason for Talk Power:</source>
-        <translation type="unfinished"></translation>
+        <translation>Основание запроса Права:</translation>
     </message>
     <message>
         <source>No license</source>
-        <translation type="unfinished"></translation>
+        <translation>Без лицензии</translation>
     </message>
     <message>
         <source>Licensed hosting provider</source>
-        <translation type="unfinished"></translation>
+        <translation>Лицензированный хост</translation>
     </message>
     <message>
         <source>Offline license</source>
-        <translation type="unfinished"></translation>
+        <translation>Оффлайн лицензия</translation>
     </message>
     <message>
         <source>Non-profit license</source>
-        <translation type="unfinished"></translation>
+        <translation>Не коммерческая лицензия</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Неизвестно</translation>
     </message>
     <message>
         <source>Speex Narrowband</source>
@@ -4780,211 +4784,212 @@ You need to improve your identity security level.&lt;/span&gt;</source>
     </message>
     <message>
         <source>Unknown Codec</source>
-        <translation type="unfinished"></translation>
+        <translation>Неизвестный кодек</translation>
     </message>
     <message>
         <source>Refresh available every 5 seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновлять каждый 5 секунд</translation>
     </message>
 </context>
 <context>
     <name>InputManager</name>
     <message>
         <source>Dead Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Мертвая клавиша</translation>
     </message>
 </context>
 <context>
     <name>InvitationDialog</name>
     <message>
         <source>Invite Buddy</source>
-        <translation type="unfinished"></translation>
+        <translation>Пригласить друга</translation>
     </message>
     <message>
         <source>Invitation Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип приглашения:</translation>
     </message>
     <message>
         <source>Insert my current:</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить мой текущий:</translation>
     </message>
     <message>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Канал</translation>
     </message>
     <message>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Сервер</translation>
     </message>
     <message>
         <source>Add Privilege Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить ключ доступа</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Скопировать в буфер обмена</translation>
     </message>
     <message>
         <source>ts3server link</source>
-        <translation type="unfinished"></translation>
+        <translation>Ссылка ts3server</translation>
     </message>
     <message>
         <source>http redirection</source>
-        <translation type="unfinished"></translation>
+        <translation>перенаправление http</translation>
     </message>
     <message>
         <source>html code</source>
-        <translation type="unfinished"></translation>
+        <translation>код html</translation>
     </message>
     <message>
         <source>The current channel has a password which is not known by your client.&lt;br&gt;Please add the password manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>На данном канале установлен пароль.&lt;br&gt;Введите этот пароль.</translation>
     </message>
     <message>
         <source>Invitation</source>
-        <translation type="unfinished"></translation>
+        <translation>Приглашение</translation>
     </message>
     <message>
         <source>The server password stored in your bookmark is not the same as the real server password.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пароль от сервера из ваших закладок не совпадает с установленным на сервере.</translation>
     </message>
     <message>
         <source>Failed to validate server password</source>
-        <translation type="unfinished"></translation>
+        <translation>Неверный пароль</translation>
     </message>
 </context>
 <context>
     <name>LicenseViewer</name>
     <message>
         <source>License agreement</source>
-        <translation type="unfinished"></translation>
+        <translation>Лицензионное соглашение</translation>
     </message>
     <message>
         <source>Open in Webbrowser</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть в браузере</translation>
     </message>
     <message>
         <source>I accept</source>
-        <translation type="unfinished"></translation>
+        <translation>Я согласен</translation>
     </message>
     <message>
         <source>I do not accept</source>
-        <translation type="unfinished"></translation>
+        <translation>Я не согласен</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка</translation>
     </message>
     <message>
         <source>Failed to download license.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка при загрузке лицензии.</translation>
     </message>
 </context>
 <context>
     <name>LuaConfigDialog</name>
     <message>
         <source>Lua Modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Модули Lua</translation>
     </message>
 </context>
 <context>
     <name>MainWindow</name>
     <message>
         <source>Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Тулбар</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>По-умолчанию</translation>
     </message>
     <message>
         <source>Toggle Subscribe Mode for this server
 Current: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить режим подписки на данном сервере
+Текущий: %1</translation>
     </message>
     <message>
         <source>Subscribe all</source>
-        <translation type="unfinished"></translation>
+        <translation>Подписать всех</translation>
     </message>
     <message>
         <source>Subscribe selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Подписать выбранных</translation>
     </message>
     <message>
         <source>%1 on %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 на %2</translation>
     </message>
     <message>
         <source>Transfer Completed</source>
-        <translation type="unfinished"></translation>
+        <translation>Передача выполнена</translation>
     </message>
     <message>
         <source>Away on this server</source>
-        <translation type="unfinished"></translation>
+        <translation>AFK на данном сервере</translation>
     </message>
     <message>
         <source>&lt;p style=&quot;color:red;&quot;&gt;Your message has not been sent. Message limit has been exceeded.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p style=&quot;color:red;&quot;&gt;Ваше сообщение не отправлено. Достигнут предел сообщений.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p style=&quot;color:blue;&quot;&gt;Built-in commands: /close, /clear, /exit&lt;br&gt;Plugin commands: /&amp;lt;plugin-command-keyword&amp;gt; &amp;lt;plugin-command&amp;gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p style=&quot;color:blue;&quot;&gt;Встроенные комманды: /close, /clear, /exit&lt;br&gt;Комманды плагина: /&amp;lt;plugin-command-keyword&amp;gt; &amp;lt;plugin-command&amp;gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;span style=&quot;color:red;&quot;&gt;Invalid command or missing parameters: %1&lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot;color:red;&quot;&gt;Неверная комманда или параметры: %1&lt;/span&gt;</translation>
     </message>
     <message>
         <source>Mute Speakers/Headphones on all servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Заглушить Динамик на всех серверах</translation>
     </message>
     <message>
         <source>Unmute Speakers/Headphones on all servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Включить Динамик на всех серверах</translation>
     </message>
     <message>
         <source>Mute Microphone</source>
-        <translation type="unfinished"></translation>
+        <translation>Заглушить Микрофон</translation>
     </message>
     <message>
         <source>Unmute Microphone</source>
-        <translation type="unfinished"></translation>
+        <translation>Включить Микрофон</translation>
     </message>
     <message>
         <source>Mute Speakers/Headphones</source>
-        <translation type="unfinished"></translation>
+        <translation>Заглушить Динамик</translation>
     </message>
     <message>
         <source>Unmute Speakers/Headphones</source>
-        <translation type="unfinished"></translation>
+        <translation>Включить Динамик</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Информация</translation>
     </message>
     <message>
         <source>&lt;p&gt;This is the last TeamSpeak version available for Windows XP.&lt;/p&gt;&lt;p&gt;To upgrade TeamSpeak and take advantage of the latest features and bug fixes, please update your operating system to Windows Vista or newer.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Это последняя версия TeamSpeak совместимая с Windows XP.&lt;/p&gt;&lt;p&gt;Чтобы воспользоваться преимуществами новых версий, обновите ОС до Windows Vista или новее.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Use Privilege Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Ключ доступа</translation>
     </message>
     <message>
         <source>&lt;p&gt;This is a newly configured server for which administrator privileges have not yet been claimed.&lt;br&gt;Please enter the Privilege Key that was automatically generated when this server was created&lt;br&gt;to gain administrator privileges.&lt;/p&gt;&lt;p&gt;Enter Privilege Key:&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Для нового сервера привилегии администратора еще не заданы.&lt;br&gt;Введите ключ доступа который вы получили при создании сервера.&lt;br&gt;&lt;/p&gt;&lt;p&gt;Ключ доступа:&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Enter Privilege Key:</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите ключ доступа:</translation>
     </message>
     <message>
         <source>Select File</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать Файл</translation>
     </message>
     <message>
         <source>Wave files (*.wav)</source>
@@ -4992,15 +4997,15 @@ Current: %1</source>
     </message>
     <message>
         <source>Transfer &quot;%1&quot; reports: (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Передача &quot;%1&quot; отчетов: (%2)</translation>
     </message>
     <message>
         <source>Question</source>
-        <translation type="unfinished"></translation>
+        <translation>Вопрос</translation>
     </message>
     <message>
         <source>&lt;p&gt;You have no telephony accounts configured yet.&lt;/p&gt;&lt;p&gt;Open telephony options to setup a new account?&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;У вас не настроен аккаунт телефонной связи.&lt;/p&gt;&lt;p&gt;Открыть диалог?&lt;/p&gt;</translation>
     </message>
     <message>
         <source>/s</source>
@@ -5008,15 +5013,15 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;About TeamSpeak 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Информация о TeamSpeak 3</translation>
     </message>
     <message>
         <source>Show application and copyright information</source>
-        <translation type="unfinished"></translation>
+        <translation>Отображать информацию о приложении</translation>
     </message>
     <message>
         <source>&amp;Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>Соединение</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
@@ -5024,11 +5029,11 @@ Current: %1</source>
     </message>
     <message>
         <source>Connect to a TeamSpeak server</source>
-        <translation type="unfinished"></translation>
+        <translation>Подключиться к серверу TeamSpeak</translation>
     </message>
     <message>
         <source>&amp;Disconnect from Current</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключиться от текущего</translation>
     </message>
     <message>
         <source>Ctrl+D</source>
@@ -5036,23 +5041,23 @@ Current: %1</source>
     </message>
     <message>
         <source>Disconnect from the currently active server tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключиться от сервера на активной вкладке</translation>
     </message>
     <message>
         <source>&amp;Disconnect from All</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключиться от всех</translation>
     </message>
     <message>
         <source>Disconnect from all TeamSpeak Servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключиться от всех серверов TeamSpeak</translation>
     </message>
     <message>
         <source>&amp;Server List</source>
-        <translation type="unfinished"></translation>
+        <translation>Список Серверов</translation>
     </message>
     <message>
         <source>Show list of known TeamSpeak 3 servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Отображать список известных TS3 серверов</translation>
     </message>
     <message>
         <source>Ctrl+Shift+S</source>
@@ -5060,7 +5065,7 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>Выход</translation>
     </message>
     <message>
         <source>Ctrl+Q</source>
@@ -5068,83 +5073,83 @@ Current: %1</source>
     </message>
     <message>
         <source>Exit TeamSpeak</source>
-        <translation type="unfinished"></translation>
+        <translation>Выход из TeamSpeak</translation>
     </message>
     <message>
         <source>&amp;Toggle Away Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить статус AFK</translation>
     </message>
     <message>
         <source>Toggle the Away status</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить статус AFK</translation>
     </message>
     <message>
         <source>&amp;Set Away</source>
-        <translation type="unfinished"></translation>
+        <translation>AKF</translation>
     </message>
     <message>
         <source>Set your status to Away</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить ваш статус как AKF</translation>
     </message>
     <message>
         <source>&amp;Set Globally Away</source>
-        <translation type="unfinished"></translation>
+        <translation>AFK глобально</translation>
     </message>
     <message>
         <source>Set you status Globally Away</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить ваш статус как AKF глобально</translation>
     </message>
     <message>
         <source>&amp;Set Away Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Статус AKF</translation>
     </message>
     <message>
         <source>&amp;Set Globally Away Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Статус AFK глобально</translation>
     </message>
     <message>
         <source>&amp;Online</source>
-        <translation type="unfinished"></translation>
+        <translation>Онлайн</translation>
     </message>
     <message>
         <source>Set status to Online on the active server</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить Онлайн статус на активном сервере</translation>
     </message>
     <message>
         <source>&amp;Online on all servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Онлайн глобально</translation>
     </message>
     <message>
         <source>Set your status to online on the all server</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить Онлайн статус на всех серверах</translation>
     </message>
     <message>
         <source>(Un)Mute the Microphone on the current server</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить звук микрофона на текущем сервере</translation>
     </message>
     <message>
         <source>&amp;Activate Microphone</source>
-        <translation type="unfinished"></translation>
+        <translation>Активировать микрофон</translation>
     </message>
     <message>
         <source>Activate the Microphone</source>
-        <translation type="unfinished"></translation>
+        <translation>Активировать микрофон</translation>
     </message>
     <message>
         <source>(Un)Mute the Speakers/Headphones on the current server</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить звук динамика на текущем сервере</translation>
     </message>
     <message>
         <source>(Un)Mute the Speakers/Headphones on all servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить звук динамика на всех серверах</translation>
     </message>
     <message>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <source>Open options dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть диалог настроек</translation>
     </message>
     <message>
         <source>Alt+P</source>
@@ -5152,19 +5157,19 @@ Current: %1</source>
     </message>
     <message>
         <source>Start &amp;Overwolf</source>
-        <translation type="unfinished"></translation>
+        <translation>Запустить Overwolf</translation>
     </message>
     <message>
         <source>Start Overwolf Overlay</source>
-        <translation type="unfinished"></translation>
+        <translation>Запустить Overwolf оверлэй</translation>
     </message>
     <message>
         <source>Collected &amp;URLs</source>
-        <translation type="unfinished"></translation>
+        <translation>Собранные URL</translation>
     </message>
     <message>
         <source>Display collected internet locations</source>
-        <translation type="unfinished"></translation>
+        <translation>Отображать собранные ссылки</translation>
     </message>
     <message>
         <source>Ctrl+U</source>
@@ -5172,11 +5177,11 @@ Current: %1</source>
     </message>
     <message>
         <source>File &amp;Transfers</source>
-        <translation type="unfinished"></translation>
+        <translation>Передачи Файлов</translation>
     </message>
     <message>
         <source>Display file transfers</source>
-        <translation type="unfinished"></translation>
+        <translation>Отображать передачи файлов</translation>
     </message>
     <message>
         <source>Ctrl+T</source>
@@ -5184,11 +5189,11 @@ Current: %1</source>
     </message>
     <message>
         <source>Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Контакты</translation>
     </message>
     <message>
         <source>Manage contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Управление контактами</translation>
     </message>
     <message>
         <source>Ctrl+Shift+O</source>
@@ -5196,43 +5201,43 @@ Current: %1</source>
     </message>
     <message>
         <source>Visit TeamSpeak &amp;Webpage</source>
-        <translation type="unfinished"></translation>
+        <translation>Посетить страницу TeamSpeak</translation>
     </message>
     <message>
         <source>Visit the TeamSpeak webpage at www.TeamSpeak.com</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть вэб-страницу TeamSpeak по адресу www.TeamSpeak.com</translation>
     </message>
     <message>
         <source>&amp;My TeamSpeak Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Мой аккаунт TeamSpeak</translation>
     </message>
     <message>
         <source>Visit the My TeamSpeak account webpage</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть вэб-страницу аккаунта TeamSpeak</translation>
     </message>
     <message>
         <source>Visit TeamSpeak &amp;Support Forum</source>
-        <translation type="unfinished"></translation>
+        <translation>Форум поддержки TeamSpeak</translation>
     </message>
     <message>
         <source>Visit the TeamSpeak support forum at forum.TeamSpeak.com</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть форум поддержки по адресу forum.TeamSpeak.com</translation>
     </message>
     <message>
         <source>&amp;Rent own TeamSpeak Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Снять в аренду сервер TeamSpeak</translation>
     </message>
     <message>
         <source>Find out where to get your own TeamSpeak Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Найти хостера для вашего TeamSpeak сервера</translation>
     </message>
     <message>
         <source>Client &amp;Log</source>
-        <translation type="unfinished"></translation>
+        <translation>Лог клиента</translation>
     </message>
     <message>
         <source>Display client log</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать лог</translation>
     </message>
     <message>
         <source>Ctrl+L</source>
@@ -5240,11 +5245,11 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Server Log</source>
-        <translation type="unfinished"></translation>
+        <translation>Лог сервера</translation>
     </message>
     <message>
         <source>Display server log messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать лог сервера</translation>
     </message>
     <message>
         <source>Ctrl+Shift+L</source>
@@ -5252,11 +5257,11 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Server Groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Группы сервера</translation>
     </message>
     <message>
         <source>Manage server group permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Управление привилегиями групп</translation>
     </message>
     <message>
         <source>Ctrl+F1</source>
@@ -5264,11 +5269,11 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Client Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Привилегии клиентов</translation>
     </message>
     <message>
         <source>Manage client permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Управление привилегиями клиентов</translation>
     </message>
     <message>
         <source>Ctrl+F2</source>
@@ -5276,11 +5281,11 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Channel Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Привилегии каналов</translation>
     </message>
     <message>
         <source>Manage channel permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Управление привилегиями каналов</translation>
     </message>
     <message>
         <source>Ctrl+F3</source>
@@ -5288,11 +5293,11 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Channel Groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Группы Каналов</translation>
     </message>
     <message>
         <source>Manage channel group permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Управление привилегиям групп каналов</translation>
     </message>
     <message>
         <source>Ctrl+F4</source>
@@ -5300,11 +5305,11 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Channel Client Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Привилегии клиента на канале</translation>
     </message>
     <message>
         <source>Manage channel client permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Управление привилегиями клиента на канале</translation>
     </message>
     <message>
         <source>Ctrl+F5</source>
@@ -5312,27 +5317,27 @@ Current: %1</source>
     </message>
     <message>
         <source>Check for &amp;Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверить обновление</translation>
     </message>
     <message>
         <source>Check if a new TeamSpeak 3 client version is available</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверить есть ли новая версия клиента TeamSpeak 3</translation>
     </message>
     <message>
         <source>Show News &amp;Ticker</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать новости</translation>
     </message>
     <message>
         <source>Show latest news about TeamSpeak</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать последние новости TeamSpeak</translation>
     </message>
     <message>
         <source>&amp;Identities</source>
-        <translation type="unfinished"></translation>
+        <translation>Идентификаторы</translation>
     </message>
     <message>
         <source>Manage user identities</source>
-        <translation type="unfinished"></translation>
+        <translation>Управление идентификаторами</translation>
     </message>
     <message>
         <source>Ctrl+I</source>
@@ -5340,35 +5345,35 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;ServerQuery Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Вход в ServerQuery</translation>
     </message>
     <message>
         <source>Set login name and password for your ServerQuery connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Задать имя и пароль для подключений ServerQuery</translation>
     </message>
     <message>
         <source>Use &amp;Privilege Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Ключ доступа</translation>
     </message>
     <message>
         <source>Use Privilege Key to get specific permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Использовать ключ доступа для получения особых привилегий</translation>
     </message>
     <message>
         <source>Channel &amp;Groups of Client</source>
-        <translation type="unfinished"></translation>
+        <translation>Группы клиента на каналах</translation>
     </message>
     <message>
         <source>Display channel groups of specified client</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать группы клиента на каналах</translation>
     </message>
     <message>
         <source>Start &amp;Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Начать Запись</translation>
     </message>
     <message>
         <source>Start recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Начать запись</translation>
     </message>
     <message>
         <source>Ctrl+Shift+R</source>
@@ -5376,11 +5381,11 @@ Current: %1</source>
     </message>
     <message>
         <source>Stop &amp;Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Остановить Запись</translation>
     </message>
     <message>
         <source>Stop recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Остановить Запись</translation>
     </message>
     <message>
         <source>Ctrl+Shift+T</source>
@@ -5388,15 +5393,15 @@ Current: %1</source>
     </message>
     <message>
         <source>Status Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Поле состояния</translation>
     </message>
     <message>
         <source>Offline Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Оффлайн сообщения</translation>
     </message>
     <message>
         <source>Open Offline Message Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть диалог оффлайн-сообщений</translation>
     </message>
     <message>
         <source>Ctrl+O</source>
@@ -5404,15 +5409,15 @@ Current: %1</source>
     </message>
     <message>
         <source>Toggle channel subscribe mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить режим подписки на канале</translation>
     </message>
     <message>
         <source>Ban List</source>
-        <translation type="unfinished"></translation>
+        <translation>Список банов</translation>
     </message>
     <message>
         <source>Opens the Ban List</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть ваш список банов</translation>
     </message>
     <message>
         <source>Ctrl+Shift+B</source>
@@ -5420,11 +5425,11 @@ Current: %1</source>
     </message>
     <message>
         <source>Complaints List</source>
-        <translation type="unfinished"></translation>
+        <translation>Список Жалоб</translation>
     </message>
     <message>
         <source>Show list of complaints</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать список жалоб</translation>
     </message>
     <message>
         <source>Ctrl+Shift+C</source>
@@ -5432,67 +5437,67 @@ Current: %1</source>
     </message>
     <message>
         <source>View &amp;Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Посмотреть Changelog</translation>
     </message>
     <message>
         <source>View the TeamSpeak 3 Client Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Посмотреть последние изменения TeamSpeak 3 клиента</translation>
     </message>
     <message>
         <source>View &amp;License</source>
-        <translation type="unfinished"></translation>
+        <translation>Посмотреть лицензию</translation>
     </message>
     <message>
         <source>View the TeamSpeak 3 Client License</source>
-        <translation type="unfinished"></translation>
+        <translation>Посмотреть лицензию клиента TeamSpeak 3</translation>
     </message>
     <message>
         <source>Set &amp;Phonetic Nickname</source>
-        <translation type="unfinished"></translation>
+        <translation>Фонетический никнэйм</translation>
     </message>
     <message>
         <source>Set your nickname written in phonemes</source>
-        <translation type="unfinished"></translation>
+        <translation>Задать никнэйм с помощью фонем</translation>
     </message>
     <message>
         <source>&amp;Privilege Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Ключи доступа</translation>
     </message>
     <message>
         <source>Manage privilege keys on this server</source>
-        <translation type="unfinished"></translation>
+        <translation>Управление ключами доступа на этом сервере</translation>
     </message>
     <message>
         <source>&amp;Connection Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Сведения о подключении</translation>
     </message>
     <message>
         <source>Retrieve connection information</source>
-        <translation type="unfinished"></translation>
+        <translation>Получить сведения о подключении</translation>
     </message>
     <message>
         <source>&amp;List All Clients</source>
-        <translation type="unfinished"></translation>
+        <translation>Cписок клиентов</translation>
     </message>
     <message>
         <source>Show list of all clients on the current server</source>
-        <translation type="unfinished"></translation>
+        <translation>Составить список всех клиентов на данном сервере</translation>
     </message>
     <message>
         <source>Customize Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Настроить Тулбар</translation>
     </message>
     <message>
         <source>Master Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Общий Звук</translation>
     </message>
     <message>
         <source>&amp;Whisper Lists</source>
-        <translation type="unfinished"></translation>
+        <translation>Список Шептунов</translation>
     </message>
     <message>
         <source>Manage whisper lists</source>
-        <translation type="unfinished"></translation>
+        <translation>Управлением списками шепота</translation>
     </message>
     <message>
         <source>Ctrl+Shift+W</source>
@@ -5500,11 +5505,11 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Whisper History</source>
-        <translation type="unfinished"></translation>
+        <translation>История шепталок</translation>
     </message>
     <message>
         <source>Show whisper history for current server</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать историю всех нашептываний на данном сервере</translation>
     </message>
     <message>
         <source>Ctrl+Shift+H</source>
@@ -5512,47 +5517,47 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Invite Buddy</source>
-        <translation type="unfinished"></translation>
+        <translation>Пригласить друга</translation>
     </message>
     <message>
         <source>Invite a buddy to this server</source>
-        <translation type="unfinished"></translation>
+        <translation>Пригласить друга на этот сервер</translation>
     </message>
     <message>
         <source>&amp;Toggle ServerQueryClients</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить ServerQueryClients</translation>
     </message>
     <message>
         <source>Toggle ServerQueryClients on this server</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить флаг ServerQueryClients на этом сервере</translation>
     </message>
     <message>
         <source>T&amp;oggle Block Incoming Whispers</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить блокировку шепталок</translation>
     </message>
     <message>
         <source>Toggle Block Incoming Whispers</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить блокировку шепталок</translation>
     </message>
     <message>
         <source>&amp;Call</source>
-        <translation type="unfinished"></translation>
+        <translation>Позвонить</translation>
     </message>
     <message>
         <source>Call user</source>
-        <translation type="unfinished"></translation>
+        <translation>Позвонить пользователю</translation>
     </message>
     <message>
         <source>Open telephony settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Отрыть настройки телефонов</translation>
     </message>
     <message>
         <source>&amp;Connections</source>
-        <translation type="unfinished"></translation>
+        <translation>Соединения</translation>
     </message>
     <message>
         <source>S&amp;elf</source>
-        <translation type="unfinished"></translation>
+        <translation>=[ Я ]=</translation>
     </message>
     <message>
         <source>Per&amp;missions</source>
