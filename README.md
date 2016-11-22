@@ -1,9 +1,11 @@
 # TeamSpeak3Ru client
 перевод проверен на версии 3.0.19.4
 
-портабельная версия программы (Windows): https://rutracker.org/forum/viewtopic.php?t=5302743
+портабельная версия программы (Windows):
+https://rutracker.org/forum/viewtopic.php?t=5302743
 
-оригинальные файлы для перевода можно достать отсюда: http://forum.teamspeak.com/threads/47036-Translations
+оригинальные файлы для перевода можно достать отсюда:
+http://forum.teamspeak.com/threads/47036-Translations
 
 перевод выполняется внутри файлов _ru.ts_.
 переведенные строки вставляются внутрь тегов _\<translation\>\</translation\>_,
@@ -11,7 +13,8 @@
 
 при встрече _\<numerousform\>_ внутри _\<translation\>_ перевод нужно помещать внутрь _\<numerousform\>\</numerousform\>_
 
-для тестов перевода потребуется клиент TeamSpeak, а также Qt (Offline Installers): https://www.qt.io/download-open-source/#section-2
+для тестов перевода потребуется клиент TeamSpeak, а также Qt (Offline Installers):
+https://www.qt.io/download-open-source/#section-2
 
 например, Qt 5.7.0 for Windows 32-bit (VS 2013, 909 MB)",
 после его установки требуется только утилита lrelease,
