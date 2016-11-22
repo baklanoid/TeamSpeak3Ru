@@ -5561,227 +5561,227 @@ Current: %1</source>
     </message>
     <message>
         <source>Per&amp;missions</source>
-        <translation type="unfinished"></translation>
+        <translation>Привилегии</translation>
     </message>
     <message>
         <source>&amp;Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Инструменты</translation>
     </message>
     <message>
         <source>Teleph&amp;ony</source>
-        <translation type="unfinished"></translation>
+        <translation>Телефония</translation>
     </message>
     <message>
         <source>P&amp;lugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Плагины</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Помощь</translation>
     </message>
     <message>
         <source>On active server</source>
-        <translation type="unfinished"></translation>
+        <translation>Активный сервер</translation>
     </message>
     <message>
         <source>Set Away</source>
-        <translation type="unfinished"></translation>
+        <translation>AFK</translation>
     </message>
     <message>
         <source>Install &amp;Overwolf</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить Overwolf</translation>
     </message>
     <message>
         <source>Install Overwolf Overlay</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить Overwolf оверлэй</translation>
     </message>
     <message>
         <source>Filetransfer in progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Передача файлов</translation>
     </message>
     <message numerus="yes">
         <source>There are %n filetransfer(s) in progress.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Всего передается %n файлов.</numerusform>
         </translation>
     </message>
     <message>
         <source>If you quit now, any transfer will be aborted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Если выйти, то все передачи файлов будут прерваны.</translation>
     </message>
     <message>
         <source>Do you really want to quit?</source>
-        <translation type="unfinished"></translation>
+        <translation>Выйти?</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка</translation>
     </message>
     <message>
         <source>Failed to start Overwolf</source>
-        <translation type="unfinished"></translation>
+        <translation>Не получилось запустить Overwolf</translation>
     </message>
 </context>
 <context>
     <name>MasterVolumeWidget</name>
     <message>
         <source>Voice Volume Adjustment</source>
-        <translation type="unfinished"></translation>
+        <translation>Регулировка уровня звука</translation>
     </message>
     <message>
         <source>The current server tab has no active playback profile!</source>
-        <translation type="unfinished"></translation>
+        <translation>На текущем сервере не активирован Профиль воспроизведения!</translation>
     </message>
     <message>
         <source>Playback Profile: &lt;strong&gt;%1&lt;/strong&gt; </source>
-        <translation type="unfinished"></translation>
+        <translation>Профиль воспроизведения: &lt;strong&gt;%1&lt;/strong&gt; </translation>
     </message>
     <message>
         <source>&lt;strong&gt;&lt;br&gt;Hint: &lt;/strong&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;&lt;br&gt;Совет: &lt;/strong&gt;</translation>
     </message>
     <message>
         <source>Values greater than zero and less than +6 dB might cause moderate clipping and distortion, but should still be within acceptable bounds.</source>
-        <translation type="unfinished"></translation>
+        <translation>Значения меньше нуля и меньше +6 dB могут вызвать пропадание и искажение сигнала, но они в рамках нормы.</translation>
     </message>
     <message>
         <source>Values greater than +6 dB will cause clipping and distortion that will negatively affect your audio quality. It is advised to chose lower values.</source>
-        <translation type="unfinished"></translation>
+        <translation>Значения выше +6 dB обязательно приведут к искажению сигнала и отрицательно повлияют на качество звука. Советуем выбрать значение ниже.</translation>
     </message>
     <message>
         <source>Voice Volume Adjustment [%1]</source>
-        <translation type="unfinished"></translation>
+        <translation>Регулировка уровня звука [%1]</translation>
     </message>
 </context>
 <context>
     <name>MessagesSetup</name>
     <message>
         <source>&amp;Disconnect Message:</source>
-        <translation type="unfinished"></translation>
+        <translation>Сообщение при выходе:</translation>
     </message>
     <message>
         <source>Customize message sent when disconnecting</source>
-        <translation type="unfinished"></translation>
+        <translation>Задайте сообщение отображаемое при отсоединении</translation>
     </message>
     <message>
         <source>Message Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Шаблоны Сообщений</translation>
     </message>
     <message>
         <source>Add new preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить шаблон</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить</translation>
     </message>
     <message>
         <source>Delete selected preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить выбранный шаблон</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation type="unfinished"></translation>
+        <translation>AKF</translation>
     </message>
     <message>
         <source>Ban</source>
-        <translation type="unfinished"></translation>
+        <translation>Бан</translation>
     </message>
     <message>
         <source>Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Сообщения</translation>
     </message>
     <message>
         <source>Personalize Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Ваши Сообщения</translation>
     </message>
     <message>
         <source>leaving</source>
-        <translation type="unfinished"></translation>
+        <translation>отключение</translation>
     </message>
     <message>
         <source>The preset name already exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Шаблон с таким именем существует</translation>
     </message>
 </context>
 <context>
     <name>MoreLessButton</name>
     <message>
         <source>&amp;More</source>
-        <translation type="unfinished"></translation>
+        <translation>Больше</translation>
     </message>
     <message>
         <source>&amp;Less</source>
-        <translation type="unfinished"></translation>
+        <translation>Меньше</translation>
     </message>
 </context>
 <context>
     <name>MsgDialog</name>
     <message>
         <source>Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Сообщение</translation>
     </message>
     <message>
         <source>Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройка</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Предупреждение</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка</translation>
     </message>
     <message>
         <source>Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Инфо</translation>
     </message>
 </context>
 <context>
     <name>NewsWidget</name>
     <message>
         <source>News:</source>
-        <translation type="unfinished"></translation>
+        <translation>Новости:</translation>
     </message>
     <message>
         <source>Hide this news</source>
-        <translation type="unfinished"></translation>
+        <translation>Скрыть эту новость</translation>
     </message>
     <message>
         <source>Disable news</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключить новости</translation>
     </message>
 </context>
 <context>
     <name>NotificationsSetup</name>
     <message>
         <source>&amp;Sound Pack:</source>
-        <translation type="unfinished"></translation>
+        <translation>Набор Звуков:</translation>
     </message>
     <message>
         <source>&amp;While Output Muted:</source>
-        <translation type="unfinished"></translation>
+        <translation>При заглушенном микро:</translation>
     </message>
     <message>
         <source>Use as Default for all Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Использовать по-умолчанию во всех закладках</translation>
     </message>
     <message>
         <source>Hint: The Sound Pack can be overwritten for each &lt;a href=&quot;jumpTo:OpenBookmarks&quot;&gt;Bookmark&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Совет: Набор звуков может быть переназначен для каждой &lt;a href=&quot;jumpTo:OpenBookmarks&quot;&gt;Закладки&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>Play selected sound (Alt+P)</source>
-        <translation type="unfinished"></translation>
+        <translation>Воспроизвести выбранный звук (Alt+P)</translation>
     </message>
     <message>
         <source>&amp;Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Воспроизвести</translation>
     </message>
     <message>
         <source>Alt+P</source>
@@ -5789,415 +5789,415 @@ Current: %1</source>
     </message>
     <message>
         <source>No valid entry selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ничего не выбрано</translation>
     </message>
     <message>
         <source>Visit TeamSpeak Addons webpage</source>
-        <translation type="unfinished"></translation>
+        <translation>Посмотреть вэбсайт дополнений к TeamSpeak</translation>
     </message>
     <message>
         <source>Notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Уведомления</translation>
     </message>
     <message>
         <source>Configure the Notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Настроить Уведомления</translation>
     </message>
     <message>
         <source>Get more soundpacks</source>
-        <translation type="unfinished"></translation>
+        <translation>Получить больше звуков</translation>
     </message>
     <message>
         <source>Play all sounds</source>
-        <translation type="unfinished"></translation>
+        <translation>Воспроизводить все звуки</translation>
     </message>
     <message>
         <source>Play only important sounds</source>
-        <translation type="unfinished"></translation>
+        <translation>Воспроизводить только важные звуки</translation>
     </message>
     <message>
         <source>Play no sounds</source>
-        <translation type="unfinished"></translation>
+        <translation>Без звуков</translation>
     </message>
     <message>
         <source>Select Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать группу</translation>
     </message>
     <message>
         <source>Deselect Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Исключить группу</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать все</translation>
     </message>
     <message>
         <source>Deselect All</source>
-        <translation type="unfinished"></translation>
+        <translation>Исключить все</translation>
     </message>
     <message>
         <source>Expand Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Раскрыть группу</translation>
     </message>
     <message>
         <source>Collapse Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Свернуть группу</translation>
     </message>
     <message>
         <source>Expand All</source>
-        <translation type="unfinished"></translation>
+        <translation>Раскрыть все</translation>
     </message>
     <message>
         <source>Collapse All</source>
-        <translation type="unfinished"></translation>
+        <translation>Свернуть все</translation>
     </message>
     <message>
         <source>Mark as Important</source>
-        <translation type="unfinished"></translation>
+        <translation>Пометить как Важное</translation>
     </message>
     <message>
         <source>Connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Подключение</translation>
     </message>
     <message>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Канал</translation>
     </message>
     <message>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Сервер</translation>
     </message>
     <message>
         <source>Client</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент</translation>
     </message>
     <message>
         <source>You</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы</translation>
     </message>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Чат</translation>
     </message>
     <message>
         <source>Sound capture</source>
-        <translation type="unfinished"></translation>
+        <translation>Запись звука</translation>
     </message>
     <message>
         <source>Sound playback</source>
-        <translation type="unfinished"></translation>
+        <translation>Воспроизведение звука</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Статус</translation>
     </message>
     <message>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Другое</translation>
     </message>
     <message>
         <source>Special</source>
-        <translation type="unfinished"></translation>
+        <translation>Особое</translation>
     </message>
     <message>
         <source>Connected to server</source>
-        <translation type="unfinished"></translation>
+        <translation>Подключен к серверу</translation>
     </message>
     <message>
         <source>Disconnected from server</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключен от сервера</translation>
     </message>
     <message>
         <source>Lost connection to server</source>
-        <translation type="unfinished"></translation>
+        <translation>Соединение с сервером потеряно</translation>
     </message>
     <message>
         <source>Created</source>
-        <translation type="unfinished"></translation>
+        <translation>Создан</translation>
     </message>
     <message>
         <source>Deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>Удален</translation>
     </message>
     <message>
         <source>Edited</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменен</translation>
     </message>
     <message>
         <source>Moved</source>
-        <translation type="unfinished"></translation>
+        <translation>Перемещен</translation>
     </message>
     <message>
         <source>By you</source>
-        <translation type="unfinished"></translation>
+        <translation>Вами</translation>
     </message>
     <message>
         <source>By other client</source>
-        <translation type="unfinished"></translation>
+        <translation>Другим клиентом</translation>
     </message>
     <message>
         <source>By the server</source>
-        <translation type="unfinished"></translation>
+        <translation>Сервером</translation>
     </message>
     <message>
         <source>Current Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Текущий Канал</translation>
     </message>
     <message>
         <source>Other Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Другой Канал</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка</translation>
     </message>
     <message>
         <source>Insufficient permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Недостаточно привилегий</translation>
     </message>
     <message>
         <source>By other</source>
-        <translation type="unfinished"></translation>
+        <translation>Другими</translation>
     </message>
     <message>
         <source>Switched</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключен</translation>
     </message>
     <message>
         <source>Renamed</source>
-        <translation type="unfinished"></translation>
+        <translation>Переименован</translation>
     </message>
     <message>
         <source>Was Kicked</source>
-        <translation type="unfinished"></translation>
+        <translation>Кикнут</translation>
     </message>
     <message>
         <source>Was Banned</source>
-        <translation type="unfinished"></translation>
+        <translation>Забанен</translation>
     </message>
     <message>
         <source>Was Assigned a Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Назначен в Группу</translation>
     </message>
     <message>
         <source>Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Запись</translation>
     </message>
     <message>
         <source>Requests Talk Power</source>
-        <translation type="unfinished"></translation>
+        <translation>Необходимо Право голоса</translation>
     </message>
     <message>
         <source>Connected</source>
-        <translation type="unfinished"></translation>
+        <translation>Подключен</translation>
     </message>
     <message>
         <source>Disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключен</translation>
     </message>
     <message>
         <source>Lost Connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Потерял соединение</translation>
     </message>
     <message>
         <source>Current channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Текущий канал</translation>
     </message>
     <message>
         <source>To Current Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>В текущий канал</translation>
     </message>
     <message>
         <source>Away from Current Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>AFK на текущем канале</translation>
     </message>
     <message>
         <source>To Different Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>На другой канал</translation>
     </message>
     <message>
         <source>And appears</source>
-        <translation type="unfinished"></translation>
+        <translation>И появляется</translation>
     </message>
     <message>
         <source>And stays in view</source>
-        <translation type="unfinished"></translation>
+        <translation>И остается на виду</translation>
     </message>
     <message>
         <source>And disappears</source>
-        <translation type="unfinished"></translation>
+        <translation>И пропадает</translation>
     </message>
     <message>
         <source>You have been renamed</source>
-        <translation type="unfinished"></translation>
+        <translation>Вас переименовали</translation>
     </message>
     <message>
         <source>Other has been renamed</source>
-        <translation type="unfinished"></translation>
+        <translation>Другой переименован</translation>
     </message>
     <message>
         <source>From Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>От Канала</translation>
     </message>
     <message>
         <source>From Server</source>
-        <translation type="unfinished"></translation>
+        <translation>От Сервера</translation>
     </message>
     <message>
         <source>Away From Current Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>AKF на текущем канале</translation>
     </message>
     <message>
         <source>Server Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Группа Сервера</translation>
     </message>
     <message>
         <source>Channel Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Группа Каналов</translation>
     </message>
     <message>
         <source>Added by the server</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавлено сервером</translation>
     </message>
     <message>
         <source>Added by a user</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавлено пользователем</translation>
     </message>
     <message>
         <source>Removed by the server</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалено сервером</translation>
     </message>
     <message>
         <source>Removed by a user</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалено пользователем</translation>
     </message>
     <message>
         <source>Changed by the server</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменено сервером</translation>
     </message>
     <message>
         <source>Changed by a user</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменено пользователем</translation>
     </message>
     <message>
         <source>Starts recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Начинает запись</translation>
     </message>
     <message>
         <source>Stops recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Прекращает запись</translation>
     </message>
     <message>
         <source>Is already recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Уже записываеться</translation>
     </message>
     <message>
         <source>Switched channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключенный канал</translation>
     </message>
     <message>
         <source>Were moved to different channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Были перемещены на другой канал</translation>
     </message>
     <message>
         <source>Were Kicked</source>
-        <translation type="unfinished"></translation>
+        <translation>Были кикнуты</translation>
     </message>
     <message>
         <source>Were banned</source>
-        <translation type="unfinished"></translation>
+        <translation>Были забанены</translation>
     </message>
     <message>
         <source>Talk Power was granted</source>
-        <translation type="unfinished"></translation>
+        <translation>Право голоса предоставлено</translation>
     </message>
     <message>
         <source>Talk Power was revoked</source>
-        <translation type="unfinished"></translation>
+        <translation>Право голоса отозвано</translation>
     </message>
     <message>
         <source>Were Assigned a Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Были включены в Группу</translation>
     </message>
     <message>
         <source>From the server</source>
-        <translation type="unfinished"></translation>
+        <translation>От сервера</translation>
     </message>
     <message>
         <source>From the channel</source>
-        <translation type="unfinished"></translation>
+        <translation>От канала</translation>
     </message>
     <message>
         <source>You sent a client message</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы отправили сообщение клиенту</translation>
     </message>
     <message>
         <source>You received a client message</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы получили сообщение от клиента</translation>
     </message>
     <message>
         <source>You sent a channel message</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы отправили сообщение на канал</translation>
     </message>
     <message>
         <source>You received a channel message</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы получили сообщение с канала</translation>
     </message>
     <message>
         <source>You sent a server message</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы отправили серверное сообщение</translation>
     </message>
     <message>
         <source>You received a server message</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы получили серверное сообщение</translation>
     </message>
     <message>
         <source>Muted</source>
-        <translation type="unfinished"></translation>
+        <translation>Заглушен</translation>
     </message>
     <message>
         <source>Unmuted</source>
-        <translation type="unfinished"></translation>
+        <translation>Не заглушен</translation>
     </message>
     <message>
         <source>Set to away</source>
-        <translation type="unfinished"></translation>
+        <translation>Статус AKF</translation>
     </message>
     <message>
         <source>Set to present</source>
-        <translation type="unfinished"></translation>
+        <translation>Статус онлайн</translation>
     </message>
     <message>
         <source>Received poke</source>
-        <translation type="unfinished"></translation>
+        <translation>Получен тычек</translation>
     </message>
     <message>
         <source>Sent poke</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправлен тычек</translation>
     </message>
     <message>
         <source>File transfer complete</source>
-        <translation type="unfinished"></translation>
+        <translation>Файловая передача завершена</translation>
     </message>
     <message>
         <source>File transfer failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Файловая передача прервана</translation>
     </message>
     <message>
         <source>Whisper list empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Список шептунов пуст</translation>
     </message>
     <message>
         <source>No whisper target found</source>
-        <translation type="unfinished"></translation>
+        <translation>Объект для шепота не найден</translation>
     </message>
     <message>
         <source>Too many whisper targets</source>
-        <translation type="unfinished"></translation>
+        <translation>Слишком много целей для шептания</translation>
     </message>
     <message>
         <source>Incoming whisper</source>
-        <translation type="unfinished"></translation>
+        <translation>Получаю шепталку</translation>
     </message>
     <message>
         <source>Mic clicks other off</source>
@@ -6217,141 +6217,141 @@ Current: %1</source>
     </message>
     <message>
         <source>3D test sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Сэмпл для теста 3D звука</translation>
     </message>
     <message>
         <source>Playback test sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Воспроизвести тестовый звук</translation>
     </message>
     <message>
         <source>Talking while muted</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы говорите в пустоту, так как заглушены</translation>
     </message>
     <message>
         <source>Action</source>
-        <translation type="unfinished"></translation>
+        <translation>Действие</translation>
     </message>
     <message>
         <source>Sound Script</source>
-        <translation type="unfinished"></translation>
+        <translation>Сэмпл звука</translation>
     </message>
     <message>
         <source>Text Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Текст</translation>
     </message>
     <message>
         <source>This item is marked as important!</source>
-        <translation type="unfinished"></translation>
+        <translation>Этот элемент помечен как важное!</translation>
     </message>
     <message>
         <source>No sound script available</source>
-        <translation type="unfinished"></translation>
+        <translation>Сэмплы отсутствуют</translation>
     </message>
     <message>
         <source>&lt;strong&gt;File &quot;%1&quot; not found&lt;/strong&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;Файл &quot;%1&quot; не найден&lt;/strong&gt;</translation>
     </message>
     <message>
         <source>No entry selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ничего не выбрано</translation>
     </message>
     <message>
         <source>channelname</source>
-        <translation type="unfinished"></translation>
+        <translation>имя канала</translation>
     </message>
     <message>
         <source>clientname</source>
-        <translation type="unfinished"></translation>
+        <translation>имя клиента</translation>
     </message>
     <message>
         <source>Mark as Unimportant</source>
-        <translation type="unfinished"></translation>
+        <translation>Отметить как неважное</translation>
     </message>
     <message>
         <source>Use Default?</source>
-        <translation type="unfinished"></translation>
+        <translation>По-умолчанию?</translation>
     </message>
     <message>
         <source>Are you sure you want to use the selected Sound Pack as Default for all your Bookmarks?</source>
-        <translation type="unfinished"></translation>
+        <translation>Использовать данный набор звуков для всех закладок?</translation>
     </message>
 </context>
 <context>
     <name>NotificationsSetupComboBox</name>
     <message>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Сервер</translation>
     </message>
     <message>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Канал</translation>
     </message>
     <message>
         <source>Client</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Пусто</translation>
     </message>
 </context>
 <context>
     <name>OfflineMessagesDialog</name>
     <message>
         <source>Compose new message&lt;br&gt;(Ctrl+N)</source>
-        <translation type="unfinished"></translation>
+        <translation>Написать сообщение&lt;br&gt;(Ctrl+N)</translation>
     </message>
     <message>
         <source>&amp;Compose</source>
-        <translation type="unfinished"></translation>
+        <translation>Написать</translation>
     </message>
     <message>
         <source>Reply to selected message&lt;br&gt;(Ctrl+R)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ответить на выделенное сообщение&lt;br&gt;(Ctrl+R)</translation>
     </message>
     <message>
         <source>&amp;Reply</source>
-        <translation type="unfinished"></translation>
+        <translation>Ответить</translation>
     </message>
     <message>
         <source>Delete selected messages&lt;br&gt;(Del)</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить выделенное сообщение&lt;br&gt;(Del)</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <source>Subject:</source>
-        <translation type="unfinished"></translation>
+        <translation>Тема:</translation>
     </message>
     <message>
         <source>Reload messages&lt;br&gt;(F5)</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезагрузить сообщения&lt;br&gt;(F5)</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезагрузить</translation>
     </message>
     <message>
         <source>Offline Messages on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Оффлайн сообщения на %1</translation>
     </message>
     <message>
         <source>Subject</source>
-        <translation type="unfinished"></translation>
+        <translation>Тема</translation>
     </message>
     <message>
         <source>Sender</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправитель</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Дата</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Данные</translation>
     </message>
     <message>
         <source>Ctrl+N</source>
@@ -6367,134 +6367,136 @@ Current: %1</source>
     </message>
     <message>
         <source>&lt;no Subject&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;без темы&gt;</translation>
     </message>
     <message>
         <source>Unread message...</source>
-        <translation type="unfinished"></translation>
+        <translation>Непрочитанное сообщение...</translation>
     </message>
     <message>
         <source>Do you really want to delete the unread message&lt;br&gt;with subject: &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить непрочитанное сообщение&lt;br&gt;с темой: &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt;?</translation>
     </message>
     <message>
         <source>New message</source>
-        <translation type="unfinished"></translation>
+        <translation>Новое сообщение</translation>
     </message>
     <message>
         <source>Reload messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезагрузить сообщения</translation>
     </message>
     <message>
         <source>Reply to message</source>
-        <translation type="unfinished"></translation>
+        <translation>Ответить на сообщение</translation>
     </message>
     <message numerus="yes">
         <source>Delete messages(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Удаление сообщений</numerusform>
         </translation>
     </message>
     <message>
         <source>Mark as Read</source>
-        <translation type="unfinished"></translation>
+        <translation>Пометить как прочтенное</translation>
     </message>
     <message>
         <source>Mark as Unread</source>
-        <translation type="unfinished"></translation>
+        <translation>Пометить как не прочетнное</translation>
     </message>
 </context>
 <context>
     <name>OfflineMessagesNew</name>
     <message>
         <source>New Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Новое сообщение</translation>
     </message>
     <message>
         <source>Recipients:</source>
-        <translation type="unfinished"></translation>
+        <translation>Получатели:</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Текст</translation>
     </message>
     <message>
         <source>&amp;Subject:</source>
-        <translation type="unfinished"></translation>
+        <translation>Тема:</translation>
     </message>
     <message>
         <source>Available Contacts:</source>
-        <translation type="unfinished"></translation>
+        <translation>Контакты:</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправить</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Отменить</translation>
     </message>
     <message>
         <source>The nickname is unknown on this server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Никнэйм не известен на данном сервере.</translation>
     </message>
     <message>
         <source>You have no permission to search for users on this server, so you can only use existing contacts.</source>
-        <translation type="unfinished"></translation>
+        <translation>У вас нет привилегии поиска пользователей на этом сервере, вы можете увидеть только тех кто онлайн.</translation>
     </message>
     <message>
         <source>A nickname is unknown on this server or couldn&apos;t be identified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Никнэйм не известен на данном сервере, идентификация невозможна.</translation>
     </message>
     <message>
         <source>You don&apos;t have the permission to send offline messages.</source>
-        <translation type="unfinished"></translation>
+        <translation>У вас нет привилегии отправлять оффлайн-сообщения.</translation>
     </message>
     <message>
         <source>New Offline Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Новое оффлайн сообщение</translation>
     </message>
     <message>
         <source>Reply Offline Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Ответить на оффлайн сообщение</translation>
     </message>
     <message>
         <source>&quot;%1&quot; wrote:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; написал:</translation>
     </message>
     <message>
         <source>Please enter a nickname or doubleclick a contact from the contact list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите никнэйм вручную или двойным кликом выберите из списка контактов.</translation>
     </message>
     <message>
         <source>Message is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Сообщение пусто</translation>
     </message>
     <message>
         <source>Please Confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>Подтвердите</translation>
     </message>
     <message>
         <source>The list of receipients is not empty and the message has not yet been sent.
 
 Do you want to cancel?</source>
-        <translation type="unfinished"></translation>
+        <translation>Список получателей не пуст и сообщение еще не отправлено.
+
+Хотите отменить начатое?</translation>
     </message>
     <message>
         <source>Character limit reached (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Достигнут предел размера (%1)</translation>
     </message>
 </context>
 <context>
     <name>OptionsDialog</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Опции</translation>
     </message>
     <message>
         <source>Unsaved Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Несохраненные изменения</translation>
     </message>
     <message>
         <source>&lt;p&gt;The &quot;%1&quot; settings have been modified.&lt;/p&gt;&lt;p&gt;Do you want to &lt;strong&gt;Save&lt;/strong&gt;, &lt;strong&gt;Discard&lt;/strong&gt; your changes&lt;br&gt;or &lt;strong&gt;Abort&lt;/strong&gt; closing this window?&lt;/p&gt;</source>
