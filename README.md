@@ -1,7 +1,8 @@
 # TeamSpeak3Ru
 перевод проверен на версии 3.0.19.4
 
-оригинальные файлы можно достать отсюда: http://forum.teamspeak.com/threads/47036-Translations
+портабельная версия программы для Windows: https://rutracker.org/forum/viewtopic.php?t=5302743
+оригинальные файлы для перевода можно достать отсюда: http://forum.teamspeak.com/threads/47036-Translations
 
 перевод выполняется внутри файлов _ru.ts_.
 переведенные строки вставляются внутрь тегов _\<tanslation\>\</tanslation\>_,
