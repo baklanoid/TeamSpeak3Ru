@@ -7,11 +7,7 @@ https://rutracker.org/forum/viewtopic.php?t=5302743
 оригинальные файлы для перевода можно достать отсюда:
 http://forum.teamspeak.com/threads/47036-Translations
 
-перевод выполняется внутри файлов _ru.ts_.
-переведенные строки вставляются внутрь тегов _\<translation\>\</translation\>_,
-после чего удаляется свойство _type="unfinished"_
-
-при встрече _\<numerousform\>_ внутри _\<translation\>_ перевод нужно помещать внутрь _\<numerousform\>\</numerousform\>_
+перевод выполняется внутри файлов _ru.ts_. переведенные строки вставляются внутрь тегов _\<translation\>\</translation\>_, после чего удаляется свойство _type="unfinished"_. при встрече _\<numerousform\>_ внутри _\<translation\>_ перевод нужно помещать внутрь _\<numerousform\>\</numerousform\>_
 
 для тестов перевода потребуется клиент TeamSpeak, а также Qt (Offline Installers):
 https://www.qt.io/download-open-source/#section-2
@@ -22,4 +18,3 @@ https://www.qt.io/download-open-source/#section-2
 
 при помещении скомпилированного перевода _.qm_ в каталог _translation\\_,
 программа определит наличие перевода (его нужно выбрать в настройках).
-
