@@ -1,7 +1,7 @@
 # TeamSpeak3Ru
 перевод проверен на версии 3.0.19.4
 
-портабельная версия программы для Windows: https://rutracker.org/forum/viewtopic.php?t=5302743
+портабельная версия программы (Windows): https://rutracker.org/forum/viewtopic.php?t=5302743
 
 оригинальные файлы для перевода можно достать отсюда: http://forum.teamspeak.com/threads/47036-Translations
 
