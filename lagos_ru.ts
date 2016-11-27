@@ -6500,1064 +6500,1070 @@ Do you want to cancel?</source>
     </message>
     <message>
         <source>&lt;p&gt;The &quot;%1&quot; settings have been modified.&lt;/p&gt;&lt;p&gt;Do you want to &lt;strong&gt;Save&lt;/strong&gt;, &lt;strong&gt;Discard&lt;/strong&gt; your changes&lt;br&gt;or &lt;strong&gt;Abort&lt;/strong&gt; closing this window?&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Настройки изменены &quot;%1&quot;.&lt;/p&gt;&lt;p&gt; &lt;strong&gt;Сохранить&lt;/strong&gt; изменения &lt;br&gt;или &lt;strong&gt;Отменить&lt;/strong&gt; закрыв это окно?&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
     <name>PTTWarningDialog</name>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Информация</translation>
     </message>
     <message>
         <source>Do not show again</source>
-        <translation type="unfinished"></translation>
+        <translation>Не показывать снова</translation>
     </message>
 </context>
 <context>
     <name>PermAddClientDialog</name>
     <message>
         <source>Add client</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить клиента</translation>
     </message>
     <message>
         <source>Enter client unique ID or database ID:</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите уникальный идентификатор ID:</translation>
     </message>
 </context>
 <context>
     <name>PermChunkClient</name>
     <message>
         <source>Drag &amp; Drop client here or enter client unique ID:</source>
-        <translation type="unfinished"></translation>
+        <translation>Перетащите клиента сюда или введите ID:</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation type="unfinished"></translation>
+        <translation>Никнэйм:</translation>
     </message>
     <message>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>Неверный</translation>
     </message>
     <message>
         <source>Unique ID:</source>
-        <translation type="unfinished"></translation>
+        <translation>Идентификатор, ID:</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Неизвестен</translation>
     </message>
 </context>
 <context>
     <name>PermChunkGroups</name>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Переименовать</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Копировать</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <source>Clients in channel group</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиенты в группе канала</translation>
     </message>
     <message>
         <source>Create Privilege Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать ключ доступа</translation>
     </message>
     <message>
         <source>Permanent Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Постоянная группа</translation>
     </message>
     <message>
         <source>Temporary Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Временная группа</translation>
     </message>
     <message>
         <source>Template Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Шаблон группы</translation>
     </message>
     <message>
         <source>ServerQuery Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Группа ServerQuery</translation>
     </message>
     <message>
         <source>Default Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Группа по-умолчанию</translation>
     </message>
 </context>
 <context>
     <name>PermClientsDragDropListView</name>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <source>Copy Unique ID to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Скопировать ID в буфер обмена</translation>
     </message>
 </context>
 <context>
     <name>PermConfirmDeleteGroupDialog</name>
     <message>
         <source>Confirm Delete Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Подтвердите удаление группы</translation>
     </message>
     <message>
         <source>Delete Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить группу</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>Отменить</translation>
     </message>
     <message>
         <source>&lt;p style=&quot;color:red;&quot;&gt;You are about to delete the template group &lt;strong&gt;%1&lt;/strong&gt;.&lt;br&gt;This can ruin your permissions setup.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p style=&quot;color:red;&quot;&gt;Вы собираетесь удалить шаблон группы &lt;strong&gt;%1&lt;/strong&gt;.&lt;br&gt;Это уничтожит настройки привилегий.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;Please confirm deleting group &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Подтвердите удаление группы &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Delete even if there are clients in the group</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить даже если в группе есть клиенты</translation>
     </message>
 </context>
 <context>
     <name>PermGroupCopyDialog</name>
     <message>
-        <source>Target &amp;Name:</source>
-        <translation type="unfinished"></translation>
+        <source>Целевое имя:</source>
+        <translation></translation>
     </message>
     <message>
         <source>Target &amp;group:</source>
-        <translation type="unfinished"></translation>
+        <translation>Целевая группа:</translation>
     </message>
     <message>
         <source>Target &amp;type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип цели:</translation>
     </message>
     <message>
         <source>Copy Server Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Копировать группу сервера</translation>
     </message>
     <message>
         <source>Copy Channel Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Копировать группу канала</translation>
     </message>
     <message>
         <source>Copying group &lt;span style=&quot;font-weight:bold;&quot;&gt;%1&lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Копирую группу &lt;span style=&quot;font-weight:bold;&quot;&gt;%1&lt;/span&gt;</translation>
     </message>
     <message>
         <source>New group</source>
-        <translation type="unfinished"></translation>
+        <translation>Новая группа</translation>
     </message>
     <message>
         <source>Regular group</source>
-        <translation type="unfinished"></translation>
+        <translation>Обычная группа</translation>
     </message>
     <message>
         <source>Template group</source>
-        <translation type="unfinished"></translation>
+        <translation>Шаблон группы</translation>
     </message>
     <message>
         <source>ServerQuery group</source>
-        <translation type="unfinished"></translation>
+        <translation>Группа ServerQuery</translation>
     </message>
     <message>
         <source>(Copy)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Копировать)</translation>
     </message>
     <message>
         <source>(Copy %1)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Копирую %1)</translation>
     </message>
     <message>
         <source>You are about to overwrite a %1 group.
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы собираетесь перезаписать группу %1.
+Хотите продолжить?</translation>
     </message>
     <message>
         <source>Confirmation</source>
-        <translation type="unfinished"></translation>
+        <translation>Подтверждение</translation>
     </message>
 </context>
 <context>
     <name>PermOverviewDialog</name>
     <message>
         <source>Permissions Overview</source>
-        <translation type="unfinished"></translation>
+        <translation>Обзор привилегий</translation>
     </message>
     <message>
         <source>&amp;Filter:</source>
-        <translation type="unfinished"></translation>
+        <translation>Фильтр:</translation>
     </message>
     <message>
         <source>Permission</source>
-        <translation type="unfinished"></translation>
+        <translation>Привилегия</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Значение</translation>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>Пропустить</translation>
     </message>
     <message>
         <source>Negated</source>
-        <translation type="unfinished"></translation>
+        <translation>Отклонено</translation>
     </message>
     <message>
         <source>Grant</source>
-        <translation type="unfinished"></translation>
+        <translation>Предоставить</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезагрузить</translation>
     </message>
     <message>
         <source>Export as Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Экспортировать текст</translation>
     </message>
     <message>
         <source>Show descriptions</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать описания</translation>
     </message>
     <message>
         <source>Show names</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать имена</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Все</translation>
     </message>
     <message>
         <source>Server Groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Группы сервера</translation>
     </message>
     <message>
         <source>Client</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент</translation>
     </message>
     <message>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Канал</translation>
     </message>
     <message>
         <source>Channel Groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Группы канала</translation>
     </message>
     <message>
         <source>Channel Client</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент канала</translation>
     </message>
     <message>
         <source>Invalid client</source>
-        <translation type="unfinished"></translation>
+        <translation>Неверный клиент</translation>
     </message>
     <message>
         <source>Invalid channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Неверный канал</translation>
     </message>
     <message>
         <source>%1 in channel &quot;%2&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 в канале &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Select text file</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать текстовый файл</translation>
     </message>
     <message>
         <source>Text files (*.txt)</source>
-        <translation type="unfinished"></translation>
+        <translation>Текстовые файлы (*.txt)</translation>
     </message>
     <message>
         <source>Copy Permission Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Копировать привилегии</translation>
     </message>
 </context>
 <context>
     <name>PermServerGroupWidget</name>
     <message>
         <source>&amp;Search:</source>
-        <translation type="unfinished"></translation>
+        <translation>Поиск:</translation>
     </message>
     <message>
         <source>Add client</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить клиента</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить</translation>
     </message>
     <message>
         <source>Remove selected client</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить выбранного клиента</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <source>No permissions to display clients inside this group.</source>
-        <translation type="unfinished"></translation>
+        <translation>Недостаточно полномочий чтобы смотреть клиентов этой группы.</translation>
     </message>
     <message>
         <source>Clients which are not in any other group are automatically inside this group.</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент не состоящие ни в одной группе являются участниками этой.</translation>
     </message>
     <message>
         <source>Do you really want to delete &quot;%1&quot;
 from server group &quot;%2&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить &quot;%1&quot; из группы сервера &quot;%2&quot;</translation>
     </message>
     <message>
         <source>Do you really want to delete multiple clients
 from server group &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы действительно хотите удалить несколько клиентов
+из группы сервера &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Confirmation</source>
-        <translation type="unfinished"></translation>
+        <translation>Подтверждение</translation>
     </message>
     <message>
         <source>Your requested ID was not found on this server!
 Would you like to create an invitation instead?</source>
-        <translation type="unfinished"></translation>
+        <translation>Запрошенный ID не найден на этом сервере!
+Создаь приглашение?</translation>
     </message>
 </context>
 <context>
     <name>PermWidget</name>
     <message>
         <source>Not possible due to spam protection. Please try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Сработала защита от спама. Повторите позже.</translation>
     </message>
 </context>
 <context>
     <name>PermissionValuesDialogUI</name>
     <message>
         <source>Permissions group</source>
-        <translation type="unfinished"></translation>
+        <translation>Группа привилегий</translation>
     </message>
     <message>
         <source>&amp;Boolean values:</source>
-        <translation type="unfinished"></translation>
+        <translation>Булевы значения:</translation>
     </message>
     <message>
         <source>Active</source>
-        <translation type="unfinished"></translation>
+        <translation>Активно</translation>
     </message>
     <message>
         <source>&amp;Integer values:</source>
-        <translation type="unfinished"></translation>
+        <translation>Числовые значения:</translation>
     </message>
     <message>
         <source>&amp;Skip channel group</source>
-        <translation type="unfinished"></translation>
+        <translation>Пропустить группу канала</translation>
     </message>
     <message>
         <source>&amp;Negated</source>
-        <translation type="unfinished"></translation>
+        <translation>Отклонено</translation>
     </message>
 </context>
 <context>
     <name>PermissionsHelpWidget</name>
     <message>
         <source>Permission Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Информация о привилегиях</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя:</translation>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"></translation>
+        <translation>Описание:</translation>
     </message>
     <message>
         <source>Information:</source>
-        <translation type="unfinished"></translation>
+        <translation>Инфо:</translation>
     </message>
     <message>
         <source>&amp;Search:</source>
-        <translation type="unfinished"></translation>
+        <translation>Поиск:</translation>
     </message>
     <message>
         <source>Search results:</source>
-        <translation type="unfinished"></translation>
+        <translation>Поиск в результатах:</translation>
     </message>
     <message>
         <source>Not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Не найдено</translation>
     </message>
     <message>
         <source>Select this permission</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать эту привилегию</translation>
     </message>
     <message>
         <source>Copy Permission Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Копировать привилегию</translation>
     </message>
 </context>
 <context>
     <name>PermissionsManager</name>
     <message>
         <source>Unknown (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Неизвестно (%1)</translation>
     </message>
     <message>
         <source>Invalid permission: 0x%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Неверная привилегия: 0x%1</translation>
     </message>
 </context>
 <context>
     <name>PermissionsTree</name>
     <message>
         <source>Clear filter text</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистить фильтр</translation>
     </message>
     <message>
         <source>&amp;Filter:</source>
-        <translation type="unfinished"></translation>
+        <translation>Фильтр:</translation>
     </message>
     <message>
         <source>Show granted permissions only</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать только выданные привилегии</translation>
     </message>
     <message>
         <source>Show &amp;granted only</source>
-        <translation type="unfinished"></translation>
+        <translation>Только привилегии</translation>
     </message>
     <message>
         <source>Switch to standard permissions display</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить стандартный вид привилегий</translation>
     </message>
     <message>
         <source>Show descriptions</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать описания</translation>
     </message>
     <message>
         <source>Show names</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать имена</translation>
     </message>
     <message>
         <source>Skip flag enabled for group</source>
-        <translation type="unfinished"></translation>
+        <translation>Не показывать группы</translation>
     </message>
     <message>
         <source>Show permissions info</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать инфу о привилегиях</translation>
     </message>
     <message>
         <source>No permissions to view this group.</source>
-        <translation type="unfinished"></translation>
+        <translation>Недостаточно привилегий для просмотра группы.</translation>
     </message>
     <message>
         <source>Add Permission</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить привилегию</translation>
     </message>
     <message>
         <source>Remove Permission</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить привилегию</translation>
     </message>
     <message>
         <source>Add Grant Permission</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить привилегию управления</translation>
     </message>
     <message>
         <source>Remove Grant Permission</source>
-        <translation type="unfinished"></translation>
+        <translation>Изъять привилегию управления</translation>
     </message>
     <message>
         <source>Add Permission Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить группу привилегий</translation>
     </message>
     <message>
         <source>Remove Permission Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить группу привилегий</translation>
     </message>
     <message>
         <source>Edit Permission Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить группу привилегий</translation>
     </message>
     <message>
         <source>Expand All</source>
-        <translation type="unfinished"></translation>
+        <translation>Раскрыть все</translation>
     </message>
     <message>
         <source>Collapse All</source>
-        <translation type="unfinished"></translation>
+        <translation>Свернуть все</translation>
     </message>
     <message>
         <source>Copy Permission Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Копировать привилегию</translation>
     </message>
     <message>
         <source>Permission</source>
-        <translation type="unfinished"></translation>
+        <translation>Привилегия</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Значение</translation>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>Пропустить</translation>
     </message>
     <message>
         <source>Negate</source>
-        <translation type="unfinished"></translation>
+        <translation>Изъять</translation>
     </message>
     <message>
         <source>Grant</source>
-        <translation type="unfinished"></translation>
+        <translation>Предоставить</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Сбросить</translation>
     </message>
     <message>
         <source>Global</source>
-        <translation type="unfinished"></translation>
+        <translation>Глобально</translation>
     </message>
     <message>
         <source>Virtual Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Виртуальный сервер</translation>
     </message>
     <message>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Канал</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Группа</translation>
     </message>
     <message>
         <source>Client</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент</translation>
     </message>
     <message>
         <source>File Transfer</source>
-        <translation type="unfinished"></translation>
+        <translation>Передача Файлов</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Информация</translation>
     </message>
     <message>
         <source>Virtual Server Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Управление Виртуальным сервером</translation>
     </message>
     <message>
         <source>Administration</source>
-        <translation type="unfinished"></translation>
+        <translation>Администрирование</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать</translation>
     </message>
     <message>
         <source>Modify</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <source>Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Доступ</translation>
     </message>
     <message>
         <source>Admin</source>
-        <translation type="unfinished"></translation>
+        <translation>Админ</translation>
     </message>
     <message>
         <source>Basics</source>
-        <translation type="unfinished"></translation>
+        <translation>Базовые</translation>
     </message>
     <message>
         <source>Confirmation</source>
-        <translation type="unfinished"></translation>
+        <translation>Подтверждение</translation>
     </message>
     <message>
         <source>&lt;p&gt;Are you sure you want to set the grant permission for&lt;br&gt;%1 to zero?&lt;/p&gt;&lt;p&gt;If you proceed, you will no longer be able to change the&lt;br&gt;value of this permission.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Вы уверены, что хотите установить привилегию для &lt;br&gt;%1 в ноль?&lt;/p&gt;&lt;p&gt;Если да, то вы больше не сможете изменить значение&lt;br&gt;данной привилегии.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;Are you sure you want to remove the grant permission for&lt;br&gt;%1?&lt;/p&gt;&lt;p&gt;If you proceed, you will no longer be able to change the&lt;br&gt;value of this permission.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Вы уверены, что хотите изъять привилегию для &lt;br&gt;%1?&lt;/p&gt;&lt;p&gt;Если да, то вы больше не сможете изменить значение&lt;br&gt;данной привилегии.&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
     <name>PermissionsTreeDelegate</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Пусто</translation>
     </message>
     <message>
         <source>Before</source>
-        <translation type="unfinished"></translation>
+        <translation>До</translation>
     </message>
     <message>
         <source>Behind</source>
-        <translation type="unfinished"></translation>
+        <translation>После</translation>
     </message>
 </context>
 <context>
     <name>PermissionsWidget</name>
     <message>
         <source>Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Привилегии</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезагрузить</translation>
     </message>
     <message>
         <source>Server Groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Группы сервера</translation>
     </message>
     <message>
         <source>Client Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Привилегии клиента</translation>
     </message>
     <message>
         <source>Channel Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Привилегии канала</translation>
     </message>
     <message>
         <source>Channel Groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Группы канала</translation>
     </message>
     <message>
         <source>Channel Client Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Привилегии клиента на канале</translation>
     </message>
 </context>
 <context>
     <name>PhoneticNicknameDialog</name>
     <message>
         <source>Set Phonetic Nickname</source>
-        <translation type="unfinished"></translation>
+        <translation>Задать фонетический Никнэйм</translation>
     </message>
     <message>
         <source>Enter your Phonetic Nickname:</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите фонетический никнэйм:</translation>
     </message>
     <message>
         <source>&amp;Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Воспроизвести</translation>
     </message>
 </context>
 <context>
     <name>PingWidget</name>
     <message>
         <source>Connection Quality</source>
-        <translation type="unfinished"></translation>
+        <translation>Качество связи</translation>
     </message>
     <message>
         <source>Disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключен</translation>
     </message>
     <message>
         <source>Calculating...</source>
-        <translation type="unfinished"></translation>
+        <translation>Подсчет...</translation>
     </message>
     <message>
         <source>Ping</source>
-        <translation type="unfinished"></translation>
+        <translation>Пинг</translation>
     </message>
     <message>
         <source>Packet-Loss</source>
-        <translation type="unfinished"></translation>
+        <translation>Потери пакетов</translation>
     </message>
 </context>
 <context>
     <name>PlaybackSoundSetupDialog</name>
     <message>
         <source>Playback</source>
-        <translation type="unfinished"></translation>
+        <translation>Воспроизведение</translation>
     </message>
     <message>
         <source>Configure the Playback Sound System</source>
-        <translation type="unfinished"></translation>
+        <translation>Настроить воспроизведение звука</translation>
     </message>
     <message>
         <source>Play &amp;Test Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Воспроизвести тестовый звук</translation>
     </message>
     <message>
         <source>Quiet</source>
-        <translation type="unfinished"></translation>
+        <translation>Тихо</translation>
     </message>
     <message>
         <source>Loud</source>
-        <translation type="unfinished"></translation>
+        <translation>Громко</translation>
     </message>
     <message>
         <source>Voice Volume Adjustment</source>
-        <translation type="unfinished"></translation>
+        <translation>Регулировка уровня громкости</translation>
     </message>
     <message>
         <source>Sound Pack Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Громкость набора звуков</translation>
     </message>
     <message>
         <source>Automatically use best mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматически выбрать лучший режим</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>По-умолчанию</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Особый</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка</translation>
     </message>
     <message>
         <source>Error opening playback device:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошбка при открытии устройства воспроизведения:
+%1</translation>
     </message>
     <message>
         <source>Stop &amp;Test Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Остановить тест</translation>
     </message>
     <message>
         <source>&lt;strong&gt;File &quot;%1&quot; not found&lt;/strong&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;Файл &quot;%1&quot; не найден&lt;/strong&gt;</translation>
     </message>
     <message>
         <source>Delete Hotkeys...</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить Горячие клавиши...</translation>
     </message>
     <message>
         <source>Playback Profile &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt; has been deleted.&lt;p&gt;Do you want to delete every Hotkey assigned to this profile as well?&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Профиль воспроизведения &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt; был удален.&lt;p&gt;Удалить все горячие клавиши заданные в этом профиле?&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
     <name>PluginHotkeyWrapper</name>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>По-умолчанию</translation>
     </message>
 </context>
 <context>
     <name>PokeDialog</name>
     <message>
         <source>You Have Been Poked</source>
-        <translation type="unfinished"></translation>
+        <translation>Вас ткнули</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать все</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Копировать</translation>
     </message>
 </context>
 <context>
     <name>ProfileManager</name>
     <message>
         <source>Add profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить профиль</translation>
     </message>
     <message>
         <source>Remove profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить профиль</translation>
     </message>
     <message>
         <source>Add Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить Профиль</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <source>Profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Профили</translation>
     </message>
     <message>
         <source>Unsaved Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Несохраненные изменения</translation>
     </message>
     <message>
         <source>You have unsaved changes to profile &quot;&lt;strong&gt;%1&lt;/strong&gt;&quot;.&lt;BR&gt;Do you wish to apply them?</source>
-        <translation type="unfinished"></translation>
+        <translation>У вас остались несохраненные изменения профиля &quot;&lt;strong&gt;%1&lt;/strong&gt;&quot;.&lt;BR&gt;Применить их?</translation>
     </message>
     <message>
         <source>profile</source>
-        <translation type="unfinished"></translation>
+        <translation>профиль</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка</translation>
     </message>
     <message>
         <source>Exceeding maximum of %1 synchronized hotkeyprofiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Превышен максимум %1 синхронизируемых профилей</translation>
     </message>
     <message>
         <source>You have unsaved changes to profile &quot;&lt;strong&gt;%1&lt;/strong&gt;&quot;.&lt;BR&gt;Do you really want to delete the profile?</source>
-        <translation type="unfinished"></translation>
+        <translation>У вас остались несохраненные изменения профиля &quot;&lt;strong&gt;%1&lt;/strong&gt;&quot;.&lt;BR&gt;Удалить их?</translation>
     </message>
     <message>
         <source> profile </source>
-        <translation type="unfinished"></translation>
+        <translation> профиль </translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>Go Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>В Продвинутые</translation>
     </message>
     <message>
         <source>Go Basic</source>
-        <translation type="unfinished"></translation>
+        <translation>В Обычные</translation>
     </message>
     <message numerus="yes">
         <source>%n unread offline message(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n непрочитанных сообщений</numerusform>
         </translation>
     </message>
     <message>
         <source>Host message</source>
-        <translation type="unfinished"></translation>
+        <translation>Оставить сообщение</translation>
     </message>
     <message numerus="yes">
         <source>%n year(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n лет</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n day(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n дней</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n часов</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n минут</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n second(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n секунд</numerusform>
         </translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Предупреждение</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Информация</translation>
     </message>
     <message>
         <source>Need a restart</source>
-        <translation type="unfinished"></translation>
+        <translation>Необходим перезапуск</translation>
     </message>
     <message>
         <source>Images</source>
-        <translation type="unfinished"></translation>
+        <translation>Изображения</translation>
     </message>
     <message>
         <source>All files</source>
-        <translation type="unfinished"></translation>
+        <translation>Все файлы</translation>
     </message>
     <message>
         <source>Country</source>
-        <translation type="unfinished"></translation>
+        <translation>Страна</translation>
     </message>
     <message>
         <source>The directory &quot;&lt;strong&gt;%1&lt;/strong&gt;&quot; is not writable and cannot be used to place downloads!</source>
-        <translation type="unfinished"></translation>
+        <translation>Каталог &quot;&lt;strong&gt;%1&lt;/strong&gt;&quot; недоступен для записи и не может быть использован!</translation>
     </message>
     <message>
         <source>Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить</translation>
     </message>
     <message>
         <source>Select download folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать каталог загрузки</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;strong&gt;TeamSpeak fails to start because it cannot find any port.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Please see our &lt;a href=&quot;https://support.teamspeakusa.com/index.php?/Knowledgebase/Article/View/322/0/teamspeak-fails-to-start-because-it-cannot-find-any-port&quot;&gt;knowledge base&lt;/a&gt; for further details.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;strong&gt;TeamSpeak не смог запуститься так как не найден свободный порт.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Обратитесь сюда &lt;a href=&quot;https://support.teamspeakusa.com/index.php?/Knowledgebase/Article/View/322/0/teamspeak-fails-to-start-because-it-cannot-find-any-port&quot;&gt;knowledge base&lt;/a&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Critical</source>
-        <translation type="unfinished"></translation>
+        <translation>Критическое</translation>
     </message>
     <message>
         <source>down</source>
-        <translation type="unfinished"></translation>
+        <translation>вниз</translation>
     </message>
     <message>
         <source>up</source>
-        <translation type="unfinished"></translation>
+        <translation>вверх</translation>
     </message>
     <message>
         <source>Bookmarks and Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Закладки и Каталоги</translation>
     </message>
     <message>
         <source>Identities</source>
-        <translation type="unfinished"></translation>
+        <translation>Идентификация</translation>
     </message>
     <message>
         <source>Hotkey Profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Горячие клавиши</translation>
     </message>
     <message>
         <source>Whisper Lists</source>
-        <translation type="unfinished"></translation>
+        <translation>Список шептунов</translation>
     </message>
     <message>
         <source>The following items exceed your account limit and have been imported into local storage instead:</source>
-        <translation type="unfinished"></translation>
+        <translation>Следующие элементы превысили допустимый предел сервера и помещены в локальное хранилище:</translation>
     </message>
     <message>
         <source>Please inspect these items and decide which you want to synchronize.</source>
-        <translation type="unfinished"></translation>
+        <translation>Выясните какие из них вам нужны для синхронизации.</translation>
     </message>
     <message>
         <source>Continue without logging in</source>
-        <translation type="unfinished"></translation>
+        <translation>Продолжить без входа</translation>
     </message>
     <message>
         <source>You can login or create an account at any time in Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы можете войти или создать аккаунт в любое время в Настройках</translation>
     </message>
     <message>
         <source>Synchronized profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Синхронизированные профили</translation>
     </message>
     <message>
         <source>Local profiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Локальные профили</translation>
     </message>
     <message>
         <source>Local</source>
-        <translation type="unfinished"></translation>
+        <translation>Локальные</translation>
     </message>
     <message>
         <source>Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>В облаке</translation>
     </message>
     <message>
         <source>The directory &quot;&lt;strong&gt;%1&lt;/strong&gt;&quot; cannot be opened.&lt;br&gt;Do you want to change it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Каталог &quot;&lt;strong&gt;%1&lt;/strong&gt;&quot; не может быть открыт.&lt;br&gt;Выбрать другой?</translation>
     </message>
     <message>
         <source>&amp;Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить</translation>
     </message>
     <message>
         <source>New Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Новое имя файла</translation>
     </message>
     <message>
         <source>New name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Новое имя:</translation>
     </message>
     <message>
         <source>(invalid)</source>
-        <translation type="unfinished"></translation>
+        <translation>(некорректное)</translation>
     </message>
     <message>
         <source>Delete items</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить элементы</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>Выход</translation>
     </message>
     <message>
         <source>Error loading data</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка загрузки данных</translation>
     </message>
     <message>
         <source>&lt;p&gt;Your stored items (bookmarks, identities etc.) could not be loaded.&lt;/p&gt;&lt;p&gt;You can delete all these corrupt items and start over with a clean configuration.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Сохраненные элементы (закладки, идентификаторы и пр.) не могут быть загружены.&lt;/p&gt;&lt;p&gt;Вы можете удалить проблемные элементы и начать с чистого листа.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Enter your master password to decrypt all
 saved passwords and identities.</source>
-        <translation type="unfinished"></translation>
+        <translation>Введить мастер-пароль чтобы расшифровать все
+сохраненные пароли и идентификаторы.</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Пароль:</translation>
     </message>
     <message>
         <source>Password incorrect. Try again:</source>
-        <translation type="unfinished"></translation>
+        <translation>В доступе отказано. Попробуйте еще раз:</translation>
     </message>
     <message>
         <source>Enter master password</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите мастер-пароль</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished"></translation>
+        <translation>Попробовать еще</translation>
     </message>
     <message>
         <source>Start without decrypting</source>
-        <translation type="unfinished"></translation>
+        <translation>Начать без расшифровки</translation>
     </message>
     <message>
         <source>Multiple incorrect passwords</source>
-        <translation type="unfinished"></translation>
+        <translation>Множество неверных попыток</translation>
     </message>
     <message>
         <source>You have entered an incorrect master password several times.
 Perhaps you have forgotten it. Do you want to Retry entering the correct password, or Start without decrypting, or quit?
 If you start without decrypting, all of your locally stored sync items will be deleted - synced data are unaffected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы пробовали слишком много раз. Пора расслабиться и отдохнуть или пропустить расшифровку,
+если это сделать все локально сохраненные, но не синхронизированные элементы будут утрачены.</translation>
     </message>
     <message>
         <source>&lt;p&gt;TeamSpeak needs to update file associations in the Windows registry.&lt;/p&gt;&lt;p&gt;If you are running with an Administrator user account and have UAC enabled, an UAC dialog will appear asking for your permissions to run a TeamSpeak utility.&lt;/p&gt;&lt;p&gt;Press &lt;strong&gt;Ok&lt;/strong&gt; to run this utility now, &lt;strong&gt;Cancel&lt;/strong&gt; to not run it now but check again next time, &lt;strong&gt;Ignore&lt;/strong&gt; to never show this message again.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;TeamSpeak хочет обновить ассоциации файлов в реестре Windows.&lt;/p&gt;&lt;p&gt;.&lt;/p&gt;&lt;p&gt;Нажмите &lt;strong&gt;Ok&lt;/strong&gt; для запуска, &lt;strong&gt;Отмена&lt;/strong&gt; для отмены сейчас, &lt;strong&gt;Игнорировать&lt;/strong&gt; чтобы отменить и более не беспокоить Вас.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Error</source>
