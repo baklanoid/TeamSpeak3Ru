@@ -1398,7 +1398,7 @@ servers will not be cleared.</source>
     </message>
     <message>
         <source>&amp;Exclude filter</source>
-        <translation>Убрать фильтр</translation>
+        <translation>Фильтр исключения</translation>
     </message>
     <message>
         <source>&amp;Search:</source>
@@ -7567,731 +7567,738 @@ If you start without decrypting, all of your locally stored sync items will be d
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка</translation>
     </message>
     <message>
         <source>&lt;p&gt;Failed to start &quot;%1&quot;.&lt;/p&gt;&lt;p&gt;Please start createfileassoc.exe manually.&lt;/p&gt;&lt;p&gt;Press &lt;strong&gt;Ignore&lt;/strong&gt; to not show this message again.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Не удалось запустить &quot;%1&quot;.&lt;/p&gt;&lt;p&gt;Запустите createfileassoc.exe вручную.&lt;/p&gt;&lt;p&gt;Нажмите &lt;strong&gt;Игнорировать&lt;/strong&gt; чтобы более не показывать это предупреждение.&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
     <name>RecorderLabel</name>
     <message>
         <source>Press hotkey combination</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите комбинацию клавиш</translation>
     </message>
     <message>
         <source>Overlapping detected</source>
-        <translation type="unfinished"></translation>
+        <translation>Такое сочетание уже существует</translation>
     </message>
     <message>
         <source>Warning, your key combination &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt; overlaps with an&lt;br&gt;existing Key-Binding or is already bound!&lt;br&gt;&lt;br&gt;Do you want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Внимание, ваша комбинация &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt; соответствует &lt;br&gt;уже существующей комбинации горячих клавиш!&lt;br&gt;&lt;br&gt;Продолжить?</translation>
     </message>
 </context>
 <context>
     <name>RemoteIconsManager</name>
     <message>
         <source>The icon for the server was not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Иконка сервера не найдена.</translation>
     </message>
     <message>
         <source>The icon for channel &quot;%1&quot; (%2) was not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Иконка канала &quot;%1&quot; (%2) не найдена.</translation>
     </message>
     <message>
         <source>The icon for client &quot;%1&quot; (%2) was not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Иконка клиента &quot;%1&quot; (%2) не найдена.</translation>
     </message>
     <message>
         <source>The icon for server group &quot;%1&quot; was not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Иконка группы сервера &quot;%1&quot; не найдена.</translation>
     </message>
     <message>
         <source>The icon for channel group &quot;%1&quot; was not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Иконка группы каналов &quot;%1&quot; не найдена.</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Неизвестно</translation>
     </message>
 </context>
 <context>
     <name>RestoreBackupkeyDialog</name>
     <message>
         <source>Restore Recovery Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Восстановить ключ</translation>
     </message>
     <message>
         <source>Enter your recovery key:</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите ключ восстановления:</translation>
     </message>
     <message>
         <source>Apply key</source>
-        <translation type="unfinished"></translation>
+        <translation>Применить ключ</translation>
     </message>
     <message>
         <source>Fallback</source>
-        <translation type="unfinished"></translation>
+        <translation>Откат</translation>
     </message>
 </context>
 <context>
     <name>SearchFrame</name>
     <message>
         <source>Hide search</source>
-        <translation type="unfinished"></translation>
+        <translation>Скрыть поиск</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Далее</translation>
     </message>
     <message>
         <source>Find next match</source>
-        <translation type="unfinished"></translation>
+        <translation>Найти следующее совпадение</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Предыдущее</translation>
     </message>
     <message>
         <source>Find previous match</source>
-        <translation type="unfinished"></translation>
+        <translation>Найти предыдущее совпадение</translation>
     </message>
     <message>
         <source>Match case</source>
-        <translation type="unfinished"></translation>
+        <translation>Учитывать регистр букв</translation>
     </message>
     <message>
         <source>Do a case sensitive search</source>
-        <translation type="unfinished"></translation>
+        <translation>Искать с учетом регистра</translation>
     </message>
     <message>
         <source>Search all tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>Искать во всех вкладках</translation>
     </message>
     <message>
         <source>Search in all tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>Искать во всех вкладках</translation>
     </message>
     <message>
         <source>Search Chat:</source>
-        <translation type="unfinished"></translation>
+        <translation>Поиск в чате:</translation>
     </message>
     <message>
         <source>Search Tree:</source>
-        <translation type="unfinished"></translation>
+        <translation>Поиск в дереве:</translation>
     </message>
     <message>
         <source>Search:</source>
-        <translation type="unfinished"></translation>
+        <translation>Поиск:</translation>
     </message>
 </context>
 <context>
     <name>SecuritySetupDialog</name>
     <message>
         <source>Security</source>
-        <translation type="unfinished"></translation>
+        <translation>Безопасность</translation>
     </message>
     <message>
         <source>Configure Security</source>
-        <translation type="unfinished"></translation>
+        <translation>Настроить безопасность</translation>
     </message>
     <message>
         <source>Saving channel passwords to your computer might pose a security risk.
 The passwords are saved to a file, which might be compromised if anyone gets access to it.
 If you do not trust everybody who uses your computer, this option should not be enabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>При сохранении паролей локально на компьютере, возможны риски.
+Пароли записываются в файл, который может быть просмотрен другими пользователями.
+Если вы не доверяете этим пользователям, не включайте эту опцию</translation>
     </message>
     <message>
         <source>Clear Channel Passwords</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистить пароли каналов</translation>
     </message>
     <message>
         <source>This will remove all stored channel passwords.
 
 Are you sure you want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Будут удалены все сохраненные пароли для каналов.
+
+Продолжить?</translation>
     </message>
 </context>
 <context>
     <name>ServerConnectionInfoDialog</name>
     <message>
         <source>Server Connection Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Информация о подключении</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Версия</translation>
     </message>
     <message>
         <source>Average ping</source>
-        <translation type="unfinished"></translation>
+        <translation>Среднее время пинга</translation>
     </message>
     <message>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Лицензия</translation>
     </message>
     <message>
         <source>Platform</source>
-        <translation type="unfinished"></translation>
+        <translation>Платформа</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Адрес</translation>
     </message>
     <message>
         <source>Uptime</source>
-        <translation type="unfinished"></translation>
+        <translation>Время работы</translation>
     </message>
     <message>
         <source>Copy address to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Скопировать адрес в буфер обмена</translation>
     </message>
     <message>
         <source>Average packetloss</source>
-        <translation type="unfinished"></translation>
+        <translation>Среднее число потерянных пакетов</translation>
     </message>
     <message>
         <source>In</source>
-        <translation type="unfinished"></translation>
+        <translation>Вх</translation>
     </message>
     <message>
         <source>Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Исх</translation>
     </message>
     <message>
         <source>Packets transferred</source>
-        <translation type="unfinished"></translation>
+        <translation>Пакетов передано</translation>
     </message>
     <message>
         <source>Bytes transferred</source>
-        <translation type="unfinished"></translation>
+        <translation>Байт передано</translation>
     </message>
     <message>
         <source>Bandwidth last second</source>
-        <translation type="unfinished"></translation>
+        <translation>Ширина канала за последнюю секунду</translation>
     </message>
     <message>
         <source>Bandwidth last minute</source>
-        <translation type="unfinished"></translation>
+        <translation>Ширина канала за последнюю минуту</translation>
     </message>
     <message>
         <source>File transfer bandwidth</source>
-        <translation type="unfinished"></translation>
+        <translation>Ширина канала передачи файлов</translation>
     </message>
     <message>
         <source>File transfer bytes transferred</source>
-        <translation type="unfinished"></translation>
+        <translation>Байтов передано в файловых загрузках</translation>
     </message>
     <message>
         <source>%1/s</source>
-        <translation type="unfinished"></translation>
+        <translation>%1/с</translation>
     </message>
     <message>
         <source>%1 ms</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 мс</translation>
     </message>
 </context>
 <context>
     <name>ServerGroupClientChange</name>
     <message>
         <source>Server Groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Группы сервера</translation>
     </message>
     <message>
         <source>Changing groups of &lt;b&gt;%1&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменение групп &lt;b&gt;%1&lt;/b&gt;</translation>
     </message>
     <message>
         <source>&lt;p style=&quot;font-weight:bold;font-size:large;color:red;text-align:center;&quot;&gt;Changing own groups&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p style=&quot;font-weight:bold;font-size:large;color:red;text-align:center;&quot;&gt;Измененяем собственные группы&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;You are about to change your own groups. If you leave a group, you might not be able to get it back on your own!&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Вы изменяете группы в которых находитесь. Если вы покинете группу, то можете не вернуться в нее самостоятельно!&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
     <name>ServerLogView</name>
     <message>
         <source>&amp;Critical</source>
-        <translation type="unfinished"></translation>
+        <translation>Критическое</translation>
     </message>
     <message>
         <source>&amp;Errors</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибки</translation>
     </message>
     <message>
         <source>&amp;Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Предупреждения</translation>
     </message>
     <message>
         <source>&amp;Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Информация</translation>
     </message>
     <message>
         <source>&amp;Highlighting</source>
-        <translation type="unfinished"></translation>
+        <translation>Выделение</translation>
     </message>
     <message>
         <source>&amp;Exclude filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Фильтр исключения</translation>
     </message>
     <message>
         <source>UTC time</source>
-        <translation type="unfinished"></translation>
+        <translation>Время UTC</translation>
     </message>
     <message>
         <source>Local time</source>
-        <translation type="unfinished"></translation>
+        <translation>Местное время</translation>
     </message>
     <message>
         <source>&amp;Search:</source>
-        <translation type="unfinished"></translation>
+        <translation>Поиск:</translation>
     </message>
     <message>
         <source>Search text in log.
 Press Enter to search next location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Поиск текста в логах.
+Нажмите Enter чтобы прыгнуть на следующее совпадение.</translation>
     </message>
     <message>
         <source>&amp;Filter:</source>
-        <translation type="unfinished"></translation>
+        <translation>Фильтр:</translation>
     </message>
     <message>
         <source>Only show lines matching filter text.
 Press Enter to apply filter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Показываем только строки совпадающие с фильтром.
+Нажмите Enter чтобы применить фильтр.</translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation>Учитывать регистр</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Предыдущее</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Следующее</translation>
     </message>
     <message>
         <source>&amp;Reload</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезагрузить</translation>
     </message>
     <message>
         <source>Show &amp;Older</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать старые</translation>
     </message>
     <message>
         <source>Server Log - %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Лог сервера - %1</translation>
     </message>
     <message>
         <source>Server Log not supported by this server version</source>
-        <translation type="unfinished"></translation>
+        <translation>Лог не поддерживается этим сервером</translation>
     </message>
     <message>
         <source>Insufficient permissions to view Server Log</source>
-        <translation type="unfinished"></translation>
+        <translation>Недостаточно полномочий для просмотра логов сервера</translation>
     </message>
     <message>
         <source>No log entries available</source>
-        <translation type="unfinished"></translation>
+        <translation>Логи отсутсвуют</translation>
     </message>
 </context>
 <context>
     <name>ServerLogViewFilterDialog</name>
     <message>
         <source>Exclude Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Фильтр исключения</translation>
     </message>
     <message>
         <source>Exclude log entries containing the following terms:</source>
-        <translation type="unfinished"></translation>
+        <translation>Исключает логи содержащие следующие выражения:</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <source>New filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Новый фильтр</translation>
     </message>
 </context>
 <context>
     <name>ServerLogViewHighlightDialog</name>
     <message>
         <source>Highlight Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройка Выделений</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Убрать</translation>
     </message>
     <message>
         <source>Move &amp;up</source>
-        <translation type="unfinished"></translation>
+        <translation>Поднять вверх</translation>
     </message>
     <message>
         <source>Move &amp;down</source>
-        <translation type="unfinished"></translation>
+        <translation>Опустить вниз</translation>
     </message>
     <message>
         <source>&amp;Foreground color</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет контента</translation>
     </message>
     <message>
         <source>&amp;Background color</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет фона</translation>
     </message>
     <message>
         <source>Set custom foreground color</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать другой цвет контента</translation>
     </message>
     <message>
         <source>Set custom background color</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать другой цвет фона</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation type="unfinished"></translation>
+        <translation>Черный</translation>
     </message>
     <message>
         <source>White</source>
-        <translation type="unfinished"></translation>
+        <translation>Белый</translation>
     </message>
     <message>
         <source>Light Gray</source>
-        <translation type="unfinished"></translation>
+        <translation>Светло-серый</translation>
     </message>
     <message>
         <source>Gray</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый</translation>
     </message>
     <message>
         <source>Dark Gray</source>
-        <translation type="unfinished"></translation>
+        <translation>Темно-серый</translation>
     </message>
     <message>
         <source>Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Красный</translation>
     </message>
     <message>
         <source>Dark Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Темно-красный</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Зеленый</translation>
     </message>
     <message>
         <source>Dark Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Темно-зеленый</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Голубой</translation>
     </message>
     <message>
         <source>Dark Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Темно-синий</translation>
     </message>
     <message>
         <source>Cyan</source>
-        <translation type="unfinished"></translation>
+        <translation>Циан</translation>
     </message>
     <message>
         <source>Dark Cyan</source>
-        <translation type="unfinished"></translation>
+        <translation>Темный циан</translation>
     </message>
     <message>
         <source>Magenta</source>
-        <translation type="unfinished"></translation>
+        <translation>Пурпурный</translation>
     </message>
     <message>
         <source>Dark Magenta</source>
-        <translation type="unfinished"></translation>
+        <translation>Темно-пурпурный</translation>
     </message>
     <message>
         <source>Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Желтый</translation>
     </message>
     <message>
         <source>Dark Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Темно-желтый</translation>
     </message>
     <message>
         <source>Transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>Прозрачный</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Другой</translation>
     </message>
     <message>
         <source>New item</source>
-        <translation type="unfinished"></translation>
+        <translation>Новый элемент</translation>
     </message>
     <message>
         <source>Select foreground color</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать цвет контента</translation>
     </message>
 </context>
 <context>
     <name>ServerQueryLoginDialog</name>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя:</translation>
     </message>
     <message>
         <source>ServerQuery Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Логин ServerQuery</translation>
     </message>
     <message>
         <source>&lt;p&gt;Set login name for your ServerQuery connection&lt;br&gt;to &lt;strong&gt;%1&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;You will receive your password in the next step.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Выберите имя для подключения ServerQuery&lt;br&gt;to &lt;strong&gt;%1&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Пароль будет сгенерирован на следующем шаге.&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
     <name>ServerQueryPasswordDialog</name>
     <message>
         <source>ServerQuery Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Пароль ServerQuery</translation>
     </message>
     <message>
         <source>Your ServerQuery Login:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ваш логин ServerQuery:</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя:</translation>
     </message>
     <message>
         <source>&amp;Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Пароль:</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Неизвестно</translation>
     </message>
 </context>
 <context>
     <name>ServerQueryView</name>
     <message>
         <source>Run</source>
-        <translation type="unfinished"></translation>
+        <translation>Запуск</translation>
     </message>
     <message>
         <source>Single step</source>
-        <translation type="unfinished"></translation>
+        <translation>Один шаг</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Остановить</translation>
     </message>
     <message>
         <source>Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезапуск</translation>
     </message>
     <message>
         <source>Clear highlighting (Escape)</source>
-        <translation type="unfinished"></translation>
+        <translation>Снять выделение (Esc)</translation>
     </message>
     <message>
         <source>Esc</source>
-        <translation type="unfinished"></translation>
+        <translation>Esc</translation>
     </message>
     <message>
         <source>&amp;Delay:</source>
-        <translation type="unfinished"></translation>
+        <translation>Задержка:</translation>
     </message>
     <message>
         <source>Delay between each ServerQuery command</source>
-        <translation type="unfinished"></translation>
+        <translation>Задержка между коммандами ServerQuery</translation>
     </message>
     <message>
         <source> secs</source>
-        <translation type="unfinished"></translation>
+        <translation> секунд</translation>
     </message>
     <message>
         <source>Show advanced options</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать продвинутые опции</translation>
     </message>
     <message>
         <source>Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Аутентификация</translation>
     </message>
     <message>
         <source>Select authentication method</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите метод аутентификации</translation>
     </message>
     <message>
         <source>Login command</source>
-        <translation type="unfinished"></translation>
+        <translation>Комманда логина</translation>
     </message>
     <message>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Вручную</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Авто</translation>
     </message>
     <message>
         <source>Manual authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Ручная аутентификация</translation>
     </message>
     <message>
         <source>&amp;Login:</source>
-        <translation type="unfinished"></translation>
+        <translation>Логин:</translation>
     </message>
     <message>
         <source>&amp;Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Пароль:</translation>
     </message>
     <message>
         <source>Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Библиотека</translation>
     </message>
     <message>
         <source>Add new ServerQuery script</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить скрипт ServerQuery</translation>
     </message>
     <message>
         <source>Update selected ServerQuery script</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновить выбранный скрипт ServerQuery</translation>
     </message>
     <message>
         <source>Remove selected ServerQuery script</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить выбранный скрипт ServerQuery</translation>
     </message>
 </context>
 <context>
     <name>ServerStatusWidget</name>
     <message>
         <source>Show Nickname</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать никнэйм</translation>
     </message>
     <message>
         <source>Show Identity</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать идентификатор</translation>
     </message>
     <message>
         <source>Show Ping</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать пинг</translation>
     </message>
     <message>
         <source>Show Connection Quality</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать качество соединения</translation>
     </message>
     <message>
         <source>Connected</source>
-        <translation type="unfinished"></translation>
+        <translation>Подключен</translation>
     </message>
     <message>
         <source>Connected as</source>
-        <translation type="unfinished"></translation>
+        <translation>Подключен как</translation>
     </message>
     <message>
         <source>%1 ms %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 мс %2 %3</translation>
     </message>
     <message>
         <source>(calculating ping)</source>
-        <translation type="unfinished"></translation>
+        <translation>(подсчет пинга)</translation>
     </message>
     <message>
         <source>Disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключен</translation>
     </message>
     <message>
         <source>Connecting</source>
-        <translation type="unfinished"></translation>
+        <translation>Подключение</translation>
     </message>
     <message>
         <source>Connected as %1, receiving Channel List</source>
-        <translation type="unfinished"></translation>
+        <translation>Подключен как %1, получение списка каналов</translation>
     </message>
 </context>
 <context>
     <name>ServerView</name>
     <message>
         <source>(Locked) In Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>(Закрыто) Предпросмотр</translation>
     </message>
     <message>
         <source>Invalid server address: &lt;span class=&apos;TextMessage_HostName&apos;&gt;%1:%2&lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Неверный адрес сервера: &lt;span class=&apos;TextMessage_HostName&apos;&gt;%1:%2&lt;/span&gt;</translation>
     </message>
     <message>
         <source>Trying to resolve hostname &lt;span class=&apos;TextMessage_HostName&apos;&gt;%1&lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Определяю имя хоста &lt;span class=&apos;TextMessage_HostName&apos;&gt;%1&lt;/span&gt;</translation>
     </message>
     <message>
         <source>No server</source>
-        <translation type="unfinished"></translation>
+        <translation>Нет сервера</translation>
     </message>
     <message>
         <source>Error retrieving filebrowser: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка просмотра файлов: %1</translation>
     </message>
     <message>
         <source>Error refreshing file list: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка при обновлении списка файлов: %1</translation>
     </message>
     <message>
         <source>You don&apos;t have permissions to send channel chat messages, failed to send text message.</source>
-        <translation type="unfinished"></translation>
+        <translation>У вас недостаточно привилегий чтобы отправлять сообщения в чат.</translation>
     </message>
     <message>
         <source>Insufficient permissions...</source>
-        <translation type="unfinished"></translation>
+        <translation>Недостаточно привилегий</translation>
     </message>
     <message>
         <source>You don&apos;t have the permission to send server text messages.
 Do you want to send a channel chat message instead?</source>
-        <translation type="unfinished"></translation>
+        <translation>У вас недостаточно привилегий чтобы отправлять серверные сообщения.
+Отправить обычное сообщение в чат?</translation>
     </message>
     <message>
         <source>leaving</source>
-        <translation type="unfinished"></translation>
+        <translation>отключается</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Пароль</translation>
     </message>
     <message>
         <source>Enter server password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите пароль сервера:</translation>
     </message>
     <message>
         <source>Send Offline Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправить оффлайн сообщение</translation>
     </message>
     <message>
         <source>Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Привилегии</translation>
     </message>
     <message>
         <source>Server changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменено сервером</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;strong&gt;The identity of this server has changed.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This could have one of these reasons:&lt;ul style=&quot;margin-left:-2em&quot;&gt;&lt;li&gt;A new TeamSpeak server is running at this address.&lt;/li&gt;&lt;li&gt;The security of your connection to this server is compromised,&lt;br&gt;a man-in-the-middle attack is taking place.&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;Do you want to accept the new identity and remain connected?&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;strong&gt;Идентификатор сервера был изменен.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Это могло произойти по следующим причинам:&lt;ul style=&quot;margin-left:-2em&quot;&gt;&lt;li&gt;Был запущен новый сервер TeamSpeak.&lt;/li&gt;&lt;li&gt;Ваша сессия сброшена, возможно из-за угрозы безопасности,&lt;br&gt;например, атаки man-in-the-middle.&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p&gt;Подтвердить новый идентификатор и возобновить подключение?&lt;/p&gt;</translation>
     </message>
     <message>
         <source>You have %1</source>
