@@ -8302,353 +8302,358 @@ Do you want to send a channel chat message instead?</source>
     </message>
     <message>
         <source>You have %1</source>
-        <translation type="unfinished"></translation>
+        <translation>У Вас %1</translation>
     </message>
     <message>
         <source>There are no clients in this channel.
 Changing it to temporary will delete it after %1.
 Do you want to change the channel to temporary?</source>
-        <translation type="unfinished"></translation>
+        <translation>На этом канале нет клиентов.
+Изменение типа канала на временный приведет к его удалению через %1.
+Изменить?</translation>
     </message>
     <message>
         <source>There are no clients in this channel.
 Changing it to temporary will delete it.
 Do you want to change the channel to temporary?</source>
-        <translation type="unfinished"></translation>
+        <translation>На этом канале нет клиентов.
+Изменение типа канала на временный приведет к его удалению.
+Изменить?</translation>
     </message>
     <message>
         <source>Question</source>
-        <translation type="unfinished"></translation>
+        <translation>Вопрос</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Информация</translation>
     </message>
     <message>
         <source>The default channel cannot be deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Канал по-умолчанию не может быть удален.</translation>
     </message>
     <message>
         <source>Open Text Chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть чат</translation>
     </message>
     <message>
         <source>This will activate another server tab.
 
 Would you like to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Это активирует другую серверную вкладку.
+Продолжить?</translation>
     </message>
     <message>
         <source>You are attempting to chat with a ServerQuery client. Please note that text messages will only be received if the ServerQuery is registered for private text messages events with &quot;servernotifyregister event=textprivate&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы пытаетесь написать клиенту ServerQuery. Текстовые сообщения будут переданы, только если ServerQuery настроен на получение сообщений: &quot;servernotifyregister event=textprivate&quot;.</translation>
     </message>
     <message>
         <source>Kick from Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Выпнуть с канала</translation>
     </message>
     <message>
         <source>Kick Message:</source>
-        <translation type="unfinished"></translation>
+        <translation>Сказать при этом:</translation>
     </message>
     <message>
         <source>Poke</source>
-        <translation type="unfinished"></translation>
+        <translation>Ткнуть</translation>
     </message>
     <message>
         <source>Poke Reason:</source>
-        <translation type="unfinished"></translation>
+        <translation>Сказать при этом:</translation>
     </message>
     <message>
         <source>Complaint</source>
-        <translation type="unfinished"></translation>
+        <translation>Жалоба</translation>
     </message>
     <message>
         <source>Enter the reason for your complaint</source>
-        <translation type="unfinished"></translation>
+        <translation>Опишите причину инциндента</translation>
     </message>
     <message>
         <source>Kick from Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Выпнуть с сервера</translation>
     </message>
     <message>
         <source>Client banned: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент забанен: %1</translation>
     </message>
     <message>
         <source>Failed to remove priority speaker. Probably it was not set as channel client permission. Check other permissions types manually in the permissions window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось убрать спикера. Возможно что-то с привилегиями на канале. Проверьте привилегии на настройках.</translation>
     </message>
     <message>
         <source>Complaint sent.</source>
-        <translation type="unfinished"></translation>
+        <translation>Жалоба отправлена.</translation>
     </message>
     <message>
         <source>Cannot add multiple complaints about the same client.</source>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно создать несколько жалоб на одного клиента.</translation>
     </message>
     <message>
         <source>Privilege Key successfully used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ключ доступа использован.</translation>
     </message>
     <message>
         <source>&lt;p style=&quot;color:red;&quot;&gt;Invalid Privilege Key.&lt;/p&gt;&lt;p&gt;Either you entered an invalid Privilege Key or it has already been used.&lt;br&gt;Remember a Privilege Key can be used only once.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p style=&quot;color:red;&quot;&gt;Неверный ключ доступа.&lt;/p&gt;&lt;p&gt;Либо вы ввели неверный ключ доступа, либо он уже был использован.&lt;br&gt;Ключ доступа может быть использован только один раз.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Failed to use Privilege Key: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось применить ключ доступа: %1</translation>
     </message>
     <message>
         <source>This ServerQuery login name is already used.</source>
-        <translation type="unfinished"></translation>
+        <translation>Этот логин ServerQuery уже используется.</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Описание</translation>
     </message>
     <message>
         <source>Client Description:</source>
-        <translation type="unfinished"></translation>
+        <translation>Описание клиента:</translation>
     </message>
     <message>
         <source>Aborting connection attempt to &apos;%1&apos;, already connecting</source>
-        <translation type="unfinished"></translation>
+        <translation>Отмена попытки подключения к &apos;%1&apos;, подключение в процессе</translation>
     </message>
     <message>
         <source>The TSDNS server &apos;%1&apos; does not know &apos;%2&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Серверу TSDNS &apos;%1&apos; не известен &apos;%2&apos;</translation>
     </message>
     <message>
         <source>Failed to resolve hostname &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось разрешить имя хоста &apos;%1&apos;</translation>
     </message>
     <message>
         <source>&lt;p&gt;You are about to leave servergroup &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;You might not be able to rejoin this group on your own!&lt;/p&gt;&lt;p&gt;Do you really want to proceed?&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Вы покидаете группу сервера &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Возможно, что вы не сможете опять стать ее участником самостоятельно!&lt;/p&gt;&lt;p&gt;Продолжить?&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Leaving a group</source>
-        <translation type="unfinished"></translation>
+        <translation>Покидаю группу</translation>
     </message>
     <message>
         <source>Talk Power Request</source>
-        <translation type="unfinished"></translation>
+        <translation>Запрос Права голоса</translation>
     </message>
     <message>
         <source>Enter reason for talk power request</source>
-        <translation type="unfinished"></translation>
+        <translation>Причина, почему вам нужно право голоса</translation>
     </message>
     <message>
         <source>Disconnected from server</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключились от сервера</translation>
     </message>
     <message>
         <source>Connection to server lost</source>
-        <translation type="unfinished"></translation>
+        <translation>Подключение к серверу утеряно</translation>
     </message>
     <message>
         <source>Failed to connect to server</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось подключиться к серверу</translation>
     </message>
     <message>
         <source>Disconnected from server (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключились от сервера (%1)</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Неизвестно</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Предупреждение</translation>
     </message>
     <message>
         <source>&lt;p&gt;This server version is outdated.&lt;/p&gt;&lt;p style=&quot;color:red;font-weight:bold;&quot;&gt;Recent versions of the TeamSpeak Client will not function properly on this server.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Please contact the hoster to update this TeamSpeak server.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Версия этого сервера устарела.&lt;/p&gt;&lt;p style=&quot;color:red;font-weight:bold;&quot;&gt;Последние версии клиента TeamSpeak не могут работать с ним стабильно.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Обратитесь к хостеру для обновления серверной части.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Connected to Server: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Подключились к серверу: %1</translation>
     </message>
     <message>
         <source>&lt;p&gt;This client version is outdated.&lt;/p&gt;&lt;p&gt;Do you want to check for updates now?&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Версия клиента устарела.&lt;/p&gt;&lt;p&gt;Хотите проверить обновления?&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;The server version is outdated.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Версия сервера устарела.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;The following features are known to not function properly:&lt;/p&gt;&lt;ul style=&quot;margin-left:-25;&quot;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Следующие функции могут не работать должным образом:&lt;/p&gt;&lt;ul style=&quot;margin-left:-25;&quot;&gt;</translation>
     </message>
     <message>
         <source>&lt;li&gt;Sending and receiving text chat messages&lt;/li&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;li&gt;Отправка и получения сообщений чата&lt;/li&gt;</translation>
     </message>
     <message>
         <source>&lt;li&gt;Whispering to channels&lt;/li&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;li&gt;Шептание на канале&lt;/li&gt;</translation>
     </message>
     <message>
         <source>&lt;li&gt;Members of permission groups might not be displayed&lt;/li&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;li&gt;Члены привилегированных групп могут не отображаться&lt;/li&gt;</translation>
     </message>
     <message>
         <source>&lt;li style=&quot;color:red;font-weight:bold;&quot;&gt;Voice transmission can be corrupted, this server cannot be used with this client. The server should be updated.&lt;/li&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;li style=&quot;color:red;font-weight:bold;&quot;&gt;Передача голоса может быть искажена или вообще не поддерживаться этим сервером. Сервер следует обновить.&lt;/li&gt;</translation>
     </message>
     <message>
         <source>&lt;li&gt;Certain characters in text messages are transmitted incorrectly&lt;/li&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;li&gt;Определенные символы в сообщениях могут быть скажены при передаче&lt;/li&gt;</translation>
     </message>
     <message>
         <source>&lt;/ul&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;/ul&gt;</translation>
     </message>
     <message>
         <source>Channel %1 created successfully</source>
-        <translation type="unfinished"></translation>
+        <translation>Канал %1 создан</translation>
     </message>
     <message>
         <source>Channel %1 created by %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Канал %1 создан %2</translation>
     </message>
     <message>
         <source>Channel %1 was deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>Канал %1 удален</translation>
     </message>
     <message>
         <source>Channel %1 was deleted by %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Канал %1 удален %2</translation>
     </message>
     <message>
         <source>Channel %1 was moved, new parent channel is %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Канал %1 перемещен в канал %2</translation>
     </message>
     <message>
         <source>Channel %1 was moved by %2, new parent channel is %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Канал %1 перемещен %2 в канал %3</translation>
     </message>
     <message>
         <source>Successfully renamed channel %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Канал %1 переименован в %2</translation>
     </message>
     <message>
         <source>Channel %1 edited successfully</source>
-        <translation type="unfinished"></translation>
+        <translation>Канал %1 отредактирован</translation>
     </message>
     <message>
         <source>Channel %1 was edited by %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Канал %1 отредактирован %2</translation>
     </message>
     <message>
         <source>Channel %1 was renamed to %2 by %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Канал %1 переименован %2 в %3</translation>
     </message>
     <message>
         <source>Talk power granted by %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Право голоса получено от %1</translation>
     </message>
     <message>
         <source>Talk power revoked by %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Право голоса отозвано %1</translation>
     </message>
     <message>
         <source>Talk power granted</source>
-        <translation type="unfinished"></translation>
+        <translation>Право голоса получено</translation>
     </message>
     <message>
         <source>Talk power revoked</source>
-        <translation type="unfinished"></translation>
+        <translation>Право голоса отозвано</translation>
     </message>
     <message>
         <source>%1 requested talk power</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 запросил право голоса</translation>
     </message>
     <message>
         <source>%1 started recording</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 начал запись</translation>
     </message>
     <message>
         <source>%1 stopped recording</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 остановил запись</translation>
     </message>
     <message>
         <source>Started recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Запись начата</translation>
     </message>
     <message>
         <source>Stopped recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Запись остановлена</translation>
     </message>
     <message>
         <source>Your description has been changed to &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ваше описание изменено &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Your description has been removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ваше описание удалено.</translation>
     </message>
     <message>
         <source>Your description has been changed to &quot;%1&quot; by %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ваше описание изменено на &quot;%1&quot; клиентом %2.</translation>
     </message>
     <message>
         <source>Your description has been removed by %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ваше описание удалено клиентом %1.</translation>
     </message>
     <message>
         <source>%1 connected to channel %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент %1 подключился на канал %2</translation>
     </message>
     <message>
         <source>%1 disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 отключился</translation>
     </message>
     <message>
         <source>%1 disconnected %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 отключился от %2</translation>
     </message>
     <message>
         <source>%1 appears, coming from channel %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 подключается с канала %2</translation>
     </message>
     <message>
         <source>You switched from channel %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы переключились с канала %1 на %2</translation>
     </message>
     <message>
         <source>%1 switched from channel %2 to %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 переключился с канала %2 на %3</translation>
     </message>
     <message>
         <source>%1 left heading to channel %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 отлючился и направился на %2</translation>
     </message>
     <message>
         <source>%1 dropped (ping timeout)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 потерял подключение (ping)</translation>
     </message>
     <message>
         <source>%1 dropped (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 потерял подключение (%2)</translation>
     </message>
     <message>
         <source>You dropped (ping timeout)</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы потеряли подключение (ping)</translation>
     </message>
     <message>
         <source>You dropped (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы потеряли подключение (%1)</translation>
     </message>
     <message>
         <source>%1 appears, was moved from channel %2 by %3 %4</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 перемещен с канала %2 клиентом %3 %4</translation>
     </message>
     <message>
         <source>%1 was moved from channel %2 to %3 by %4 %5</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 перемещен с канала %2 на %3 клиентом %4 %5</translation>
     </message>
     <message>
         <source>You were moved from channel %1 to %2 by %3 %4</source>
