@@ -8657,775 +8657,775 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>You were moved from channel %1 to %2 by %3 %4</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы были перемещены из канала %1 в %2 клиентом %3 %4</translation>
     </message>
     <message>
         <source>%1 left, was moved to channel %2 by %3 %4</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 перемещен на канал %2 клиентом %3 %4</translation>
     </message>
     <message>
         <source>%1 appears, was kicked from channel %2 by %3 %4</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 выпнут с канала %2 клиентом %3 %4</translation>
     </message>
     <message>
         <source>%1 was kicked from channel %2 by %3 %4</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 выпнут с канала %2 клиентом %3 %4</translation>
     </message>
     <message>
         <source>You were kicked from channel %1 by %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Вас выгнал с канала %1 клиент %2 %3</translation>
     </message>
     <message>
         <source>%1 left: was kicked to channel %2 by %3 %4</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 перекинут на канал %2 клиентом %3 %4</translation>
     </message>
     <message>
         <source>%1 was kicked from the server by %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 выкинут с сервера клиентом %2 %3</translation>
     </message>
     <message>
         <source>You were kicked from the server by %1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Вас выгнал с сервера клиент %1 %2</translation>
     </message>
     <message>
         <source>permanently</source>
-        <translation type="unfinished"></translation>
+        <translation>навсегда</translation>
     </message>
     <message>
         <source>for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>временно %1</translation>
     </message>
     <message>
         <source>%1 was banned %2 from the server by %3 %4</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 забанен %2 на сервере клиентом %3 %4</translation>
     </message>
     <message>
         <source>You were banned %1 from the server by %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Вас забанил %1 на сервере клиент %2 %3</translation>
     </message>
     <message>
         <source>Server properties edited successfully</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки сервера изменены</translation>
     </message>
     <message>
         <source>Server properties have been edited by %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки сервера изменены клиентом %1</translation>
     </message>
     <message>
         <source>Server has been shut down: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Сервер выключен: %1</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;div class=&quot;TextMessage_Poke&quot;&gt;&lt;span class=&quot;TextMessage_Time&quot;&gt;%1&lt;/span&gt; - %2 pokes you: %3&lt;/div&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;div class=&quot;TextMessage_Poke&quot;&gt;&lt;span class=&quot;TextMessage_Time&quot;&gt;%1&lt;/span&gt; - %2 тыкнул вам: %3&lt;/div&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <source>%1 pokes you: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 тыкает: %2</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;div class=&quot;TextMessage_Poke&quot;&gt;&lt;span class=&quot;TextMessage_Time&quot;&gt;%1&lt;/span&gt; - %2 pokes you.&lt;/div&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;div class=&quot;TextMessage_Poke&quot;&gt;&lt;span class=&quot;TextMessage_Time&quot;&gt;%1&lt;/span&gt; - %2 тыкает вас.&lt;/div&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <source>%1 pokes you</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 тыкает вас</translation>
     </message>
     <message>
         <source>%1 - %2 pokes you: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - %2 тыкают вас: %3</translation>
     </message>
     <message>
         <source>%1 - %2 pokes you.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 - %2 тыкают вас.</translation>
     </message>
     <message>
         <source>You Have Been Poked</source>
-        <translation type="unfinished"></translation>
+        <translation>Вас ткнули, ой</translation>
     </message>
     <message>
         <source>The password of channel %1 has been changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пароль канала %1 был изменен.</translation>
     </message>
     <message>
         <source>[Inherited from: %1]</source>
-        <translation type="unfinished"></translation>
+        <translation>[Унаследовано от: %1]</translation>
     </message>
     <message>
         <source>Channel group &quot;%1&quot;%2 was assigned to %3 by %4.</source>
-        <translation type="unfinished"></translation>
+        <translation>Группа канала &quot;%1&quot;%2 была назначена %3 клиентом %4.</translation>
     </message>
     <message>
         <source>%2 was added to server group &quot;%1&quot; by %3.</source>
-        <translation type="unfinished"></translation>
+        <translation>%2 был добавлен в группу сервера &quot;%1&quot; клиентом %3.</translation>
     </message>
     <message>
         <source>%2 was removed from server group &quot;%1&quot; by %3.</source>
-        <translation type="unfinished"></translation>
+        <translation>%2 был исключен из группы сервера &quot;%1&quot; клиентом %3.</translation>
     </message>
     <message>
         <source>Chat partner has closed the conversation</source>
-        <translation type="unfinished"></translation>
+        <translation>Собеседник закончил разговор</translation>
     </message>
     <message>
         <source>You are not connected to a server, this message has not been sent.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы не подключены к серверу, это сообщение не доставлено.</translation>
     </message>
     <message>
         <source>Chat partner is out of view</source>
-        <translation type="unfinished"></translation>
+        <translation>Собеседник не следит за разговором</translation>
     </message>
     <message>
         <source>&lt;p&gt;Your chat partner is out of view.&lt;/p&gt;&lt;p&gt;Do you want to send the chat text as an offline message?&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Ваш собеседник свернул окно чата.&lt;/p&gt;&lt;p&gt;Хотите отправить сообщение в оффлайн-режиме?&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Out of view</source>
-        <translation type="unfinished"></translation>
+        <translation>Не следит за беседой</translation>
     </message>
     <message>
         <source>This ServerQuery client did not register for the private text message event using &quot;servernotifyregister event=textprivate&quot;. The text message was not received.</source>
-        <translation type="unfinished"></translation>
+        <translation>Клиент ServerQuery не зарегестрирован для получения приватных сообщений с помощью &quot;servernotifyregister event=textprivate&quot;. Сообщение не доставлено.</translation>
     </message>
     <message>
         <source>(failed on %1)</source>
-        <translation type="unfinished"></translation>
+        <translation>(неудача на %1)</translation>
     </message>
     <message>
         <source>No permissions to view the description of channel %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Недостаточно привилегий для просмотра описания канала %1</translation>
     </message>
     <message>
         <source>Offline message sent.</source>
-        <translation type="unfinished"></translation>
+        <translation>Оффлайн-сообщение отправлено.</translation>
     </message>
     <message>
         <source>You poked %1 with message: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Вас ткнули %1 и сказали: %2</translation>
     </message>
     <message>
         <source>You poked %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вас ткнули %1.</translation>
     </message>
     <message>
         <source>&amp;Client Connection Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Информация о подключении клиента</translation>
     </message>
     <message>
         <source>Retrieve client connection information</source>
-        <translation type="unfinished"></translation>
+        <translation>Получить информацию о подключении</translation>
     </message>
     <message>
         <source>&amp;Server Connection Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Информация о подключении сервера</translation>
     </message>
     <message>
         <source>Retrieve server connection infomation</source>
-        <translation type="unfinished"></translation>
+        <translation>Получить информацию о подключении</translation>
     </message>
     <message>
         <source>&amp;Switch to Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейти на канал</translation>
     </message>
     <message>
         <source>Switch into the selected channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейти на выбранный канал</translation>
     </message>
     <message>
         <source>S&amp;ubscribe to Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Подписаться на канал</translation>
     </message>
     <message>
         <source>Display the occupants of this channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать участников канала</translation>
     </message>
     <message>
         <source>S&amp;ubscribe to All Channels</source>
-        <translation type="unfinished"></translation>
+        <translation>Подписаться на все каналы</translation>
     </message>
     <message>
         <source>Display the occupants of all channels on this server</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать участников на всех каналах этого сервера</translation>
     </message>
     <message>
         <source>U&amp;nsubscribe from Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Отписаться от канала</translation>
     </message>
     <message>
         <source>Discontinue displaying the occupants of this channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Не показывать участников этого канала</translation>
     </message>
     <message>
         <source>U&amp;nsubscribe from All Channels</source>
-        <translation type="unfinished"></translation>
+        <translation>Отписаться от всех каналов</translation>
     </message>
     <message>
         <source>Discontinue displaying the occupants of all channels on this server</source>
-        <translation type="unfinished"></translation>
+        <translation>Не показывать участников всех каналов на этом сервере</translation>
     </message>
     <message>
         <source>S&amp;ubscribe to Channel Family</source>
-        <translation type="unfinished"></translation>
+        <translation>Подписаться на группу каналов</translation>
     </message>
     <message>
         <source>Display the occupants of this channel and all subchannels</source>
-        <translation type="unfinished"></translation>
+        <translation>Отображать участников на этом канале и на всех его подканалах</translation>
     </message>
     <message>
         <source>U&amp;nsubscribe from Channel Family</source>
-        <translation type="unfinished"></translation>
+        <translation>Отписаться от группы каналов</translation>
     </message>
     <message>
         <source>Discontinue displaying the occupants of this channel and all subchannels</source>
-        <translation type="unfinished"></translation>
+        <translation>Не отображать участников этого канала и всех его подканалов</translation>
     </message>
     <message>
         <source>&amp;Create Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать канал</translation>
     </message>
     <message>
         <source>Create a new channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Создание нового канала</translation>
     </message>
     <message>
         <source>C&amp;reate Sub-Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать подканал</translation>
     </message>
     <message>
         <source>Create a new subchannel</source>
-        <translation type="unfinished"></translation>
+        <translation>Создание нового дочернего канала</translation>
     </message>
     <message>
         <source>&amp;Edit Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить канал</translation>
     </message>
     <message>
         <source>Change the properties of this channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменение настроек этого канала</translation>
     </message>
     <message>
         <source>&amp;Delete Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить канал</translation>
     </message>
     <message>
         <source>Delete the selected channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Удаление выбранного канала</translation>
     </message>
     <message>
         <source>&amp;Open Text Chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть чат</translation>
     </message>
     <message>
         <source>Open a new chat tab for this client</source>
-        <translation type="unfinished"></translation>
+        <translation>Открывает новую вкладку с чатом</translation>
     </message>
     <message>
         <source>&amp;Kick Client from Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Выпнуть клиента с канала</translation>
     </message>
     <message>
         <source>Kick the selected client from this channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Выгоняет выбранного клиента с этого канала</translation>
     </message>
     <message>
         <source>&amp;Kick Client from Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Выпнуть клиента с сервера</translation>
     </message>
     <message>
         <source>Kick the selected client from this server</source>
-        <translation type="unfinished"></translation>
+        <translation>Выгоняет выбранного клиента с этого сервера</translation>
     </message>
     <message>
         <source>&amp;Poke Client</source>
-        <translation type="unfinished"></translation>
+        <translation>Ткнуть клиента</translation>
     </message>
     <message>
         <source>Get the attention of the selected client</source>
-        <translation type="unfinished"></translation>
+        <translation>Привлекает внимание выбранного клиента</translation>
     </message>
     <message>
         <source>Expand All</source>
-        <translation type="unfinished"></translation>
+        <translation>Раскрыть все</translation>
     </message>
     <message>
         <source>Expand all channels</source>
-        <translation type="unfinished"></translation>
+        <translation>Раскрывает все каналы</translation>
     </message>
     <message>
         <source>Collapse All</source>
-        <translation type="unfinished"></translation>
+        <translation>Свернуть все</translation>
     </message>
     <message>
         <source>Collapse all channels</source>
-        <translation type="unfinished"></translation>
+        <translation>Сворачивает все каналы</translation>
     </message>
     <message>
         <source>Expand Subchannels</source>
-        <translation type="unfinished"></translation>
+        <translation>Раскрыть подканалы</translation>
     </message>
     <message>
         <source>Expand all subchannels</source>
-        <translation type="unfinished"></translation>
+        <translation>Раскрывает все дочерние каналы</translation>
     </message>
     <message>
         <source>Collapse Subchannels</source>
-        <translation type="unfinished"></translation>
+        <translation>Свернуть подканалы</translation>
     </message>
     <message>
         <source>Collapse all subchannels</source>
-        <translation type="unfinished"></translation>
+        <translation>Сворачивает все дочерние каналы</translation>
     </message>
     <message>
         <source>&amp;Change Nickname</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить никнэйм</translation>
     </message>
     <message>
         <source>Change your nickname on this server</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменяет ваш никнэйм на этом сервере</translation>
     </message>
     <message>
         <source>&amp;Join Channel of Client</source>
-        <translation type="unfinished"></translation>
+        <translation>Подключится к каналу клиента</translation>
     </message>
     <message>
         <source>Join the channel of this client</source>
-        <translation type="unfinished"></translation>
+        <translation>Подключает к каналу этого клиента</translation>
     </message>
     <message>
         <source>&amp;Move Client to own Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить клиента в свой канал</translation>
     </message>
     <message>
         <source>Move this client to your own channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Перемещает этого клиента в ваш собственный канал</translation>
     </message>
     <message>
         <source>&amp;Find Client in Channel Tree</source>
-        <translation type="unfinished"></translation>
+        <translation>Найти клиента в дереве каналов</translation>
     </message>
     <message>
         <source>Find and select this client in the channel tree</source>
-        <translation type="unfinished"></translation>
+        <translation>Найти и выделить этого клиента в дереве каналов</translation>
     </message>
     <message>
         <source>Open File Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть браузер файлов</translation>
     </message>
     <message>
         <source>Open the File Browser for this channel to share files</source>
-        <translation type="unfinished"></translation>
+        <translation>Открывает проводник для обмена файлами на этом канале</translation>
     </message>
     <message>
         <source>Setup 3D Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Настроить 3D звук</translation>
     </message>
     <message>
         <source>Configure 3D sound for this channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Настроить 3D звук на этом канале</translation>
     </message>
     <message>
         <source>Set Avatar</source>
-        <translation type="unfinished"></translation>
+        <translation>Задать аватар</translation>
     </message>
     <message>
         <source>Select and upload your avatar</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите и загрузите свой аватар</translation>
     </message>
     <message>
         <source>Delete Avatar</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить аватар</translation>
     </message>
     <message>
         <source>Delete own avatar</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить свой аватар</translation>
     </message>
     <message>
         <source>Delete Users Avatar</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить аватар пользователя</translation>
     </message>
     <message>
         <source>Delete users avatar</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить аватар пользователя</translation>
     </message>
     <message>
         <source>Mute Client</source>
-        <translation type="unfinished"></translation>
+        <translation>Заглушить клиента</translation>
     </message>
     <message>
         <source>Mute this client</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключает звук этому клиенту</translation>
     </message>
     <message>
         <source>Unmute Client</source>
-        <translation type="unfinished"></translation>
+        <translation>Включить клиента</translation>
     </message>
     <message>
         <source>Unmute this client</source>
-        <translation type="unfinished"></translation>
+        <translation>Возобновить звук с этого клиента</translation>
     </message>
     <message>
         <source>Permissions Overview</source>
-        <translation type="unfinished"></translation>
+        <translation>Просмотр привилегий</translation>
     </message>
     <message>
         <source>Display permissions overview</source>
-        <translation type="unfinished"></translation>
+        <translation>Отображает подробную информацию о привилегиях</translation>
     </message>
     <message>
         <source>Add as Friend</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить друга</translation>
     </message>
     <message>
         <source>Add this client to the Contact Manager as Friend</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить этого клиента в контакты как друга</translation>
     </message>
     <message>
         <source>Add as Blocked</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить врага</translation>
     </message>
     <message>
         <source>Add this client to the Contact Manager as Blocked</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить этого клиента в контакты как заблокированного</translation>
     </message>
     <message>
         <source>Remove from Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить из контактов</translation>
     </message>
     <message>
         <source>Remove this client from the Contacts List</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить этого клиента из контактов</translation>
     </message>
     <message>
         <source>Edit in Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить контакт</translation>
     </message>
     <message>
         <source>Open the Contact Manager and edit this client</source>
-        <translation type="unfinished"></translation>
+        <translation>Открывает контакт этого клиента для изменения</translation>
     </message>
     <message>
         <source>Request Talk Power</source>
-        <translation type="unfinished"></translation>
+        <translation>Запросить Право голоса</translation>
     </message>
     <message>
         <source>Request talk power</source>
-        <translation type="unfinished"></translation>
+        <translation>Запросить Право голоса</translation>
     </message>
     <message>
         <source>Cancel Talk Power Request</source>
-        <translation type="unfinished"></translation>
+        <translation>Отказать в Праве голоса</translation>
     </message>
     <message>
         <source>Cancel talk power request</source>
-        <translation type="unfinished"></translation>
+        <translation>Отказать в Праве голоса</translation>
     </message>
     <message>
         <source>Client Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Привилегии клиента</translation>
     </message>
     <message>
         <source>Modify client permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить привилегии клиента</translation>
     </message>
     <message>
         <source>Channel Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Привилегии канала</translation>
     </message>
     <message>
         <source>Modify channel permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить привилегии канала</translation>
     </message>
     <message>
         <source>Channel Client Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Привилегии клиента на канале</translation>
     </message>
     <message>
         <source>Modify channel client permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить привилегии клиента на канале</translation>
     </message>
     <message>
         <source>Make a Complaint</source>
-        <translation type="unfinished"></translation>
+        <translation>Подать жалобу</translation>
     </message>
     <message>
         <source>Make a complaint about this client to the server admin</source>
-        <translation type="unfinished"></translation>
+        <translation>Подать жалобу на этого клиента админу сервера</translation>
     </message>
     <message>
         <source>&amp;Ban Client</source>
-        <translation type="unfinished"></translation>
+        <translation>Забанить клиента</translation>
     </message>
     <message>
         <source>Ban the selected client</source>
-        <translation type="unfinished"></translation>
+        <translation>Забанить выбранного клиента</translation>
     </message>
     <message>
         <source>&amp;Change Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить описание</translation>
     </message>
     <message>
         <source>Edit this clients description</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить описание этого клиента</translation>
     </message>
     <message>
         <source>&amp;Priority Speaker</source>
-        <translation type="unfinished"></translation>
+        <translation>Спикер канала</translation>
     </message>
     <message>
         <source>Assign or remove Priority Speaker permissions to this client in this channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Назначить или отозвать привилегию Спикера на этом канале</translation>
     </message>
     <message>
         <source>Change &amp;Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить громкость</translation>
     </message>
     <message>
         <source>Adjust voice volume of this client</source>
-        <translation type="unfinished"></translation>
+        <translation>Настроить громкость голоса этого клиента</translation>
     </message>
     <message>
         <source>Edit Virtual Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить виртуальный сервер</translation>
     </message>
     <message>
         <source>Edit virtual server settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить настройки виртуального сервера</translation>
     </message>
     <message>
         <source>Add Temporary Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить временный пароль</translation>
     </message>
     <message>
         <source>Add temporary server password</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить временный пароль серверу</translation>
     </message>
     <message>
         <source>Temporary Passwords</source>
-        <translation type="unfinished"></translation>
+        <translation>Временные пароли</translation>
     </message>
     <message>
         <source>Manage temporary server passwords</source>
-        <translation type="unfinished"></translation>
+        <translation>Управление временными паролями на сервере</translation>
     </message>
     <message>
         <source>Grant Talk Power</source>
-        <translation type="unfinished"></translation>
+        <translation>Предоставить Право голоса</translation>
     </message>
     <message>
         <source>Grant talk power to this client</source>
-        <translation type="unfinished"></translation>
+        <translation>Предоставить Право голоса этому клиенту</translation>
     </message>
     <message>
         <source>Revoke Talk Power</source>
-        <translation type="unfinished"></translation>
+        <translation>Отозвать Право голоса</translation>
     </message>
     <message>
         <source>Revoke talk power from this client</source>
-        <translation type="unfinished"></translation>
+        <translation>Отозвать Право голоса у этого клиента</translation>
     </message>
     <message>
         <source>Grant Next Requested Talk Power</source>
-        <translation type="unfinished"></translation>
+        <translation>Предоставить Право голоса следующему</translation>
     </message>
     <message>
         <source>Grant talk power to the next requesting client in your current channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Предоставить Право голоса следующему клиенту в текущем канале</translation>
     </message>
     <message>
         <source>Revoke All and Grant Next Requested Talk Power</source>
-        <translation type="unfinished"></translation>
+        <translation>Отозвать Право голоса у всех и предоставить следующему</translation>
     </message>
     <message>
         <source>Revokes talk power from everyone and grants it to the next requesting client in your current channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Отзывает Право голоса у всех клиентов и назначает его следующему при запросе в текущем канале</translation>
     </message>
     <message>
         <source>View Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Посмотреть иконки</translation>
     </message>
     <message>
         <source>View servergroup and channelgroup icons of this virtual server</source>
-        <translation type="unfinished"></translation>
+        <translation>Посмотреть иконки групп сервера и каналов на этом виртуальном сервере</translation>
     </message>
     <message>
         <source>Server Groups Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Группы сервера</translation>
     </message>
     <message>
         <source>Handle servergroups for current client</source>
-        <translation type="unfinished"></translation>
+        <translation>Контроль групп сервера этого клиента</translation>
     </message>
     <message>
         <source>Channel Groups of Client</source>
-        <translation type="unfinished"></translation>
+        <translation>Группы каналов клиента</translation>
     </message>
     <message>
         <source>Display channel groups of specified client</source>
-        <translation type="unfinished"></translation>
+        <translation>Отображает группы каналов для заданного клиента</translation>
     </message>
     <message>
         <source>&amp;Channel Commander</source>
-        <translation type="unfinished"></translation>
+        <translation>Ефрейтор канала</translation>
     </message>
     <message>
         <source>Assign or remove Channel Commander status to this client</source>
-        <translation type="unfinished"></translation>
+        <translation>Назначить или отобрать звание Ефрейтора канала у этого клиента</translation>
     </message>
     <message>
         <source>Create &amp;Spacer</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать разделитель</translation>
     </message>
     <message>
         <source>Create a new spacer</source>
-        <translation type="unfinished"></translation>
+        <translation>Создает новый разделитель</translation>
     </message>
     <message>
         <source>Set Channel Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Задать группу канала</translation>
     </message>
     <message>
         <source>Set Inherited Channel Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Задать унаследованную группу канала</translation>
     </message>
     <message>
         <source>Set Server Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Задать группу сервера</translation>
     </message>
     <message>
         <source>This server is blacklisted. Refusing to connect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Этот сервер в черном списке. Отказываюсь подключаться.</translation>
     </message>
     <message>
         <source>&lt;p&gt;You have connected to a TeamSpeak server that seems to be using an invalid license.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Вы подключились к серверу TeamSpeak с некорректной лицензией.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Continue</source>
-        <translation type="unfinished"></translation>
+        <translation>Продолжить</translation>
     </message>
     <message>
         <source>&lt;p&gt;You are connecting to a TeamSpeak server that seems to be using an invalid license.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Вы подключаетесь к пиратскому TeamSpeak серверу.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>Подключиться</translation>
     </message>
     <message>
         <source>&lt;p&gt;If you are the owner of this server, please check with your TeamSpeak host provider to verify they are using a valid license for your server.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Если вы владелец этого сервера, проверьте конфигурацию и лицензию вашего TeamSpeak сервера.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Connection aborted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Подключение прервано.</translation>
     </message>
     <message>
         <source>Trying to connect to server on &lt;span class=&apos;TextMessage_HostName&apos;&gt;%1&lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Подключаемся к серверу &lt;span class=&apos;TextMessage_HostName&apos;&gt;%1&lt;/span&gt;</source</translation>
     </message>
     <message>
         <source>You need to setup your identity.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вам нужно настроить идентификатор.</translation>
     </message>
     <message>
         <source>&lt;p&gt;The configured playback device was not found.&lt;br&gt;Instead using: &lt;strong&gt;%1&lt;/strong&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Настроенного устройства воспроизведения не найдно.&lt;br&gt;Используем: &lt;strong&gt;%1&lt;/strong&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <source>The configured playback device was not found. Instead using: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Настроенного устройства для воспроизведения не найдено. Используем: %1</translation>
     </message>
     <message>
         <source>&lt;p&gt;The configured capture device was not found.&lt;br&gt;Instead using: &lt;strong&gt;%1&lt;/strong&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Настроенного устройства записи не найдно.&lt;br&gt;Используем: &lt;strong&gt;%1&lt;/strong&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <source>The configured capture device was not found. Instead using: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Настроенного устройства записи не найдно. Используем: %1</translation>
     </message>
     <message>
         <source>&lt;p&gt;Press &lt;strong&gt;OK&lt;/strong&gt; to apply the changes or press &lt;strong&gt;Setup&lt;/strong&gt; to change the configuration manually.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Нажмите &lt;strong&gt;OK&lt;/strong&gt; чтобы сохранить изменения или &lt;strong&gt;Настройки&lt;/strong&gt; чтобы изменить настройки вручную.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Press OK to apply the changes or press Setup to change the configuration manually.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите ОК чтобы сохранить изменения или Настройки чтобы изменить настройки вручную.</translation>
     </message>
     <message>
         <source>You are now known as &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Теперь Вы &quot;%1&quot;</translation>
     </message>
     <message>
         <source>%1 is now known as %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 теперь известен как %2</translation>
     </message>
     <message>
         <source>Your avatar was deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ваш аватар был удален.</translation>
     </message>
     <message>
         <source>&lt;p&gt;You entered a moderated channel. You can only speak&lt;br&gt;if &lt;strong&gt;Talk power&lt;/strong&gt; has been granted to you.&lt;/p&gt;&lt;p&gt;To request Talk Power, right-click on your name and&lt;br&gt;select &lt;strong&gt;Request Talk Power&lt;/strong&gt; in the popup menu.&lt;br&gt;Wait until a moderator grants you Talk Power.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Вы зашли на модерируемый канал. Вы можете говорить&lt;br&gt;если Вам предоставлено &lt;strong&gt;Право голоса&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Чтобы запросить Право голоса, кликните на свое имя в списке правой клавишей&lt;br&gt;выберите &lt;strong&gt;Запросить Право голоса&lt;/strong&gt; во всплывающем меню.&lt;br&gt;Подождите одобрения модератором.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p style=&quot;color:red;&quot;&gt;This server requires a newer client version.&lt;/p&gt;&lt;p&gt;Please update your client or visit &lt;a href=&quot;www.teamspeak.com&quot;&gt;www.teamspeak.com&lt;/a&gt; to download the latest version.&lt;/p&gt;&lt;p&gt;Do you want to check for updates now?&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p style=&quot;color:red;&quot;&gt;Этот сервер требует новой версии от клиента.&lt;/p&gt;&lt;p&gt;Пожалуйста, обновите ваш клиент, посетите &lt;a href=&quot;www.teamspeak.com&quot;&gt;www.teamspeak.com&lt;/a&gt; чтобы скачать его.&lt;/p&gt;&lt;p&gt;Хотите сделать это сейчас?&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Invalid server password.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неверный пароль сервера.</translation>
     </message>
     <message>
         <source>Maximum number of connections with the same identity exceeded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Достигнут предел подключений клиента с данным идентификатором.</translation>
     </message>
     <message>
         <source>Insufficient identity security level for this server. You need to improve your identity security level.</source>
-        <translation type="unfinished"></translation>
+        <translation>Недостаточный уровень безопасности вашего идентификатора на этом сервере. Необходимо повысить уровень.</translation>
     </message>
     <message>
         <source>&lt;p&gt;A dialog to improve the identity security level is already open.&lt;/p&gt;&lt;p&gt;Please increase the security level of the required identity on this server manually.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Диалог повышения уровня безопасности идентификатора уже открыт.&lt;/p&gt;&lt;p&gt;Повысьте уровень безопасности требуемого идентификатора вручную.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Failed to get required identity security level. Please manually increase your identity security level.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не получилось получить запрошенный уровень безопасности. Попробуйте вручную.</translation>
     </message>
     <message>
         <source>Connection failed because the server reached its maximum amount of clients.</source>
-        <translation type="unfinished"></translation>
+        <translation>Подключение прервано, так как сервер забит другими клиентами.</translation>
     </message>
     <message>
         <source>Connection failed because the channel reached its maximum amount of clients.</source>
-        <translation type="unfinished"></translation>
+        <translation>Подключение прервано, так как на канале присутствует максимально возможное число клиентов.</translation>
     </message>
     <message>
         <source>Connection failed: &lt;strong&gt;The channel reached its maximum amount of clients&lt;/strong&gt;.&lt;br&gt;Would you like to join the servers default channel instead?</source>
-        <translation type="unfinished"></translation>
+        <translation>Подключение прервано: &lt;strong&gt;На канале присутствует мксимально возможное число клиентов&lt;/strong&gt;.&lt;br&gt;Может переключиться на основной канал сервера?</translation>
     </message>
     <message>
         <source>Connection failed because the channel reached its maximum amount of family clients.</source>
-        <translation type="unfinished"></translation>
+        <translation>Подключение прервано, так как группа канала достигла предела численности - нет мест.</translation>
     </message>
     <message>
         <source>Connection failed: &lt;strong&gt;The channel reached its maximum amount of family clients&lt;/strong&gt;.&lt;br&gt;Would you like to join the servers default channel instead?</source>
-        <translation type="unfinished"></translation>
+        <translation>Подключение прервано: &lt;strong&gt;Группа канала достигла предела своей численности&lt;/strong&gt;.&lt;br&gt;Переключиться на основной канал сервера?</translation>
     </message>
     <message>
         <source>Maximum reached</source>
-        <translation type="unfinished"></translation>
+        <translation>Достигнут предел</translation>
     </message>
     <message>
         <source>Action currently not possible due to spam protection. Please wait a few seconds and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Действие не может быть выполнено, сработала защита от спама. Повторите через несколько секунд снова.</translation>
     </message>
     <message>
         <source>the Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Сервер</translation>
     </message>
     <message>
         <source>Turning Push-To-Talk on, &quot;force-push-to-talk&quot; permission was assigned.</source>
-        <translation type="unfinished"></translation>
+        <translation>Включаю рацию (PTT), &quot;force-push-to-talk&quot; привилегия назначена.</translation>
     </message>
     <message>
         <source>Turning Voice Activation on, &quot;force-push-to-talk&quot; permission has been removed.</source>
