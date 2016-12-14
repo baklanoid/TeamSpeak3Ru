@@ -22,7 +22,7 @@
     <message>
         <source>PLACEHOLDER</source>
         <extracomment>Translators can add their names, copyright notice or links here. If the text stays &quot;PLACEHOLDER&quot;, the label will be hidden.</extracomment>
-        <translation>Перевод програмы выполнил участник &lt;a href=&quot;http://vk.com/tvp_lab&quot;&gt;TVP&lt;/a&gt;</translation>
+        <translation>Перевод програмы выполнил участник &lt;a href=&quot;http://vk.com/tvp_lab&quot;&gt;TVP Lab&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Copyright</source>
@@ -5491,7 +5491,7 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Whisper Lists</source>
-        <translation>Список Шепталок</translation>
+        <translation>Список шепталок</translation>
     </message>
     <message>
         <source>Manage whisper lists</source>
