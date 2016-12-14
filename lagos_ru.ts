@@ -26,7 +26,7 @@
     </message>
     <message>
         <source>Copyright</source>
-        <translation type="unfinished"></translation>
+        <translation>Авторское право</translation>
     </message>
     <message>
         <source>License</source>
@@ -873,7 +873,6 @@ servers will not be cleared.</source>
     <message>
         <source>&lt;p&gt;Switching the options page will abort the voice test.&lt;/p&gt;&lt;p&gt;Do you want to continue and stop your voice test?&lt;/p&gt;</source>
         <translation>&lt;p&gt;Переключение вкладки настроек прервет голосовой тест.&lt;/p&gt;&lt;p&gt;Продолжить и остановить тест?&lt;/p&gt;</translation>
-        <translation></translation>
     </message>
     <message>
         <source>&lt;p&gt;Switching the profile will abort the voice test.&lt;/p&gt;&lt;p&gt;Do you want to continue and stop your voice test?&lt;/p&gt;</source>
@@ -898,7 +897,6 @@ servers will not be cleared.</source>
     <message>
         <source>Capture Profile &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt; has been deleted.&lt;p&gt;Do you want to delete every Hotkey assigned to this profile as well?&lt;/p&gt;</source>
         <translation>Профиль Записи &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt; был удален.&lt;p&gt;Удалить назначенные для этого профиля горячие клавиши?&lt;/p&gt;</translation>
-        <translation></translation>
     </message>
 </context>
 <context>
@@ -1677,11 +1675,11 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>Keep Alive</source>
-        <translation type="unfinished"></translation>
+        <translation>Постоянное соединение</translation>
     </message>
     <message>
         <source>Control</source>
-        <translation>Контроль</translation>
+        <translation>Управление</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -2893,11 +2891,11 @@ selected files from your computer?</source>
     </message>
     <message>
         <source>KiB/s</source>
-        <translation type="unfinished"></translation>
+        <translation>КБ/с</translation>
     </message>
     <message>
         <source>Speed: </source>
-        <translation>Скорость</translation>
+        <translation>Скорость: </translation>
     </message>
     <message>
         <source>Download Limit - Slots:</source>
@@ -2941,11 +2939,11 @@ selected files from your computer?</source>
     </message>
     <message>
         <source>/s</source>
-        <translation type="unfinished"></translation>
+        <translation>/с</translation>
     </message>
     <message>
         <source>Down: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка с сервера: %1</translation>
     </message>
     <message>
         <source>%1% download</source>
@@ -2953,7 +2951,7 @@ selected files from your computer?</source>
     </message>
     <message>
         <source>Up: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка на сервер: %1</translation>
     </message>
     <message>
         <source>%1% upload</source>
@@ -3959,19 +3957,19 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Отмена</translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <source>Ctrl+F</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+F</translation>
     </message>
     <message>
         <source>for all Capture Profiles</source>
-        <translation>Для всех профилей записи</translation>
+        <translation>для всех профилей записи</translation>
     </message>
     <message>
         <source>on Current Server</source>
@@ -4514,7 +4512,7 @@ You need to improve your identity security level.&lt;/span&gt;</source>
     <name>InfoFrame</name>
     <message>
         <source>serverinfo.tpl</source>
-        <translation type="unfinished"></translation>
+        <translation>serverinfo.tpl</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -4554,7 +4552,7 @@ You need to improve your identity security level.&lt;/span&gt;</source>
     </message>
     <message>
         <source>%1 / %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <source>-%1 reserved</source>
@@ -4574,7 +4572,7 @@ You need to improve your identity security level.&lt;/span&gt;</source>
     </message>
     <message>
         <source>channelinfo.tpl</source>
-        <translation type="unfinished"></translation>
+        <translation>channelinfo.tpl</translation>
     </message>
     <message>
         <source>Unlimited</source>
@@ -4662,7 +4660,7 @@ You need to improve your identity security level.&lt;/span&gt;</source>
     </message>
     <message>
         <source>clientinfo.tpl</source>
-        <translation type="unfinished"></translation>
+        <translation>clientinfo.tpl</translation>
     </message>
     <message>
         <source>[Inherited from: %1]</source>
@@ -4724,7 +4722,7 @@ You need to improve your identity security level.&lt;/span&gt;</source>
     </message>
     <message>
         <source>Volume modifier:</source>
-        <translation type="unfinished"></translation>
+        <translation>Модификатор громкости</translation>
     </message>
     <message>
         <source>Description:</source>
@@ -4760,27 +4758,27 @@ You need to improve your identity security level.&lt;/span&gt;</source>
     </message>
     <message>
         <source>Speex Narrowband</source>
-        <translation type="unfinished"></translation>
+        <translation>Speex узкополосный 8КГц</translation>
     </message>
     <message>
         <source>Speex Wideband</source>
-        <translation type="unfinished"></translation>
+        <translation>Speex широкополосный 16КГц</translation>
     </message>
     <message>
         <source>Speex Ultra-Wideband</source>
-        <translation type="unfinished"></translation>
+        <translation>Speex сверхширокополосный 32КГц</translation>
     </message>
     <message>
         <source>CELT Mono</source>
-        <translation type="unfinished"></translation>
+        <translation>CELT Mono (для хорошего канала связи)</translation>
     </message>
     <message>
         <source>Opus Voice</source>
-        <translation type="unfinished"></translation>
+        <translation>Opus для голоса (SILK - на основе разработок Skype)</translation>
     </message>
     <message>
         <source>Opus Music</source>
-        <translation type="unfinished"></translation>
+        <translation>Opus для музыки (на основе MDCT)</translation>
     </message>
     <message>
         <source>Unknown Codec</source>
@@ -4993,7 +4991,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Wave files (*.wav)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wave файл (*.wav)</translation>
     </message>
     <message>
         <source>Transfer &quot;%1&quot; reports: (%2)</source>
@@ -5009,7 +5007,7 @@ Current: %1</source>
     </message>
     <message>
         <source>/s</source>
-        <translation type="unfinished"></translation>
+        <translation>/с</translation>
     </message>
     <message>
         <source>&amp;About TeamSpeak 3</source>
@@ -5025,7 +5023,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+S</translation>
     </message>
     <message>
         <source>Connect to a TeamSpeak server</source>
@@ -5037,7 +5035,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+D</translation>
     </message>
     <message>
         <source>Disconnect from the currently active server tab</source>
@@ -5061,7 +5059,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+Shift+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+S</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
@@ -5069,7 +5067,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+Q</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Q</translation>
     </message>
     <message>
         <source>Exit TeamSpeak</source>
@@ -5153,7 +5151,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Alt+P</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+P</translation>
     </message>
     <message>
         <source>Start &amp;Overwolf</source>
@@ -5173,7 +5171,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+U</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+U</translation>
     </message>
     <message>
         <source>File &amp;Transfers</source>
@@ -5185,7 +5183,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+T</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+T</translation>
     </message>
     <message>
         <source>Contacts</source>
@@ -5197,7 +5195,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+Shift+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
         <source>Visit TeamSpeak &amp;Webpage</source>
@@ -5241,7 +5239,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+L</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+L</translation>
     </message>
     <message>
         <source>&amp;Server Log</source>
@@ -5253,7 +5251,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+Shift+L</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+L</translation>
     </message>
     <message>
         <source>&amp;Server Groups</source>
@@ -5265,7 +5263,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+F1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+F1</translation>
     </message>
     <message>
         <source>&amp;Client Permissions</source>
@@ -5277,7 +5275,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+F2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+F2</translation>
     </message>
     <message>
         <source>&amp;Channel Permissions</source>
@@ -5289,7 +5287,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+F3</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+F3</translation>
     </message>
     <message>
         <source>&amp;Channel Groups</source>
@@ -5341,7 +5339,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+I</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+I</translation>
     </message>
     <message>
         <source>&amp;ServerQuery Login</source>
@@ -5377,7 +5375,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+Shift+R</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+R</translation>
     </message>
     <message>
         <source>Stop &amp;Recording</source>
@@ -5389,7 +5387,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+Shift+T</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+T</translation>
     </message>
     <message>
         <source>Status Bar</source>
@@ -5405,7 +5403,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+O</translation>
     </message>
     <message>
         <source>Toggle channel subscribe mode</source>
@@ -5421,7 +5419,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+Shift+B</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+B</translation>
     </message>
     <message>
         <source>Complaints List</source>
@@ -5501,7 +5499,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+Shift+W</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+W</translation>
     </message>
     <message>
         <source>&amp;Whisper History</source>
@@ -5513,7 +5511,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+Shift+H</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+H</translation>
     </message>
     <message>
         <source>&amp;Invite Buddy</source>
@@ -5785,7 +5783,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Alt+P</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+P</translation>
     </message>
     <message>
         <source>No valid entry selected</source>
@@ -6185,35 +6183,35 @@ Current: %1</source>
     </message>
     <message>
         <source>Whisper list empty</source>
-        <translation>Список шептунов пуст</translation>
+        <translation>Список шепталок пуст</translation>
     </message>
     <message>
         <source>No whisper target found</source>
-        <translation>Объект для шепота не найден</translation>
+        <translation>Слушатель шепталки не найден</translation>
     </message>
     <message>
         <source>Too many whisper targets</source>
-        <translation>Слишком много целей для шептания</translation>
+        <translation>Слишком много целей шептания</translation>
     </message>
     <message>
         <source>Incoming whisper</source>
-        <translation>Получаю шепталку</translation>
+        <translation>Шепталка</translation>
     </message>
     <message>
         <source>Mic clicks other off</source>
-        <translation type="unfinished"></translation>
+        <translation>Звук рации других клиентов выключен</translation>
     </message>
     <message>
         <source>Mic clicks other on</source>
-        <translation type="unfinished"></translation>
+        <translation>Звук рации других клиентов включен (Пшшт)</translation>
     </message>
     <message>
         <source>Mic click self off</source>
-        <translation type="unfinished"></translation>
+        <translation>Звук своей рации выключен</translation>
     </message>
     <message>
         <source>Mic click self on</source>
-        <translation type="unfinished"></translation>
+        <translation>Звук своей рации включен (Пшшт)</translation>
     </message>
     <message>
         <source>3D test sound</source>
@@ -6355,15 +6353,15 @@ Current: %1</source>
     </message>
     <message>
         <source>Ctrl+N</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+N</translation>
     </message>
     <message>
         <source>Ctrl+R</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+R</translation>
     </message>
     <message>
         <source>F5</source>
-        <translation type="unfinished"></translation>
+        <translation>F5</translation>
     </message>
     <message>
         <source>&lt;no Subject&gt;</source>
@@ -6640,8 +6638,8 @@ Do you want to cancel?</source>
 <context>
     <name>PermGroupCopyDialog</name>
     <message>
-        <source>Целевое имя:</source>
-        <translation></translation>
+        <source>Target &amp;Name:</source>
+        <translation>Целевое имя:</translation>
     </message>
     <message>
         <source>Target &amp;group:</source>
@@ -11304,7 +11302,7 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>/Knowledgebase/Article/View/324/16/how-do-i-add-or-remove-my-server-from-the-server-list</source>
-        <translation type="unfinished"></translation>
+        <translation>/Knowledgebase/Article/View/324/16/how-do-i-add-or-remove-my-server-from-the-server-list</translation>
     </message>
     <message>
         <source>Requesting serverlist</source>
@@ -12639,7 +12637,7 @@ Do you really want to delete?</source>
     </message>
     <message>
         <source> in </source>
-        <translation></translation>
+        <translation> </translation>
     </message>
     <message>
         <source>All Channels</source>
@@ -13112,8 +13110,8 @@ Once used, the privilege key will become invalid.</source>
 <context>
     <name>downloadSetupDialog</name>
     <message>
-        <source>Каталог загрузки</source>
-        <translation></translation>
+        <source>Download Location</source>
+        <translation>Каталог загрузки</translation>
     </message>
     <message>
         <source>Download Folder:</source>
