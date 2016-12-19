@@ -45,11 +45,11 @@
     <name>AccountCreateDialog</name>
     <message>
         <source>Create My TeamSpeak Account</source>
-        <translation>Создать аккаунт TeamSpeak</translation>
+        <translation>Создание аккаунта TeamSpeak</translation>
     </message>
     <message>
         <source>Verify Password:</source>
-        <translation>Повтор пароля:</translation>
+        <translation>Пароль подтверждения:</translation>
     </message>
     <message>
         <source>Email Address:</source>
@@ -116,7 +116,7 @@
     </message>
     <message>
         <source>Continue without logging in</source>
-        <translation>Продолжить без подключения</translation>
+        <translation>Продолжить без входа</translation>
     </message>
     <message>
         <source>Create Account</source>
@@ -377,15 +377,15 @@ The maximum allowed file size is %1 kB.</source>
     <name>BanAddDialog</name>
     <message>
         <source>&amp;IP:</source>
-        <translation>&amp;IP:</translation>
+        <translation>IP:</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation>&amp;Имя:</translation>
+        <translation>Имя:</translation>
     </message>
     <message>
         <source>&amp;Interpret IP/Name as:</source>
-        <translation>&amp;Тип IP/Имени:</translation>
+        <translation>Тип IP/имени:</translation>
     </message>
     <message>
         <source>Wildcard ipv4</source>
@@ -405,7 +405,7 @@ The maximum allowed file size is %1 kB.</source>
     </message>
     <message>
         <source>&amp;Unique ID:</source>
-        <translation>&amp;Уникальный ID:</translation>
+        <translation>Уникальный идентификатор (UID):</translation>
     </message>
     <message>
         <source>Reason:</source>
@@ -421,7 +421,7 @@ The maximum allowed file size is %1 kB.</source>
     </message>
     <message>
         <source>&amp;Duration:</source>
-        <translation>&amp;Время:</translation>
+        <translation>Время:</translation>
     </message>
     <message>
         <source>seconds</source>
@@ -500,7 +500,7 @@ The maximum allowed file size is %1 kB.</source>
     </message>
     <message>
         <source>&amp;Duration:</source>
-        <translation>&amp;Время:</translation>
+        <translation>Время:</translation>
     </message>
     <message>
         <source>seconds</source>
@@ -531,7 +531,7 @@ The maximum allowed file size is %1 kB.</source>
     <name>BanList</name>
     <message>
         <source>Add new ban&lt;br&gt;(Ctrl+N)</source>
-        <translation>Добавить Бан&lt;br&gt;(Ctrl+N)</translation>
+        <translation>Добавить бан&lt;br&gt;(Ctrl+N)</translation>
     </message>
     <message>
         <source>Add</source>
@@ -637,11 +637,11 @@ Inserting a modified copy instead.</source>
     </message>
     <message>
         <source>Ban List - %1</source>
-        <translation>Список Банов - %1</translation>
+        <translation>Список банов - %1</translation>
     </message>
     <message>
         <source>Ban List</source>
-        <translation>Список Банов</translation>
+        <translation>Список банов</translation>
     </message>
     <message>
         <source>Delete bans</source>
@@ -704,7 +704,7 @@ for example: voice.teamspeak.com:9987</source>
     </message>
     <message>
         <source>&amp;Identity:</source>
-        <translation>ID:</translation>
+        <translation>Идентификатор:</translation>
     </message>
     <message>
         <source>Identity to use when connecting to the server</source>
@@ -716,15 +716,15 @@ for example: voice.teamspeak.com:9987</source>
     </message>
     <message>
         <source>Server &amp;Password:</source>
-        <translation>Пароль подключения:</translation>
+        <translation>Пароль сервера:</translation>
     </message>
     <message>
         <source>Server password (optional)</source>
-        <translation>Пароль подключения (не обязательно)</translation>
+        <translation>Пароль для подключения к серверу (не обязательно)</translation>
     </message>
     <message>
         <source>Join this channel on login (optional)</source>
-        <translation>При подключении, перейти в данный канал (не обязательно):</translation>
+        <translation>При подключении, перейти в данный канал (не обязательно)</translation>
     </message>
     <message>
         <source>Make current channel the default channel</source>
@@ -841,7 +841,7 @@ servers will not be cleared.</source>
     </message>
     <message>
         <source>No files deleted</source>
-        <translation>Не один файл не пострадал (нечего удалять)</translation>
+        <translation>Ни один файл не удален</translation>
     </message>
 </context>
 <context>
@@ -892,7 +892,7 @@ servers will not be cleared.</source>
     </message>
     <message>
         <source>Delete Hotkeys...</source>
-        <translation>Удалить горячие клавиши...</translation>
+        <translation>Удаление горячих клавиш...</translation>
     </message>
     <message>
         <source>Capture Profile &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt; has been deleted.&lt;p&gt;Do you want to delete every Hotkey assigned to this profile as well?&lt;/p&gt;</source>
@@ -918,7 +918,7 @@ servers will not be cleared.</source>
     <name>ChangeAccountPasswordDialog</name>
     <message>
         <source>Change Password</source>
-        <translation>Изменить Пароль</translation>
+        <translation>Изменение пароля</translation>
     </message>
     <message>
         <source>&amp;New Password:</source>
@@ -971,7 +971,7 @@ servers will not be cleared.</source>
     </message>
     <message>
         <source>Enter new password:</source>
-        <translation>Новый пароль:</translation>
+        <translation>Пароль:</translation>
     </message>
     <message>
         <source>Re-enter password:</source>
@@ -1462,7 +1462,7 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>Hide passwords</source>
-        <translation>Скрывать пароли</translation>
+        <translation>Скрыть пароли</translation>
     </message>
     <message>
         <source>Try to apply decision to all collisions</source>
@@ -1667,7 +1667,7 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>%1/s</source>
-        <translation>%1/s</translation>
+        <translation>%1/с</translation>
     </message>
     <message>
         <source>Speech</source>
@@ -2499,7 +2499,11 @@ to chose lower values.</source>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Don&apos;t show again</source>
@@ -3444,7 +3448,12 @@ p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt; color:#aa0000;&quot;&gt;You are about to transfer a large amount of files!&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt; color:#aa0000;&quot;&gt;We suggest to combine the files using a compressor...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt; color:#aa0000;&quot;&gt;Вы собираетесь загрузить множество файлов!&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt; color:#aa0000;&quot;&gt;Мы советуем сжать их в один архив...&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Autostart when ready</source>
@@ -4034,7 +4043,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Press hotkey combination.
 (ESC to cancel)</source>
-        <translation>Введите комбинацию горячей клавиши.
+        <translation>Введите комбинацию клавиш.
 (ESC для отмены)</translation>
     </message>
     <message>
@@ -4055,11 +4064,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Expand Group</source>
-        <translation>Раскрыть Группу</translation>
+        <translation>Раскрыть группу</translation>
     </message>
     <message>
         <source>Collapse Group</source>
-        <translation>Свернуть Группу</translation>
+        <translation>Свернуть группу</translation>
     </message>
     <message>
         <source>Expand to depth</source>
@@ -4122,7 +4131,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Press hotkey combination.
 (ESC to cancel or to clear the hotkey)</source>
-        <translation>Нажмите комбинацию клавиш.
+        <translation>Введите комбинацию клавиш.
 (ESC для отмены)</translation>
     </message>
     <message>
@@ -4149,11 +4158,11 @@ p, li { white-space: pre-wrap; }
     <name>HotkeyTableWidget</name>
     <message>
         <source>Edit Hotkey</source>
-        <translation>Изменить гор. клавишу</translation>
+        <translation>Изменить горячую клавишу</translation>
     </message>
     <message>
         <source>Delete Hotkey</source>
-        <translation>Удалить гор. клавишу</translation>
+        <translation>Удалить горячую клавишу</translation>
     </message>
 </context>
 <context>
@@ -4161,7 +4170,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Profile Details</source>
         <comment>Dummy text, no need to translate</comment>
-        <translation>Опции Профиля</translation>
+        <translation>Опции профиля</translation>
     </message>
     <message>
         <source>Hotkey</source>
@@ -4177,7 +4186,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>&amp;Добавить</translation>
+        <translation>Добавить</translation>
     </message>
     <message>
         <source>Remove selected hotkey</source>
@@ -4193,11 +4202,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation>&amp;Изменить</translation>
+        <translation>Изменить</translation>
     </message>
     <message>
         <source>Hotkey System</source>
-        <translation>Горячие клавиши (система)</translation>
+        <translation>Горячая клавиша (система)</translation>
     </message>
     <message>
         <source>Hotkeys</source>
@@ -4269,7 +4278,7 @@ it from your Applications folder.</source>
         <source>To be able to use hotkeys on Mac, you need to open the System preferences
 &quot;Universal Access&quot; page and make sure &quot;Enable access for assistive devices&quot;
 is turned on.</source>
-        <translation>Чтобы использовать горячие клавиши на MacOs вам необходимо открыть
+        <translation>Чтобы использовать горячие клавиши в MacOs вам необходимо открыть
 настройки системы, вкладку Универсального доступа и убедиться что есть доступ к
 вспомогательным устройствам.</translation>
     </message>
@@ -4290,7 +4299,7 @@ is turned on.</source>
 Proceeding will also delete the combined key as well!
 
 Do you want to proceed?</source>
-        <translation>Результат выделения содержит автосгенерированные комбинации.
+        <translation>Результат выделения содержит автоматически созданные комбинации.
 Если продолжить, то они также будут удалены!
 
 Продолжить?</translation>
@@ -4308,7 +4317,7 @@ Do you want to proceed?</source>
     </message>
     <message>
         <source>Upload</source>
-        <translation>Загрузка на серв</translation>
+        <translation>Загрузка на сервер</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -4680,11 +4689,11 @@ You need to improve your identity security level.&lt;/span&gt;</source>
     </message>
     <message>
         <source>Speakers/Headphones Disabled</source>
-        <translation>Динамики отключены</translation>
+        <translation>Динамик отключен</translation>
     </message>
     <message>
         <source>Speakers/Headphones Muted</source>
-        <translation>Динамики приглушены</translation>
+        <translation>Динамик заглушен</translation>
     </message>
     <message>
         <source>Microphone Disabled</source>
@@ -4692,11 +4701,11 @@ You need to improve your identity security level.&lt;/span&gt;</source>
     </message>
     <message>
         <source>Microphone Muted</source>
-        <translation>Микрофон приглушен</translation>
+        <translation>Микрофон заглушен</translation>
     </message>
     <message>
         <source>Local Muted</source>
-        <translation>Приглушен локально</translation>
+        <translation>Заглушен локально</translation>
     </message>
     <message>
         <source>Custom nickname:</source>
@@ -6760,7 +6769,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Channel Groups</source>
-        <translation>Группы канала</translation>
+        <translation>Группы каналов</translation>
     </message>
     <message>
         <source>Channel Client</source>
@@ -6815,7 +6824,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>No permissions to display clients inside this group.</source>
-        <translation>Недостаточно полномочий чтобы смотреть клиентов этой группы.</translation>
+        <translation>Недостаточно полномочий для просмотра клиентов этой группы.</translation>
     </message>
     <message>
         <source>Clients which are not in any other group are automatically inside this group.</source>
@@ -7149,7 +7158,7 @@ Would you like to create an invitation instead?</source>
     </message>
     <message>
         <source>Channel Groups</source>
-        <translation>Группы канала</translation>
+        <translation>Группы каналов</translation>
     </message>
     <message>
         <source>Channel Client Permissions</source>
@@ -7354,7 +7363,7 @@ Would you like to create an invitation instead?</source>
     </message>
     <message>
         <source>Host message</source>
-        <translation>Оставить сообщение</translation>
+        <translation>Сообщение от сервера</translation>
     </message>
     <message numerus="yes">
         <source>%n year(s)</source>
@@ -7692,14 +7701,14 @@ If you start without decrypting, all of your locally stored sync items will be d
     </message>
     <message>
         <source>Configure Security</source>
-        <translation>Настроить безопасность</translation>
+        <translation>Настройки безопасности</translation>
     </message>
     <message>
         <source>Saving channel passwords to your computer might pose a security risk.
 The passwords are saved to a file, which might be compromised if anyone gets access to it.
 If you do not trust everybody who uses your computer, this option should not be enabled.</source>
         <translation>При сохранении паролей локально на компьютере, возможны риски.
-Пароли записываются в файл, который может быть просмотрен другими пользователями.
+Пароли записываются в файл, который, возможно, может быть просмотрен другими пользователями.
 Если вы не доверяете этим пользователям, не включайте эту опцию</translation>
     </message>
     <message>
@@ -11772,7 +11781,7 @@ Useful for servers with a lot of channels and clients.</source>
     <name>awayDialog</name>
     <message>
         <source>Set Away Message</source>
-        <translation>Задать текст статуса AFK</translation>
+        <translation>Задать текст для статуса AFK</translation>
     </message>
     <message>
         <source>Message:</source>
@@ -13314,237 +13323,237 @@ Once used, the privilege key will become invalid.</source>
     <name>playbackSoundSetupDialog</name>
     <message>
         <source>Profile Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки профиля</translation>
     </message>
     <message>
         <source>Playback Mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим воспроизведения:</translation>
     </message>
     <message>
         <source>Playback Device:</source>
-        <translation type="unfinished"></translation>
+        <translation>Устройство воспроизведения:</translation>
     </message>
     <message>
         <source>Play a sound to test your playback settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Воспроизвести тестовый звук</translation>
     </message>
     <message>
         <source>Mono Sound Expansion</source>
-        <translation type="unfinished"></translation>
+        <translation>Расширение моно-звучания</translation>
     </message>
     <message>
         <source>Mono to stereo</source>
-        <translation type="unfinished"></translation>
+        <translation>Преобразовать моно в стерео</translation>
     </message>
     <message>
         <source>Mono to center speaker (if available)</source>
-        <translation type="unfinished"></translation>
+        <translation>Вывести моно-звук на центральный динамик (если возможно)</translation>
     </message>
     <message>
         <source>Mono to surround (if available)</source>
-        <translation type="unfinished"></translation>
+        <translation>Преобразовать моно в объемный звук (если возможно)</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Опции</translation>
     </message>
     <message>
         <source>Always set clients 3D positions when available</source>
-        <translation type="unfinished"></translation>
+        <translation>Всегда определять позицию слушателя для объемного звучания</translation>
     </message>
     <message>
         <source>Own client plays mic clicks</source>
-        <translation type="unfinished"></translation>
+        <translation>Воспроизводить звук своей рации при активации микрофона</translation>
     </message>
     <message>
         <source>Other clients play mic clicks</source>
-        <translation type="unfinished"></translation>
+        <translation>Воспроизводить звук рации других клиентов</translation>
     </message>
 </context>
 <context>
     <name>securitySetupDialog</name>
     <message>
         <source>Passwords</source>
-        <translation type="unfinished"></translation>
+        <translation>Пароли</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p style=&apos;white-space:pre&apos;&gt;Save channel passwords to your computer.&lt;BR/&gt;This might pose a security risk if anyone can access the passwords file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p style=&apos;white-space:pre&apos;&gt;Сохранение паролей каналов на вашем компьютере.&lt;BR/&gt;Возможна угроза безопасности, если другие пользователи компьютера прочитают файл с паролями.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Save channel passwords</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранять пароли каналов</translation>
     </message>
     <message>
         <source>Clear Channel Passwords</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить пароли каналов</translation>
     </message>
     <message>
         <source>Use a master password</source>
-        <translation type="unfinished"></translation>
+        <translation>Использовать мастер-пароль</translation>
     </message>
     <message>
         <source>Change Master Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить мастер-пароль</translation>
     </message>
     <message>
         <source>Cleanup</source>
-        <translation type="unfinished"></translation>
+        <translation>Зачистки</translation>
     </message>
     <message>
         <source>Clear cache when client closes</source>
-        <translation type="unfinished"></translation>
+        <translation>Удаление кэша при закрытии программы-клиента</translation>
     </message>
     <message>
         <source>Clear Cache on exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалять кэш при выходе</translation>
     </message>
     <message>
         <source>Clear collected URLs when client closes</source>
-        <translation type="unfinished"></translation>
+        <translation>Удаление собранных URL при закрытии программы-клиента</translation>
     </message>
     <message>
         <source>Clear URLs on exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалять собранные URL при выходе</translation>
     </message>
     <message>
         <source>Clear Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить кэш</translation>
     </message>
     <message>
         <source>Identities</source>
-        <translation type="unfinished"></translation>
+        <translation>Идентификаторы клиента</translation>
     </message>
     <message>
         <source>Manage user identities</source>
-        <translation type="unfinished"></translation>
+        <translation>Управление идентификаторами клиента</translation>
     </message>
     <message>
         <source>Identity Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Управление</translation>
     </message>
 </context>
 <context>
     <name>sound3Dwidget</name>
     <message>
         <source>3D Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Объемный звук</translation>
     </message>
     <message>
         <source>Select Client</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать клиента</translation>
     </message>
     <message>
         <source>x: 0</source>
-        <translation type="unfinished"></translation>
+        <translation>x: 0</translation>
     </message>
     <message>
         <source>y: 0</source>
-        <translation type="unfinished"></translation>
+        <translation>y: 0</translation>
     </message>
     <message>
         <source>z: 0</source>
-        <translation type="unfinished"></translation>
+        <translation>z: 0</translation>
     </message>
     <message>
         <source>Add Channel Commander</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить ефрейтора канала</translation>
     </message>
     <message>
         <source>Add Server Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить группу сервера</translation>
     </message>
     <message>
         <source>Add Channel Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить группу каналов</translation>
     </message>
     <message>
         <source>Arrange Clients</source>
-        <translation type="unfinished"></translation>
+        <translation>Упорядочить клиентов</translation>
     </message>
     <message>
         <source>Center Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Центрировать выбранных</translation>
     </message>
     <message>
         <source>Center All</source>
-        <translation type="unfinished"></translation>
+        <translation>Центрировать все</translation>
     </message>
     <message>
         <source>All Around Me</source>
-        <translation type="unfinished"></translation>
+        <translation>Вокруг меня</translation>
     </message>
     <message>
         <source>Radius</source>
-        <translation type="unfinished"></translation>
+        <translation>Радиус</translation>
     </message>
     <message>
         <source>Angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Угол</translation>
     </message>
     <message>
         <source>Test Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Тестовый режим</translation>
     </message>
     <message>
         <source>Add Test User</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить тестового пользователя</translation>
     </message>
     <message>
         <source>Rotate Radius</source>
-        <translation type="unfinished"></translation>
+        <translation>Вращение радиуса</translation>
     </message>
     <message>
         <source>Rotate Around Oneself</source>
-        <translation type="unfinished"></translation>
+        <translation>Вращать себя</translation>
     </message>
     <message>
         <source>Rotate Around Me</source>
-        <translation type="unfinished"></translation>
+        <translation>Вращать вокруг себя</translation>
     </message>
     <message>
         <source>Rotate Around Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Вращать вокруг центра</translation>
     </message>
     <message>
         <source>Selected only</source>
-        <translation type="unfinished"></translation>
+        <translation>Только выбранных</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Всех</translation>
     </message>
     <message>
         <source>Clockwise</source>
-        <translation type="unfinished"></translation>
+        <translation>По часовой стрелке</translation>
     </message>
     <message>
         <source>Counterclockwise</source>
-        <translation type="unfinished"></translation>
+        <translation>Против часовой стрелки</translation>
     </message>
     <message>
         <source>Start Rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Начать вращение</translation>
     </message>
     <message>
         <source>Stop Rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Остановить вращение</translation>
     </message>
     <message>
         <source>Toggle borders</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключение границ</translation>
     </message>
     <message>
         <source>Play test sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Воспроизвести тестовый звук</translation>
     </message>
     <message>
         <source>Enable 3D sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Включить объемный звук</translation>
     </message>
     <message>
         <source>Disband overlapping text</source>
-        <translation type="unfinished"></translation>
+        <translation>Скрывать пересекающийся текст</translation>
     </message>
 </context>
 </TS>
