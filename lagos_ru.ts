@@ -5564,7 +5564,7 @@ Current: %1</source>
     </message>
     <message>
         <source>S&amp;elf</source>
-        <translation>[[[ Я ]]]</translation>
+        <translation>&lt;&lt;[   Я   ]&gt;&gt;</translation>
     </message>
     <message>
         <source>Per&amp;missions</source>
