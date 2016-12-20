@@ -1,63 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="ru_RU">
 <context>
     <name>PermI18n</name>
     <message>
         <source>b_serverinstance_help_view</source>
-        <translation type="unfinished"></translation>
+        <translation>ServerQuery: Отображение справки</translation>
     </message>
     <message>
         <source>b_serverinstance_help_view_long</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Позволяет использовать команду &quot;&lt;b&gt;help&lt;/b&gt;&quot;.&lt;/p&gt;Которая предоставляет информацию о коммандах ServerQuery. Без параметров, &quot;&lt;b&gt;help&lt;/b&gt;&quot; выводит список комманд с кратким описанием каждой.&lt;p style=&apos;white-space:pre&apos;&gt;Для подробной информации, выполните комманду &quot;&lt;b&gt;help&lt;/b&gt;&quot;
+или обратитесь к руководству ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_serverinstance_version_view</source>
-        <translation type="unfinished"></translation>
+        <translation>ServerQuery: Отображение информации о версии сервера</translation>
     </message>
     <message>
         <source>b_serverinstance_version_view_long</source>
-        <translation type="unfinished"></translation>
+        <translation>Позволяет использовать команду &quot;&lt;b&gt;version&lt;/b&gt;&quot;.&lt;br&gt;&lt;br&gt; которая отображает версию сервера, а также платформу и номер сборки.
+&lt;p style=&apos;white-space:pre&apos;&gt;Для подробной информации, выполните комманду &quot;&lt;b&gt;help version&lt;/b&gt;&quot;
+или обратитесь к руководству ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_serverinstance_info_view</source>
-        <translation type="unfinished"></translation>
+        <translation>ServerQuery: Отображение подробной информации о сервере</translation>
     </message>
     <message>
         <source>b_serverinstance_info_view_long</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Позволяет использовать команды &quot;&lt;b&gt;hostinfo&lt;/b&gt;&quot; и &quot;&lt;b&gt;instanceinfo&lt;/b&gt;&quot;.&lt;/p&gt;
+&quot;&lt;b&gt;hostinfo&lt;/b&gt;&quot; - выводит справку о сервере, в том числе время его работы, число виртуальных серверов, информацию о трафике и т.д.&lt;br&gt;&lt;br&gt;
+&quot;&lt;b&gt;instanceinfo&lt;/b&gt;&quot; - выводит справку о конфигурации сервера, номер версии базы данных, порт для файловых загрузок, идентификаторы группы и т.д.
+&lt;p style=&apos;white-space:pre&apos;&gt;Для подробной информации, введите команду &quot;&lt;b&gt;help hostinfo&lt;/b&gt;&quot;
+или обратитесь к руководству ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_serverinstance_virtualserver_list</source>
-        <translation type="unfinished"></translation>
+        <translation>ServerQuery: Отображение списка виртуальных серверов</translation>
     </message>
     <message>
         <source>b_serverinstance_virtualserver_list_long</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Позволяет использовать команду &quot;&lt;b&gt;serverlist&lt;/b&gt;&quot;.&lt;/p&gt;, которая выводит список виртуальных серверов, включая их ID, статус, число клиентов онлайн и т.д.
+&lt;p style=&apos;white-space:pre&apos;&gt;Для подробной информации, введите команду &quot;&lt;b&gt;help serverlist&lt;/b&gt;&quot;
+или обратитесь к руководству ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_serverinstance_binding_list</source>
-        <translation type="unfinished"></translation>
+        <translation>ServerQuery: Отображение IP-адресов сервера</translation>
     </message>
     <message>
         <source>b_serverinstance_binding_list_long</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Позволяет использовать команду &quot;&lt;b&gt;bindinglist&lt;/b&gt;&quot;.&lt;/p&gt;, которая выводит список IP-адресов сервера со множественной адресацией.
+&lt;p style=&apos;white-space:pre&apos;&gt;Для подробной информации, введите команду &quot;&lt;b&gt;help bindinglist&lt;/b&gt;&quot;
+или обратитесь к руководству ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_serverinstance_permission_list</source>
-        <translation type="unfinished"></translation>
+        <translation>ServerQuery: Отображение привилегий</translation>
     </message>
     <message>
         <source>b_serverinstance_permission_list_long</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Позволяет использовать команду &quot;&lt;b&gt;permissionlist&lt;/b&gt;&quot;.&lt;/p&gt;, которая выводит список привилегий на сервере, включая ID, имя и описание.
+&lt;p style=&apos;white-space:pre&apos;&gt;Для подробной информации, введите команду &quot;&lt;b&gt;help permissionlist&lt;/b&gt;&quot;
+или обратитесь к руководству ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_serverinstance_permission_find</source>
-        <translation type="unfinished"></translation>
+        <translation>ServerQuery: Поиск предоставленных привилегий</translation>
     </message>
     <message>
         <source>b_serverinstance_permission_find_long</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Позволяет использовать команду &quot;&lt;b&gt;permfind&lt;/b&gt;&quot;.&lt;/p&gt;, которая выводит информацию о предоставленной привилегии - &lt;i&gt;permid&lt;/i&gt; или &lt;i&gt;permsid&lt;/i&gt;.
+&lt;p style=&apos;white-space:pre&apos;&gt;Для подробной информации, введите команду &quot;&lt;b&gt;help permfind&lt;/b&gt;&quot;
+или обратитесь к руководству ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_virtualserver_create</source>
