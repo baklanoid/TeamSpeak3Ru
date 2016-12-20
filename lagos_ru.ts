@@ -11660,7 +11660,7 @@ Hint: Hold down SHIFT if you want to add channels recursively</source>
     </message>
     <message>
         <source>Reset Confirmations</source>
-        <translation>Сброс</translation>
+        <translation>Сбросить</translation>
     </message>
     <message>
         <source>Anonymous Statistics</source>
@@ -11781,7 +11781,7 @@ Useful for servers with a lot of channels and clients.</source>
     <name>awayDialog</name>
     <message>
         <source>Set Away Message</source>
-        <translation>Задать текст для статуса AFK</translation>
+        <translation>Текст AFK статуса</translation>
     </message>
     <message>
         <source>Message:</source>
