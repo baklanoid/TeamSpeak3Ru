@@ -5,7 +5,7 @@
     <name>PermI18n</name>
     <message>
         <source>b_serverinstance_help_view</source>
-        <translation>ServerQuery: Отображение справки</translation>
+        <translation>Отображение справки</translation>
     </message>
     <message>
         <source>b_serverinstance_help_view_long</source>
@@ -14,7 +14,7 @@
     </message>
     <message>
         <source>b_serverinstance_version_view</source>
-        <translation>ServerQuery: Отображение информации о версии сервера</translation>
+        <translation>Отображение информации о версии сервера</translation>
     </message>
     <message>
         <source>b_serverinstance_version_view_long</source>
@@ -24,7 +24,7 @@
     </message>
     <message>
         <source>b_serverinstance_info_view</source>
-        <translation>ServerQuery: Отображение подробной информации о сервере</translation>
+        <translation>Отображение подробной информации о сервере</translation>
     </message>
     <message>
         <source>b_serverinstance_info_view_long</source>
@@ -36,7 +36,7 @@
     </message>
     <message>
         <source>b_serverinstance_virtualserver_list</source>
-        <translation>ServerQuery: Отображение списка виртуальных серверов</translation>
+        <translation>Отображение списка виртуальных серверов</translation>
     </message>
     <message>
         <source>b_serverinstance_virtualserver_list_long</source>
@@ -46,7 +46,7 @@
     </message>
     <message>
         <source>b_serverinstance_binding_list</source>
-        <translation>ServerQuery: Отображение IP-адресов сервера</translation>
+        <translation>Отображение IP-адресов сервера</translation>
     </message>
     <message>
         <source>b_serverinstance_binding_list_long</source>
@@ -56,7 +56,7 @@
     </message>
     <message>
         <source>b_serverinstance_permission_list</source>
-        <translation>ServerQuery: Отображение привилегий</translation>
+        <translation>Отображение привилегий</translation>
     </message>
     <message>
         <source>b_serverinstance_permission_list_long</source>
@@ -66,7 +66,7 @@
     </message>
     <message>
         <source>b_serverinstance_permission_find</source>
-        <translation>ServerQuery: Поиск предоставленных привилегий</translation>
+        <translation>Поиск предоставленных привилегий</translation>
     </message>
     <message>
         <source>b_serverinstance_permission_find_long</source>
@@ -76,123 +76,145 @@
     </message>
     <message>
         <source>b_virtualserver_create</source>
-        <translation type="unfinished"></translation>
+        <translation>Создание виртуального сервера</translation>
     </message>
     <message>
         <source>b_virtualserver_create_long</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Позволяет использовать команду &quot;&lt;b&gt;servercreate&lt;/b&gt;&quot;.&lt;/p&gt;, которая создает виртуальный сервер с заданными свойствами. Кроме ID (идентификатора) и порта, отображается ключ доступа, который может быть использован для получения полного доступа.
+&lt;p style=&apos;white-space:pre&apos;&gt;Для подробной информации, введите команду &quot;&lt;b&gt;help servercreate&lt;/b&gt;&quot;
+или обратитесь к руководству ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_virtualserver_delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Удаление виртуального сервера</translation>
     </message>
     <message>
         <source>b_virtualserver_delete_long</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Позволяет использовать команду &quot;&lt;b&gt;serverdelete&lt;/b&gt;&quot;.&lt;/p&gt;, которая удаляет виртуальный сервер, заданный параметром &lt;i&gt;sid&lt;/i&gt;. Только остановленные виртуальные серверы могут быть удалены.
+&lt;p style=&apos;white-space:pre&apos;&gt;Для подробной информации, введите команду &quot;&lt;b&gt;help serverdelete&lt;/b&gt;&quot;
+или обратитесь к руководству ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_virtualserver_start_any</source>
-        <translation type="unfinished"></translation>
+        <translation>Запуск виртуальных серверов</translation>
     </message>
     <message>
         <source>b_virtualserver_start_any_long</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Позволяет использовать команду &quot;&lt;b&gt;serverstart&lt;/b&gt;&quot;.&lt;/p&gt;, которая запускает все серверные потоки (виртуальные серверы) на машине сервера.
+&lt;p style=&apos;white-space:pre&apos;&gt;Для подробной информации, введите команду &quot;&lt;b&gt;help serverstart&lt;/b&gt;&quot;
+или обратитесь к руководству ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_virtualserver_stop_any</source>
-        <translation type="unfinished"></translation>
+        <translation>Остановка виртуальных серверов</translation>
     </message>
     <message>
         <source>b_virtualserver_stop_any_long</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Позволяет использовать команду &quot;&lt;b&gt;serverstop&lt;/b&gt;&quot;.&lt;/p&gt;, которая останавливает все серверные потоки на машине сервера.
+&lt;p style=&apos;white-space:pre&apos;&gt;Для подробной информации, введите команду &quot;&lt;b&gt;help serverstop&lt;/b&gt;&quot;
+или обратитесь к руководству ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_virtualserver_change_machine_id</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменение идентификатора (ID) виртуального сервера (потока)</translation>
     </message>
     <message>
         <source>b_virtualserver_change_machine_id_long</source>
-        <translation type="unfinished"></translation>
+        <translation>Разрешает изменение идентификатора виртуального сервера. Идентификатор используется для адресации каждого потока в процессе сервера.</translation>
     </message>
     <message>
         <source>b_virtualserver_change_template</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменение шаблона настроек виртуального сервера</translation>
     </message>
     <message>
         <source>b_virtualserver_change_template_long</source>
-        <translation type="unfinished"></translation>
+        <translation>Позволяет изменить шаблон на основе которого создаются виртуальные серверы.</translation>
     </message>
     <message>
         <source>b_serverquery_login</source>
-        <translation type="unfinished"></translation>
+        <translation>Авторизация при помощи ServerQuery</translation>
     </message>
     <message>
         <source>b_serverquery_login_long</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Позволяет использовать команду &quot;&lt;b&gt;login&lt;/b&gt;&quot;.&lt;/p&gt;, которая позволяет выполнить авторизацию внутри процесса сервера с помощью команды ServerQuery, используя имя и пароль.
+&lt;p style=&apos;white-space:pre&apos;&gt;Для подробной информации, введите команду &quot;&lt;b&gt;help login&lt;/b&gt;&quot;
+или обратитесь к руководству ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_serverinstance_textmessage_send</source>
-        <translation type="unfinished"></translation>
+        <translation>Рассылка текстовых сообщений</translation>
     </message>
     <message>
         <source>b_serverinstance_textmessage_send_long</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Позволяет использовать команду &quot;&lt;b&gt;gm&lt;/b&gt;&quot;.&lt;/p&gt;, которая отправляет текстовое сообщение всем клиентам на всех виртуальных серверах.
+&lt;p style=&apos;white-space:pre&apos;&gt;Для подробной информации, введите команду &quot;&lt;b&gt;help gm&lt;/b&gt;&quot;
+или обратитесь к руководству ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_serverinstance_log_view</source>
-        <translation type="unfinished"></translation>
+        <translation>Просмотров логов сервера</translation>
     </message>
     <message>
         <source>b_serverinstance_log_view_long</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Позволяет использовать команду &quot;&lt;b&gt;logview&lt;/b&gt;&quot;.&lt;/p&gt;, которая в зависимости от ваших привилегий, возвращает указанное число логов от сервера.
+&lt;p style=&apos;white-space:pre&apos;&gt;Для подробной информации, введите команду &quot;&lt;b&gt;help logview&lt;/b&gt;&quot;
+или обратитесь к руководству ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_serverinstance_log_add</source>
-        <translation type="unfinished"></translation>
+        <translation>Запись логов сервера</translation>
     </message>
     <message>
         <source>b_serverinstance_log_add_long</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Позволяет использовать команду &quot;&lt;b&gt;logadd&lt;/b&gt;&quot;.&lt;/p&gt;, которая в зависимости от ваших привилегий, записывает особое сообщение в лог сервера.
+&lt;p style=&apos;white-space:pre&apos;&gt;Для подробной информации, введите команду &quot;&lt;b&gt;help logadd&lt;/b&gt;&quot;
+или обратитесь к руководству ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_serverinstance_stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Остановка сервера</translation>
     </message>
     <message>
         <source>b_serverinstance_stop_long</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Позволяет использовать команду &quot;&lt;b&gt;serverprocessstop&lt;/b&gt;&quot;.&lt;/p&gt;, которая останавливает процесс сервера на машине.
+&lt;p style=&apos;white-space:pre&apos;&gt;Для подробной информации, введите команду &quot;&lt;b&gt;help serverprocessstop&lt;/b&gt;&quot;
+или обратитесь к руководству ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_serverinstance_modify_settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменение настроек сервера</translation>
     </message>
     <message>
         <source>b_serverinstance_modify_settings_long</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Позволяет использовать команду &quot;&lt;b&gt;instanceedit&lt;b&gt;&quot;.&lt;/p&gt;, которая изменяет конфигурацию сервера.
+&lt;p style=&apos;white-space:pre&apos;&gt;Для подробной информации, введите команду &quot;&lt;b&gt;help instanceedit&lt;/b&gt;&quot;
+или обратитесь к руководству ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_serverinstance_modify_querygroup</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменение группы привилегий ServerQuery</translation>
     </message>
     <message>
         <source>b_serverinstance_modify_querygroup_long</source>
-        <translation type="unfinished"></translation>
+        <translation>Разрешает изменение привилегий группы ServerQuery.</translation>
     </message>
     <message>
         <source>b_serverinstance_modify_templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменение шаблона группы привилегий</translation>
     </message>
     <message>
         <source>b_serverinstance_modify_templates_long</source>
-        <translation type="unfinished"></translation>
+        <translation>Разрешает изменение шаблона группы привилегий</translation>
     </message>
     <message>
         <source>b_virtualserver_select</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>b_virtualserver_select_long</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Позволяет использовать команду &quot;&lt;b&gt;use&lt;/b&gt;&quot;.&lt;/p&gt;, которая выбирает виртуальный сервер в контекст для последующих комманд ServerQuery, для этого задается параметр &lt;i&gt;sid&lt;/i&gt; или &lt;i&gt;port&lt;/i&gt;.
+&lt;p style=&apos;white-space:pre&apos;&gt;Для подробной информации, введите команду &quot;&lt;b&gt;help use&lt;/b&gt;&quot;
+или обратитесь к руководству ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_virtualserver_info_view</source>
