@@ -8251,7 +8251,7 @@ Press Enter to apply filter.</source>
     </message>
     <message>
         <source>Trying to resolve hostname &lt;span class=&apos;TextMessage_HostName&apos;&gt;%1&lt;/span&gt;</source>
-        <translation>Определяю имя хоста &lt;span class=&apos;TextMessage_HostName&apos;&gt;%1&lt;/span&gt;</translation>
+        <translation>Определяю адрес сервера &lt;span class=&apos;TextMessage_HostName&apos;&gt;%1&lt;/span&gt;</translation>
     </message>
     <message>
         <source>No server</source>
@@ -8452,7 +8452,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Disconnected from server</source>
-        <translation>Отключились от сервера</translation>
+        <translation>Вы отключились от сервера</translation>
     </message>
     <message>
         <source>Connection to server lost</source>
@@ -8464,7 +8464,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Disconnected from server (%1)</source>
-        <translation>Отключились от сервера (%1)</translation>
+        <translation>Вы отключились от сервера (%1)</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -8480,7 +8480,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Connected to Server: %1</source>
-        <translation>Подключились к серверу: %1</translation>
+        <translation>Установлено подключение к серверу: %1</translation>
     </message>
     <message>
         <source>&lt;p&gt;This client version is outdated.&lt;/p&gt;&lt;p&gt;Do you want to check for updates now?&lt;/p&gt;</source>
@@ -8620,7 +8620,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>%1 disconnected %2</source>
-        <translation>%1 отключился от %2</translation>
+        <translation>%1 отключился %2</translation>
     </message>
     <message>
         <source>%1 appears, coming from channel %2</source>
@@ -9328,7 +9328,7 @@ Would you like to continue?</source>
     </message>
     <message>
         <source>Trying to connect to server on &lt;span class=&apos;TextMessage_HostName&apos;&gt;%1&lt;/span&gt;</source>
-        <translation>Подключаемся к серверу &lt;span class=&apos;TextMessage_HostName&apos;&gt;%1&lt;/span&gt;</translation>
+        <translation>Подключаюсь к серверу &lt;span class=&apos;TextMessage_HostName&apos;&gt;%1&lt;/span&gt;</translation>
     </message>
     <message>
         <source>You need to setup your identity.</source>
@@ -10665,7 +10665,7 @@ TeamSpeak будет закрыт если продолжить.</translation>
     </message>
     <message>
         <source>Needed Security Level:</source>
-        <translation>Требуемый уровень доступа:</translation>
+        <translation>Уровень безопасности:</translation>
     </message>
     <message>
         <source>Channel voice data encryption:</source>
@@ -10817,7 +10817,7 @@ TeamSpeak будет закрыт если продолжить.</translation>
     </message>
     <message>
         <source>&lt;p&gt;The required security level determines how long connecting users will have to improve their identity security level before their identity will be considered valid on to connect to this server, essentially reducing the potential for spam and abuse because once banned the abuser needs to invest a lot of time to create a new one.&lt;/p&gt;&lt;p&gt;Each increase in security level will require twice the average computation time on the client side. To give you a ballpark figure the average times to create an identity usually is within the following bounds:&lt;/p&gt;&lt;p&gt;Level 0-23 Generated in seconds&lt;br&gt;Level 23-29 Generated in minutes&lt;br&gt;Level 29-34 Generated in hours&lt;br&gt;Level 35-39 Generated in days&lt;br&gt;Level 40-43 Generated in months&lt;br&gt;Level 44++ Generated in years&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Требуемый уровень безопасности определяет как долго будут ожидать проверки их идентификатора и повышения уровня безопасности. Это, возможно, поможет в борьбе со спамом и нарушителями, так-как однажды забаненному пользователю придеться потратить больше времени для восстановления пежнего уровня.&lt;/p&gt;&lt;p&gt;Каждая еденица уровня безопасности требует в два раза больше времени для вычислений на стороне клиента. Чтобы дать представление об упомянутых интервалах, приведем примеры:&lt;/p&gt;&lt;p&gt;Уровни 0-23 проходятся за секунды&lt;br&gt;Уровни 23-29 за минуты&lt;br&gt;Уровни 29-34 за часы&lt;br&gt;Уровни 35-39 за дни&lt;br&gt;Уровни 40-43 обрабатываются месяцами&lt;br&gt;Уровень 44++ за годы&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Уровень безопасности определяет как долго будут ожидать проверки их идентификатора и повышения уровня безопасности. Это может помочь в борьбе со спамом и нарушителями, так-как однажды забаненному пользователю придеться потратить больше времени для восстановления прежнего уровня.&lt;/p&gt;&lt;p&gt;Каждая еденица уровня безопасности требует в два раза больше времени для вычислений на стороне клиента. Чтобы дать представление об упомянутых интервалах, приведем примеры:&lt;/p&gt;&lt;p&gt;Уровни 0-23 проходятся за секунды&lt;br&gt;Уровни 23-29 за минуты&lt;br&gt;Уровни 29-34 за часы&lt;br&gt;Уровни 35-39 за дни&lt;br&gt;Уровни 40-43 обрабатываются месяцами&lt;br&gt;Уровень 44++ за годы&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Unsaved Changes</source>
@@ -11345,7 +11345,7 @@ No changes have been written yet.</source>
     <name>WhisperDialog</name>
     <message>
         <source>Whisper Lists</source>
-        <translation>Список Шепота</translation>
+        <translation>Шепталки</translation>
     </message>
     <message>
         <source>Synchronized Whisperlists</source>
@@ -11577,7 +11577,7 @@ Hint: Hold down SHIFT if you want to add channels recursively</source>
     <name>WhisperSetup</name>
     <message>
         <source>Permissions for Received Whispers</source>
-        <translation>Привилегии для полученных шепталок</translation>
+        <translation>Привилегии входящих шепталок</translation>
     </message>
     <message>
         <source>Check individual whisper settings in contacts. If the client is not listed, allow whispering.</source>
@@ -11625,7 +11625,7 @@ Hint: Hold down SHIFT if you want to add channels recursively</source>
     </message>
     <message>
         <source>Whisper Lists</source>
-        <translation>Списки шепталок</translation>
+        <translation>Список шепталок</translation>
     </message>
 </context>
 <context>
@@ -12719,11 +12719,11 @@ Do you want to apply your changes?</source>
     <name>com::teamspeak::ui::WhisperSetup</name>
     <message>
         <source>Whisper</source>
-        <translation>Шёпот</translation>
+        <translation>Шептание</translation>
     </message>
     <message>
         <source>Configure Whispering</source>
-        <translation>Настройка шептания</translation>
+        <translation>Настройка шепталок</translation>
     </message>
 </context>
 <context>
