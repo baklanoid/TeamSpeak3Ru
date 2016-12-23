@@ -784,14 +784,18 @@ for example: voice.teamspeak.com:9987</source>
     </message>
     <message>
         <source>Add Bookmark</source>
-        <translation>Добавить Закладку</translation>
+        <translation>Добавить закладку</translation>
     </message>
     <message>
         <source>Add Folder</source>
-        <translation>Добавить Папку</translation>
+        <translation>Добавить каталог</translation>
     </message>
     <message>
         <source>Remove</source>
+        <translation>Удалить</translation>
+    </message>
+    <message>
+        <source>Delete</source>
         <translation>Удалить</translation>
     </message>
 </context>
@@ -5155,6 +5159,10 @@ Current: %1</source>
         <translation>Настройки</translation>
     </message>
     <message>
+        <source>&amp;Settings</source>
+        <translation>Настройки</translation>
+    </message>
+    <message>
         <source>Open options dialog</source>
         <translation>Открыть диалог настроек</translation>
     </message>
@@ -5208,7 +5216,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Visit TeamSpeak &amp;Webpage</source>
-        <translation>Посетить страницу TeamSpeak</translation>
+        <translation>Открыть страницу TeamSpeak</translation>
     </message>
     <message>
         <source>Visit the TeamSpeak webpage at www.TeamSpeak.com</source>
@@ -5224,11 +5232,15 @@ Current: %1</source>
     </message>
     <message>
         <source>Visit TeamSpeak &amp;Support Forum</source>
-        <translation>Форум поддержки TeamSpeak</translation>
+        <translation>Открыть форум</translation>
     </message>
     <message>
         <source>Visit the TeamSpeak support forum at forum.TeamSpeak.com</source>
         <translation>Открыть форум поддержки по адресу forum.TeamSpeak.com</translation>
+    </message>
+    <message>
+        <source>Visit TeamSpeak &amp;Tutorials</source>
+        <translation>Открыть учебник</translation>
     </message>
     <message>
         <source>&amp;Rent own TeamSpeak Server</source>
@@ -5500,7 +5512,7 @@ Current: %1</source>
     </message>
     <message>
         <source>&amp;Whisper Lists</source>
-        <translation>Список шепталок</translation>
+        <translation>Шепталки</translation>
     </message>
     <message>
         <source>Manage whisper lists</source>
@@ -6192,7 +6204,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Whisper list empty</source>
-        <translation>Список шепталок пуст</translation>
+        <translation>Список пуст</translation>
     </message>
     <message>
         <source>No whisper target found</source>
@@ -6200,7 +6212,7 @@ Current: %1</source>
     </message>
     <message>
         <source>Too many whisper targets</source>
-        <translation>Слишком много целей шептания</translation>
+        <translation>Слишком много адресатов шепталки</translation>
     </message>
     <message>
         <source>Incoming whisper</source>
@@ -11369,7 +11381,7 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>Whisper List Details</source>
-        <translation>Подробности шепталки</translation>
+        <translation>Опции</translation>
     </message>
     <message>
         <source>Whisper to:</source>
@@ -11625,7 +11637,7 @@ Hint: Hold down SHIFT if you want to add channels recursively</source>
     </message>
     <message>
         <source>Whisper Lists</source>
-        <translation>Список шепталок</translation>
+        <translation>Шепталки</translation>
     </message>
 </context>
 <context>
