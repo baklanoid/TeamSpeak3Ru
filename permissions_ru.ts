@@ -218,51 +218,61 @@
     </message>
     <message>
         <source>b_virtualserver_info_view</source>
-        <translation type="unfinished"></translation>
+        <translation>Просмотр информации о сервере</translation>
     </message>
     <message>
         <source>b_virtualserver_info_view_long</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Позволяет использовать команду &quot;&lt;b&gt;serverinfo&lt;/b&gt;&quot;.&lt;/p&gt;, которая выводит подробную информацию о заданном виртуальном сервере.
+&lt;p style=&apos;white-space:pre&apos;&gt;Для подробной информации, введите команду &quot;&lt;b&gt;help serverinfo&lt;/b&gt;&quot;
+или обратитесь к руководству ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_virtualserver_connectioninfo_view</source>
-        <translation type="unfinished"></translation>
+        <translation>Просмотр информации о подключении сервера</translation>
     </message>
     <message>
         <source>b_virtualserver_connectioninfo_view_long</source>
-        <translation type="unfinished"></translation>
+        <translation>Позволяет просматривать детали о подключении сервера.</translation>
     </message>
     <message>
         <source>b_virtualserver_channel_list</source>
-        <translation type="unfinished"></translation>
+        <translation>Просмотр списка каналов</translation>
     </message>
     <message>
         <source>b_virtualserver_channel_list_long</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Позволяет использовать команду &quot;&lt;b&gt;channellist&lt;/b&gt;&quot;.&lt;/p&gt;, которая выводит список каналов на заданном виртуальном сервере.
+&lt;p style=&apos;white-space:pre&apos;&gt;Для подробной информации, введите команду &quot;&lt;b&gt;help channellist&lt;/b&gt;&quot;
+или обратитесь к руководству ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_virtualserver_channel_search</source>
-        <translation type="unfinished"></translation>
+        <translation>Поиск каналов</translation>
     </message>
     <message>
         <source>b_virtualserver_channel_search_long</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Позволяет использовать команду &quot;&lt;b&gt;channelfind&lt;/b&gt;&quot;.&lt;/p&gt;, которая выполняет поиск каналов на заданном виртуальном сервере.
+&lt;p style=&apos;white-space:pre&apos;&gt;Для подробной информации, введите команду &quot;&lt;b&gt;help channelfind&lt;/b&gt;&quot;
+или обратитесь к руководству ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_virtualserver_client_list</source>
-        <translation type="unfinished"></translation>
+        <translation>Просмотр списка клиентов сервера</translation>
     </message>
     <message>
         <source>b_virtualserver_client_list_long</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Позволяет использовать команду &quot;&lt;b&gt;clientlist&lt;/b&gt;&quot;.&lt;/p&gt;, которая отображает подробный список подключенных к серверу клиентов.
+&lt;p style=&apos;white-space:pre&apos;&gt;Для подробной информации, введите команду &quot;&lt;b&gt;help clientlist&lt;/b&gt;&quot;
+или обратитесь к руководству ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_virtualserver_client_search</source>
-        <translation type="unfinished"></translation>
+        <translation>Поиск клиентов</translation>
     </message>
     <message>
         <source>b_virtualserver_client_search_long</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p style=&apos;white-space:nowrap&apos;&gt;Позволяет использовать команду &quot;&lt;b&gt;clientfind&lt;/b&gt;&quot;.&lt;/p&gt;, которая по заданному фильтру выводит спискок найденных клиентов.
+&lt;p style=&apos;white-space:pre&apos;&gt;Для подробной информации, введите команду &quot;&lt;b&gt;help clientfind&lt;/b&gt;&quot;
+или обратитесь к руководству ts3_serverquery_manual.pdf&lt;/p&gt;</translation>
     </message>
     <message>
         <source>b_virtualserver_client_dblist</source>
