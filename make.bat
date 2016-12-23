@@ -13,11 +13,14 @@ set TS=%~dp0translations\
 set F1=lagos_ru
 set F2=error_report_ru
 set F3=permissions_ru
+set F4=update_ru
 cd %MK%
 
 lrelease "%RL%%F1%.ts" -qm "%TS%%F1%.qm"
 lrelease "%RL%%F2%.ts" -qm "%TS%%F2%.qm"
 lrelease "%RL%%F3%.ts" -qm "%TS%%F3%.qm"
+lrelease "%RL%%F4%.ts" -qm "%TS%%F4%.qm"
 
+copy /Y "%TS%*.*" "D:\usr\x\ts3client\translations"
 exit
 
