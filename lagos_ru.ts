@@ -5576,7 +5576,7 @@ Current: %1</source>
     </message>
     <message>
         <source>S&amp;elf</source>
-        <translation>&lt;&lt;[   Я   ]&gt;&gt;</translation>
+        <translation>&lt;[   Я   ]&gt;</translation>
     </message>
     <message>
         <source>Per&amp;missions</source>
@@ -10377,7 +10377,7 @@ Do you want to apply your changes?</source>
     <name>UpdateDialog</name>
     <message>
         <source>Update available</source>
-        <translation>Есть обновление</translation>
+        <translation>Доступно обновление программы</translation>
     </message>
     <message>
         <source>Do you want to update?
