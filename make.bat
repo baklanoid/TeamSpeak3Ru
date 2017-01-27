@@ -21,6 +21,6 @@ lrelease "%RL%%F2%.ts" -qm "%TS%%F2%.qm"
 lrelease "%RL%%F3%.ts" -qm "%TS%%F3%.qm"
 lrelease "%RL%%F4%.ts" -qm "%TS%%F4%.qm"
 
-copy /Y "%TS%*.*" "D:\usr\x\ts3client\translations"
+copy /Y "%TS%*.*" "%APPDATA%\ts3client\translations"
 exit
 

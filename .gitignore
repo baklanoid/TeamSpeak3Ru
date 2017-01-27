@@ -1,5 +1,6 @@
 # my
 *.swp
+ts3client_portable/
 
 # Windows image file caches
 Thumbs.db

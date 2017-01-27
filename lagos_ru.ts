@@ -712,7 +712,7 @@ for example: voice.teamspeak.com:9987</source>
     </message>
     <message>
         <source>Hotkey Profile:</source>
-        <translation>Горячая клавиша Профиля:</translation>
+        <translation>Горячие клавиши:</translation>
     </message>
     <message>
         <source>Server &amp;Password:</source>
@@ -743,8 +743,8 @@ for example: voice.teamspeak.com:9987</source>
         <translation>Профиль воспроизведения используемый на данном сервере</translation>
     </message>
     <message>
-        <source>Default Channel &amp;Password:</source>
-        <translation>Пароль для канала по-умолчанию:</translation>
+        <source>Channel &amp;Password:</source>
+        <translation>Пароль канала:</translation>
     </message>
     <message>
         <source>Password of default channel (optional)</source>
@@ -1136,7 +1136,7 @@ servers will not be cleared.</source>
     </message>
     <message>
         <source>Configure the Chat Tabs</source>
-        <translation>Настроить вкладки Чата</translation>
+        <translation>Конфигурация чатов</translation>
     </message>
 </context>
 <context>
@@ -11588,8 +11588,16 @@ Hint: Hold down SHIFT if you want to add channels recursively</source>
 <context>
     <name>WhisperSetup</name>
     <message>
+        <source>Whisper</source>
+        <translation>Шепталки</translation>
+    </message>
+    <message>
+        <source>Configure Whispering</source>
+        <translation>Конфигурация</translation>
+    </message>
+    <message>
         <source>Permissions for Received Whispers</source>
-        <translation>Привилегии входящих шепталок</translation>
+        <translation>Привилегии входящих</translation>
     </message>
     <message>
         <source>Check individual whisper settings in contacts. If the client is not listed, allow whispering.</source>
@@ -11597,7 +11605,7 @@ Hint: Hold down SHIFT if you want to add channels recursively</source>
     </message>
     <message>
         <source>Use individual settings in contacts, else allow</source>
-        <translation>Личные настройки шепота, если отсутствуют, разрешить</translation>
+        <translation>Персональные настройки контакта, если отсутствуют, то разрешить</translation>
     </message>
     <message>
         <source>Check individual whisper settings in contacts. If the client is not listed, deny whispering.</source>
@@ -11605,7 +11613,7 @@ Hint: Hold down SHIFT if you want to add channels recursively</source>
     </message>
     <message>
         <source>Use individual settings in contacts, else deny</source>
-        <translation>Личные настройки шепота, если отсутствуют, запретить</translation>
+        <translation>Персональные настройки контакта, если отсутствуют, то запретить</translation>
     </message>
     <message>
         <source>Nobody is allowed to whisper to you. Individual contact settings are ignored.</source>
@@ -11617,19 +11625,19 @@ Hint: Hold down SHIFT if you want to add channels recursively</source>
     </message>
     <message>
         <source>Settings for Received Whispers</source>
-        <translation>Настройки для полученых шепталок</translation>
+        <translation>Настройки для входящих</translation>
     </message>
     <message>
         <source>Play notify sound when receiving a whisper</source>
-        <translation>Воспроизвести звук когда приходит шепталка</translation>
+        <translation>Звук</translation>
     </message>
     <message>
         <source>Always show whisper history when receiving a whisper</source>
-        <translation>Отображать историю шепота при получении</translation>
+        <translation>Отображать историю</translation>
     </message>
     <message>
         <source>Remove clients in whisper history after</source>
-        <translation>Удалять клиента из истории шепота</translation>
+        <translation>Удалять историю через</translation>
     </message>
     <message>
         <source> mins</source>
@@ -11637,7 +11645,7 @@ Hint: Hold down SHIFT if you want to add channels recursively</source>
     </message>
     <message>
         <source>Whisper Lists</source>
-        <translation>Шепталки</translation>
+        <translation>Управление</translation>
     </message>
 </context>
 <context>
@@ -13064,7 +13072,7 @@ for example: voice.teamspeak.com:9987</source>
     </message>
     <message>
         <source>One-Time &amp;Privilege Key:</source>
-        <translation>Ключ доступа:</translation>
+        <translation>Одноразовый ключ доступа:</translation>
     </message>
     <message>
         <source>One-time privilege key used after connecting.
@@ -13099,10 +13107,6 @@ Once used, the privilege key will become invalid.</source>
     <message>
         <source>In New &amp;Tab</source>
         <translation>В новой вкладке</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Отменить</translation>
     </message>
 </context>
 <context>
@@ -13172,11 +13176,11 @@ Once used, the privilege key will become invalid.</source>
     </message>
     <message>
         <source>Do not limit</source>
-        <translation>неограничен</translation>
+        <translation>неограничено</translation>
     </message>
     <message>
         <source>Limit to</source>
-        <translation>ограничен</translation>
+        <translation>ограничено</translation>
     </message>
     <message>
         <source>KiB/s</source>
@@ -13281,7 +13285,7 @@ Once used, the privilege key will become invalid.</source>
     </message>
     <message>
         <source>Show away message beside nickname</source>
-        <translation>Отображать сообщение AFK статуса рядом с никнэймом</translation>
+        <translation>Отображать сообщение AFK рядом с никнэймом</translation>
     </message>
     <message>
         <source>Tray Icon</source>
@@ -13410,7 +13414,7 @@ Once used, the privilege key will become invalid.</source>
     </message>
     <message>
         <source>Cleanup</source>
-        <translation>Зачистки</translation>
+        <translation>Кэш</translation>
     </message>
     <message>
         <source>Clear cache when client closes</source>
